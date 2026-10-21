@@ -1,0 +1,562 @@
+[
+  {
+    "from": "gestational age",
+    "to": "preterm birth",
+    "score": 1.0,
+    "reason": "Shorter pregnancy duration directly determines whether birth occurs before 37 completed weeks.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "diagnosis of maternal hypertension during pregnancy",
+    "to": "gestational age",
+    "score": 1.0,
+    "reason": "Hypertensive disorders can lead to medically indicated earlier delivery.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "sex",
+    "to": "cognitive performance",
+    "score": 1.0,
+    "reason": "Sex directly influences neurodevelopmental trajectories and some cognitive test performance.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "ethnicity",
+    "to": "cognitive performance",
+    "score": 1.0,
+    "reason": "Ethnicity can affect language environment, schooling context, and structural opportunities related to cognition.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "sex",
+    "to": "breastfeeding duration",
+    "score": 1.0,
+    "reason": "Infant sex may influence feeding decisions through son preference or perceived nutritional needs.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "ethnicity",
+    "to": "breastfeeding duration",
+    "score": 1.0,
+    "reason": "Ethnic and cultural norms can shape breastfeeding practices and duration.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "breastfeeding duration",
+    "to": "cognitive performance",
+    "score": 1.0,
+    "reason": "Breastfeeding provides bioactive nutrients and repeated mother-infant interaction that support brain development.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "birth size",
+    "to": "cognitive performance",
+    "score": 1.0,
+    "reason": "Restricted fetal growth can impair brain development before birth.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "birth size",
+    "to": "breastfeeding duration",
+    "score": 1.0,
+    "reason": "Smaller newborns may feed less effectively and require alternative feeding approaches.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "birth order",
+    "to": "cognitive performance",
+    "score": 1.0,
+    "reason": "Birth order can affect parental time, language exposure, and educational investment.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "birth order",
+    "to": "breastfeeding duration",
+    "score": 1.0,
+    "reason": "Experience with prior children can change maternal confidence and feeding practices.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline socioeconomic status",
+    "to": "cognitive performance",
+    "score": 1.0,
+    "reason": "Higher socioeconomic position improves nutrition, schooling, and cognitively stimulating environments.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline socioeconomic status",
+    "to": "breastfeeding duration",
+    "score": 1.0,
+    "reason": "Socioeconomic position affects maternity leave, feeding support, and access to formula or breastfeeding resources.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline residence",
+    "to": "cognitive performance",
+    "score": 1.0,
+    "reason": "Residence affects school quality, environmental exposures, and access to services.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline residence",
+    "to": "breastfeeding duration",
+    "score": 1.0,
+    "reason": "Urban-rural context shapes family support, maternity practices, and formula availability.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline parental marital status",
+    "to": "breastfeeding duration",
+    "score": 1.0,
+    "reason": "Partner support and household stability directly affect the mother's ability to continue breastfeeding.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline parental education",
+    "to": "cognitive performance",
+    "score": 1.0,
+    "reason": "More educated parents often provide greater language exposure and cognitive stimulation at home.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline parental education",
+    "to": "baseline parental occupation",
+    "score": 1.0,
+    "reason": "Educational attainment helps determine which occupations and job classes parents can access.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline maternal bleeding during pregnancy",
+    "to": "gestational age",
+    "score": 1.0,
+    "reason": "Antepartum bleeding can trigger early labor or prompt early delivery.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline household income",
+    "to": "cognitive performance",
+    "score": 1.0,
+    "reason": "Higher income enables better nutrition, books, schooling, and educational opportunities.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline parental occupation",
+    "to": "baseline household income",
+    "score": 1.0,
+    "reason": "Occupation influences wages and employment-related income.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline gestational disease",
+    "to": "gestational age",
+    "score": 1.0,
+    "reason": "Pregnancy-related disease can trigger spontaneous or medically indicated preterm delivery.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline parental marital status",
+    "to": "baseline family circumstance",
+    "score": 1.0,
+    "reason": "Parents' union status directly shapes family structure and stability.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "gestational age",
+    "to": "preterm delivery",
+    "score": 0.8,
+    "reason": "Preterm delivery is defined by delivery before 37 completed weeks.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "multiple birth",
+    "to": "gestational age",
+    "score": 0.8,
+    "reason": "Multifetal pregnancies are more likely to end earlier because of obstetric complications and uterine overdistension.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "fetal distress",
+    "to": "mode of delivery",
+    "score": 0.8,
+    "reason": "Fetal distress can prompt operative vaginal delivery or emergency cesarean section.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "gestational age",
+    "to": "cognitive performance",
+    "score": 0.8,
+    "reason": "Shorter gestation increases neurodevelopmental risk by interrupting brain maturation.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "mode of delivery",
+    "to": "breastfeeding duration",
+    "score": 0.8,
+    "reason": "Cesarean or complicated delivery can delay skin-to-skin contact and breastfeeding initiation.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "gestational age",
+    "to": "breastfeeding duration",
+    "score": 0.8,
+    "reason": "Prematurity can reduce sustained breastfeeding through mother-infant separation and feeding difficulties.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "diagnosis of maternal hypertension during pregnancy",
+    "to": "breastfeeding duration",
+    "score": 0.8,
+    "reason": "Maternal illness and complicated peripartum care directly hinder breastfeeding establishment and continuation.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "gestational age",
+    "to": "birth size",
+    "score": 0.8,
+    "reason": "Shorter gestation leaves less time for fetal growth.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "diagnosis of maternal hypertension during pregnancy",
+    "to": "birth size",
+    "score": 0.8,
+    "reason": "Hypertensive disease in pregnancy can reduce fetal growth through placental insufficiency.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "parity",
+    "to": "birth order",
+    "score": 0.8,
+    "reason": "Maternal parity before or at the index birth determines whether the child is first-born or later-born.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline smoking",
+    "to": "cognitive performance",
+    "score": 0.8,
+    "reason": "Prenatal tobacco exposure can impair fetal neurodevelopment.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline smoking",
+    "to": "breastfeeding duration",
+    "score": 0.8,
+    "reason": "Maternal smoking is associated with reduced milk supply and earlier breastfeeding cessation.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline parental occupation",
+    "to": "cognitive performance",
+    "score": 0.8,
+    "reason": "Parental occupation affects household resources and the child's social and learning environment.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline parental marital status",
+    "to": "cognitive performance",
+    "score": 0.8,
+    "reason": "Marital stability affects stress and developmental resources within the household.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline parental education",
+    "to": "breastfeeding duration",
+    "score": 0.8,
+    "reason": "More educated parents are more likely to know and follow breastfeeding guidance.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline parental age",
+    "to": "parity",
+    "score": 0.8,
+    "reason": "Older maternal age at the index birth generally means more time for prior pregnancies, increasing parity.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline parental age",
+    "to": "cognitive performance",
+    "score": 0.8,
+    "reason": "Parental age is related to parenting maturity and household resources relevant to child development.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline parental age",
+    "to": "baseline parental marital status",
+    "score": 0.8,
+    "reason": "Parental age affects the likelihood of being in a stable union at the child's birth.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline household income",
+    "to": "breastfeeding duration",
+    "score": 0.8,
+    "reason": "Household income affects maternity leave, employment pressures, and resources that support breastfeeding.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline household income",
+    "to": "baseline public assistance participation",
+    "score": 0.8,
+    "reason": "Lower-income households are more likely to qualify for and need public assistance.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline household income",
+    "to": "baseline household asset",
+    "score": 0.8,
+    "reason": "Higher income enables acquisition of household goods and material resources.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline household income",
+    "to": "baseline house ownership",
+    "score": 0.8,
+    "reason": "Higher income makes it easier to buy and keep a home.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline home language",
+    "to": "cognitive performance",
+    "score": 0.8,
+    "reason": "Home language can affect performance on language-dependent cognitive tests.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline gestational disease",
+    "to": "birth size",
+    "score": 0.8,
+    "reason": "Maternal disease during pregnancy can impair placental function and fetal growth.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline geographic region",
+    "to": "cognitive performance",
+    "score": 0.8,
+    "reason": "Geographic region affects school quality, health services, and developmental opportunities.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline household income",
+    "to": "baseline electricity access",
+    "score": 0.8,
+    "reason": "Income helps pay for electrical connection and ongoing use.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline household income",
+    "to": "baseline drinking water source",
+    "score": 0.8,
+    "reason": "Income improves access to safer or purchased water sources.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline household income",
+    "to": "baseline cooking fuel",
+    "score": 0.8,
+    "reason": "Higher income supports a shift toward cleaner commercial cooking fuels.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "multiple birth",
+    "to": "mode of delivery",
+    "score": 0.6,
+    "reason": "Multifetal presentation and obstetric risk increase the likelihood of operative delivery.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "multiple birth",
+    "to": "low birth weight",
+    "score": 0.6,
+    "reason": "Multiple gestation increases the risk of low birth weight through earlier delivery and growth constraints.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "diagnosis of maternal hypertension during pregnancy",
+    "to": "mode of delivery",
+    "score": 0.6,
+    "reason": "Hypertensive pregnancy increases the need for operative delivery.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "fetal distress",
+    "to": "cognitive performance",
+    "score": 0.6,
+    "reason": "Fetal hypoxia during labor can directly injure the brain.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "diagnosis of maternal hypertension during pregnancy",
+    "to": "cognitive performance",
+    "score": 0.6,
+    "reason": "Hypertensive placental insufficiency may impair fetal brain development.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "birth size",
+    "to": "small for gestational age",
+    "score": 0.6,
+    "reason": "Smaller birth size directly determines whether the infant is classified below gestational-age growth standards.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "multiple birth",
+    "to": "birth size",
+    "score": 0.6,
+    "reason": "Shared intrauterine resources in multiple gestation can reduce fetal growth.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "birth size",
+    "to": "low birth weight",
+    "score": 0.6,
+    "reason": "Smaller size at birth makes low birth weight more likely.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline parental occupation",
+    "to": "breastfeeding duration",
+    "score": 0.6,
+    "reason": "Parental work conditions and job flexibility affect time and opportunity to continue breastfeeding.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline parental occupation",
+    "to": "baseline socioeconomic status",
+    "score": 0.6,
+    "reason": "Parental occupation is a direct component of socioeconomic position through employment rank and material resources.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline parental education",
+    "to": "baseline socioeconomic status",
+    "score": 0.6,
+    "reason": "Educational attainment is a direct component and determinant of socioeconomic position.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline parental age",
+    "to": "breastfeeding duration",
+    "score": 0.6,
+    "reason": "Parental age directly affects breastfeeding through maternal maturity and prior caregiving experience.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline obstetric complication",
+    "to": "mode of delivery",
+    "score": 0.6,
+    "reason": "Obstetric complications create indications for assisted or cesarean delivery.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline maternal height",
+    "to": "birth size",
+    "score": 0.6,
+    "reason": "Maternal height influences uterine size and fetal growth potential.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline maternal employment status",
+    "to": "breastfeeding duration",
+    "score": 0.6,
+    "reason": "Maternal employment affects time available and workplace feasibility for continued breastfeeding.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline socioeconomic status",
+    "to": "baseline household social deprivation",
+    "score": 0.6,
+    "reason": "Lower socioeconomic position contributes directly to material and social deprivation.",
+    "votes": "A→B:1, B→A:3, None:1"
+  },
+  {
+    "from": "baseline socioeconomic status",
+    "to": "baseline household asset",
+    "score": 0.6,
+    "reason": "Higher socioeconomic position is associated with greater accumulated material resources.",
+    "votes": "A→B:1, B→A:3, None:1"
+  },
+  {
+    "from": "baseline socioeconomic status",
+    "to": "baseline house ownership",
+    "score": 0.6,
+    "reason": "Greater economic resources directly increase the ability to own a home.",
+    "votes": "A→B:1, B→A:3, None:1"
+  },
+  {
+    "from": "ethnicity",
+    "to": "baseline home language",
+    "score": 0.6,
+    "reason": "Ethnic background directly shapes the primary language spoken at home.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "baseline gestational disease",
+    "to": "breastfeeding duration",
+    "score": 0.6,
+    "reason": "Maternal pregnancy disease directly complicates postpartum recovery and feeding establishment.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline geographic region",
+    "to": "breastfeeding duration",
+    "score": 0.6,
+    "reason": "Regional norms, health-service practices, and formula availability can influence breastfeeding duration.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline geographic region",
+    "to": "baseline residence",
+    "score": 0.6,
+    "reason": "Broader geographic region helps determine local residence options and urban-rural context.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline socioeconomic status",
+    "to": "baseline electricity access",
+    "score": 0.6,
+    "reason": "Higher socioeconomic position directly enables connection to electrical infrastructure.",
+    "votes": "A→B:1, B→A:3, None:1"
+  },
+  {
+    "from": "baseline residence",
+    "to": "baseline electricity access",
+    "score": 0.6,
+    "reason": "Urban versus rural residence affects access to electrical infrastructure.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "baseline socioeconomic status",
+    "to": "baseline drinking water source",
+    "score": 0.6,
+    "reason": "Higher socioeconomic position directly enables access to improved drinking water.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "baseline residence",
+    "to": "baseline drinking water source",
+    "score": 0.6,
+    "reason": "Residence location determines which water systems are available to the household.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "baseline socioeconomic status",
+    "to": "baseline cooking fuel",
+    "score": 0.6,
+    "reason": "Socioeconomic advantage increases access to cleaner, more expensive cooking fuels.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "baseline residence",
+    "to": "baseline cooking fuel",
+    "score": 0.6,
+    "reason": "Residence affects the availability of biomass versus commercial fuels.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "gestational age",
+    "to": "Apgar score",
+    "score": 0.6,
+    "reason": "Prematurity can lower Apgar score because of physiologic immaturity.",
+    "votes": "A→B:0, B→A:3, None:2"
+  }
+]

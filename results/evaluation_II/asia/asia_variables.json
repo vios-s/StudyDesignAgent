@@ -1,0 +1,10 @@
+[
+  { "variable": "Dyspnoea" },
+  { "variable": "Tuberculosis" },
+  { "variable": "Lung cancer" },
+  { "variable": "Bronchitis" },
+  { "variable": "Visit to Asia" },
+  { "variable": "Smoking" },
+  { "variable": "Chest X-ray" },
+  { "variable": "Tuberculosis versus lung cancer/bronchitis" }
+]

@@ -1,0 +1,828 @@
+[
+  {
+    "from": "prophylactic antibiotic exposure",
+    "to": "prophylactic antibiotic dose",
+    "score": 1.0,
+    "reason": "Prescription determines the prophylactic dose.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "prophylactic antibiotic exposure",
+    "to": "prophylactic antibiotic adherence",
+    "score": 1.0,
+    "reason": "adherence is downstream of being prescribed prophylaxis",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "prophylactic antibiotic dose",
+    "to": "prophylactic antibiotic adherence",
+    "score": 1.0,
+    "reason": "Dose burden affects ability to adhere.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "urinary tract abnormality",
+    "to": "history of recurrent UTI",
+    "score": 1.0,
+    "reason": "stasis or reflux promotes repeated infection",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "sex",
+    "to": "history of recurrent UTI",
+    "score": 1.0,
+    "reason": "Female urinary anatomy and hormonal milieu predispose to recurrent infection.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "history of recurrent UTI",
+    "to": "prophylactic antibiotic exposure",
+    "score": 1.0,
+    "reason": "recurrent UTI is the main indication for prophylaxis",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "obstetric history",
+    "to": "history of recurrent UTI",
+    "score": 1.0,
+    "reason": "Obstetric injury can impair voiding and promote recurrence.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "menopausal status",
+    "to": "history of recurrent UTI",
+    "score": 1.0,
+    "reason": "estrogen deficiency alters vaginal and urinary defenses",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "history of antibiotic prophylaxis exposure",
+    "to": "prophylactic antibiotic exposure",
+    "score": 1.0,
+    "reason": "prior prophylaxis supports continuation or restart",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "ethnicity",
+    "to": "social deprivation",
+    "score": 1.0,
+    "reason": "Ethnicity can shape social-structural disadvantage.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline urine culture result",
+    "to": "baseline urine culture isolate identification",
+    "score": 1.0,
+    "reason": "organism identification requires culture growth",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline urine culture isolate identification",
+    "to": "baseline urine culture isolate antibiotic susceptibility pattern",
+    "score": 1.0,
+    "reason": "Susceptibility testing is performed on the identified isolate.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline urine culture isolate antibiotic susceptibility pattern",
+    "to": "baseline urine culture isolate antibiotic resistance",
+    "score": 1.0,
+    "reason": "Resistance classification is derived from susceptibility results.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline sexually active",
+    "to": "history of recurrent UTI",
+    "score": 1.0,
+    "reason": "Intercourse mechanically introduces periurethral bacteria.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline prophylactic antibiotic type",
+    "to": "prophylactic antibiotic dose",
+    "score": 1.0,
+    "reason": "Agent choice determines standard dosing.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "history of antibiotic prophylaxis exposure",
+    "to": "baseline prophylactic antibiotic exposure duration",
+    "score": 1.0,
+    "reason": "prior prophylaxis contributes to cumulative duration",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline prophylactic antibiotic dose consistency",
+    "to": "prophylactic antibiotic adherence",
+    "score": 1.0,
+    "reason": "Stable regimens are easier to follow.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "obstetric history",
+    "to": "baseline incontinence material use",
+    "score": 1.0,
+    "reason": "Childbirth can weaken pelvic floor support.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline incontinence material use",
+    "to": "history of recurrent UTI",
+    "score": 1.0,
+    "reason": "perineal contamination promotes ascending infection",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline drug allergy",
+    "to": "baseline prophylactic antibiotic type",
+    "score": 1.0,
+    "reason": "allergy constrains agent choice",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "diabetes mellitus",
+    "to": "baseline complicated UTI",
+    "score": 1.0,
+    "reason": "Diabetes impairs host defense and bladder function.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline immunosuppression",
+    "to": "baseline complicated UTI",
+    "score": 1.0,
+    "reason": "Reduced immune clearance makes infection more complicated.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "urinary tract abnormality",
+    "to": "baseline catheter use",
+    "score": 1.0,
+    "reason": "Urinary obstruction or dysfunction can necessitate catheter drainage.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline catheter use",
+    "to": "baseline complicated UTI",
+    "score": 1.0,
+    "reason": "catheter-associated infection is classified as complicated",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "baseline antibiotic exposure",
+    "to": "baseline urine culture isolate antibiotic resistance",
+    "score": 1.0,
+    "reason": "recent antibiotics enrich resistant baseline organisms",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "social deprivation",
+    "to": "baseline UTI-related care setting",
+    "score": 1.0,
+    "reason": "deprivation affects access and site of care",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline UTI-related care setting",
+    "to": "prophylactic antibiotic exposure",
+    "score": 1.0,
+    "reason": "Care setting has different prescribing practices.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "frailty",
+    "to": "baseline UTI-related care setting",
+    "score": 1.0,
+    "reason": "frailty influences where care is delivered",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline complicated UTI",
+    "to": "baseline UTI-related care setting",
+    "score": 1.0,
+    "reason": "Complicated infection shifts care to higher-acuity settings.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "history of recurrent UTI",
+    "to": "baseline UTI-related antibiotic prescription frequency",
+    "score": 1.0,
+    "reason": "recurrent episodes trigger repeated antibiotic prescriptions",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline positive urine culture count in previous 12 months",
+    "to": "baseline UTI-related antibiotic prescription frequency",
+    "score": 1.0,
+    "reason": "more confirmed episodes lead to more prescriptions",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "sex",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "sex is a baseline confounder for resistance risk",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "prophylactic antibiotic exposure",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "Prophylactic antibiotics exert sustained selection pressure.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "prophylactic antibiotic adherence",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "actual taken exposure determines realized selection pressure",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "history of antibiotic prophylaxis exposure",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "Long-term prior prophylaxis selects resistant flora.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "frailty",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "Frailty increases institutional exposure and cumulative antibiotics.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "ethnicity",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "Baseline demographic confounder with plausible pathway through differential prior healthcare and antimicrobial exposure.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "diabetes mellitus",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "Repeated infections and antibiotic exposure can select resistance.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline urine culture isolate antibiotic resistance",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "baseline resistant colonization precedes later resistance outcome",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "baseline antibiotic exposure",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "Antibiotics directly select resistant organisms.",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "age",
+    "to": "menopausal status",
+    "score": 1.0,
+    "reason": "Clear biologic temporal cause.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "age",
+    "to": "frailty",
+    "score": 1.0,
+    "reason": "Aging directly reduces physiologic reserve.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "age",
+    "to": "baseline diagnosis of chronic disease",
+    "score": 1.0,
+    "reason": "Chronic disease burden accumulates over time.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "age",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "Age contributes to cumulative exposure and resistance risk.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "UTI-related trimethoprim-sulfamethoxazole exposure",
+    "to": "trimethoprim-sulfamethoxazole dose",
+    "score": 1.0,
+    "reason": "exposure to this agent entails a dose regimen",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "UTI-related trimethoprim-sulfamethoxazole exposure",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "TMP-SMX exposure directly selects resistance determinants.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "diabetes mellitus",
+    "to": "CKD",
+    "score": 1.0,
+    "reason": "diabetic nephropathy causes kidney damage",
+    "votes": "A→B:0, B→A:5, None:0"
+  },
+  {
+    "from": "CKD",
+    "to": "baseline complicated UTI",
+    "score": 1.0,
+    "reason": "CKD increases infection complexity through host-defense and management pathways.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "CKD",
+    "to": "antibiotic resistance",
+    "score": 1.0,
+    "reason": "CKD increases healthcare and antimicrobial exposure.",
+    "votes": "A→B:5, B→A:0, None:0"
+  },
+  {
+    "from": "surgical history",
+    "to": "urinary tract abnormality",
+    "score": 0.8,
+    "reason": "prior surgery can create structural urinary changes",
+    "votes": "A→B:4, B→A:1, None:0"
+  },
+  {
+    "from": "social deprivation",
+    "to": "smoking",
+    "score": 0.8,
+    "reason": "Socioeconomic stress and environment can increase smoking behavior.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "urinary tract abnormality",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "Baseline urinary abnormalities influence prophylaxis decisions.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "social deprivation",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "deprivation alters access and prescribing",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "menopausal status",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "Menopausal recurrence phenotype affects prescribing.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "history of methenamine hippurate exposure",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "failed or prior non-antibiotic prevention can lead to antibiotic prophylaxis",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "frailty",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "frailty influences clinician prevention decisions",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "diabetes mellitus",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "Diabetes-related severity influences prophylaxis prescribing.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "diabetes mellitus",
+    "to": "history of recurrent UTI",
+    "score": 0.8,
+    "reason": "Impaired host defense and bladder dysfunction promote recurrence.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline urine culture isolate antibiotic resistance",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "Baseline resistance affects whether and how prophylaxis is used.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "history of UTI-related antibiotic exposure",
+    "to": "baseline urine culture isolate antibiotic resistance",
+    "score": 0.8,
+    "reason": "Cumulative prior UTI antibiotics select resistant isolates.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "menopausal status",
+    "to": "baseline sexually active",
+    "score": 0.8,
+    "reason": "menopausal stage shapes sexual activity patterns",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "prophylactic antibiotic exposure",
+    "to": "baseline prophylactic antibiotic type",
+    "score": 0.8,
+    "reason": "If prophylaxis is prescribed, a specific agent is selected.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline prophylactic antibiotic type",
+    "to": "baseline prophylactic antibiotic dose consistency",
+    "score": 0.8,
+    "reason": "agent and regimen shape dosing consistency",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline positive urine culture count in previous 12 months",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "high recent microbiologic burden prompts prophylaxis",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "history of recurrent UTI",
+    "to": "baseline positive urine culture count in previous 12 months",
+    "score": 0.8,
+    "reason": "Recurrent episodes generate more positive cultures.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline immunosuppression",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "immunosuppression increases prophylaxis use",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline immunosuppression",
+    "to": "history of recurrent UTI",
+    "score": 0.8,
+    "reason": "Reduced immune clearance permits repeated infection.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline drug allergy",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "Allergy can deter initiation or limit options.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline diagnosis of chronic disease",
+    "to": "frailty",
+    "score": 0.8,
+    "reason": "Multimorbidity contributes directly to frailty.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline concomitant urodynamic-effect drug exposure",
+    "to": "history of recurrent UTI",
+    "score": 0.8,
+    "reason": "Impaired bladder emptying increases residual urine and recurrence.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "urinary tract abnormality",
+    "to": "baseline complicated UTI",
+    "score": 0.8,
+    "reason": "Anatomic abnormalities make UTI more complicated.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline complicated UTI",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "a difficult baseline course can prompt prevention",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "surgical history",
+    "to": "baseline catheter use",
+    "score": 0.8,
+    "reason": "Postsurgical retention or diversion can require catheterization.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline catheter use",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "recurrent catheter-associated episodes can prompt prophylaxis",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline catheter use",
+    "to": "history of recurrent UTI",
+    "score": 0.8,
+    "reason": "biofilm and persistent colonization promote recurrence",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline catheter use",
+    "to": "baseline urine culture result",
+    "score": 0.8,
+    "reason": "catheterization increases baseline bacteriuria",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline catheter use",
+    "to": "baseline urine culture isolate identification",
+    "score": 0.8,
+    "reason": "Catheters favor specific healthcare-associated organisms.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "social deprivation",
+    "to": "baseline alcohol use",
+    "score": 0.8,
+    "reason": "deprivation can increase alcohol use through stress coping",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline UTI-related antibiotic prescription frequency",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "frequent episodic treatment can trigger switch to prophylaxis",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline UTI-related antibiotic prescription frequency",
+    "to": "history of UTI-related antibiotic exposure",
+    "score": 0.8,
+    "reason": "Repeated prescriptions accumulate into prior exposure history.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline BMI",
+    "to": "diabetes mellitus",
+    "score": 0.8,
+    "reason": "higher adiposity drives insulin resistance",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "baseline BMI",
+    "to": "baseline incontinence material use",
+    "score": 0.8,
+    "reason": "obesity contributes to stress incontinence",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "urinary tract abnormality",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "persistent abnormality leads to repeated antibiotic-treated episodes",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "trimethoprim-sulfamethoxazole dose",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "Greater dose intensity increases selective pressure.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "social deprivation",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "deprivation can increase fragmented antibiotic exposure and resistant organism exposure",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "prophylactic antibiotic dose",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "dose intensity changes selection pressure",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "menopausal status",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "menopausal recurrence patterns can increase cumulative antibiotic exposure",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "history of UTI-related antibiotic exposure",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "Repeated prior courses create sustained selection pressure.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline prophylactic antibiotic type",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "different agents exert distinct selective pressure",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline immunosuppression",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "repeated antimicrobial treatment selects resistance",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline complicated UTI",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "Instrumentation, treatment failure, and broad-spectrum therapy promote resistance.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline catheter use",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "Catheters promote biofilm persistence and repeated treatment.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "baseline UTI-related antibiotic prescription frequency",
+    "to": "antibiotic resistance",
+    "score": 0.8,
+    "reason": "Repeated prescribing creates antimicrobial selection pressure.",
+    "votes": "A→B:0, B→A:4, None:1"
+  },
+  {
+    "from": "CKD",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.8,
+    "reason": "Renal disease alters preventive prescribing decisions.",
+    "votes": "A→B:4, B→A:0, None:1"
+  },
+  {
+    "from": "sex",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.6,
+    "reason": "Sex is a baseline demographic determinant of treatment assignment.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "history of UTI-related antibiotic exposure",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.6,
+    "reason": "Extensive prior use signals refractory recurrence and prompts prophylaxis.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "history of UTI-related antibiotic exposure",
+    "to": "history of antibiotic prophylaxis exposure",
+    "score": 0.6,
+    "reason": "Prior UTI antibiotic management can include prophylaxis.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "ethnicity",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.6,
+    "reason": "Ethnicity is a baseline demographic determinant of treatment assignment.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "history of recurrent UTI",
+    "to": "baseline time between recurrent UTI diagnosis and prophylactic antibiotic initiation",
+    "score": 0.6,
+    "reason": "recurrent UTI diagnosis defines the start of this interval",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "baseline sexually active",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.6,
+    "reason": "Sexual-triggered recurrence motivates prophylaxis.",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "baseline urine culture isolate antibiotic resistance",
+    "to": "baseline prophylactic antibiotic type",
+    "score": 0.6,
+    "reason": "Existing resistance narrows effective prophylactic options.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "prophylactic antibiotic exposure",
+    "to": "baseline prophylactic antibiotic dose consistency",
+    "score": 0.6,
+    "reason": "Dose-consistency pattern exists only once prophylaxis is prescribed.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "frailty",
+    "to": "baseline incontinence material use",
+    "score": 0.6,
+    "reason": "Frailty causes continence and mobility problems.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "baseline diagnosis of chronic disease",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.6,
+    "reason": "multimorbidity affects prescribing threshold",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "frailty",
+    "to": "baseline catheter use",
+    "score": 0.6,
+    "reason": "frailty-related immobility and dependence increase catheter need",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "history of UTI-related antibiotic exposure",
+    "to": "baseline antibiotic exposure",
+    "score": 0.6,
+    "reason": "prior treatment history increases recent exposure likelihood",
+    "votes": "A→B:1, B→A:3, None:1"
+  },
+  {
+    "from": "baseline positive urine culture count in previous 12 months",
+    "to": "antibiotic resistance",
+    "score": 0.6,
+    "reason": "More prior infections lead to more prior antibiotic selection pressure.",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "baseline diagnosis of chronic disease",
+    "to": "antibiotic resistance",
+    "score": 0.6,
+    "reason": "multimorbidity increases healthcare utilization and antibiotic exposure",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "baseline UTI-related care setting",
+    "to": "antibiotic resistance",
+    "score": 0.6,
+    "reason": "care setting changes exposure to resistant flora and broad-spectrum therapy",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "age",
+    "to": "surgical history",
+    "score": 0.6,
+    "reason": "more lifetime opportunity for prior surgery",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "age",
+    "to": "prophylactic antibiotic exposure",
+    "score": 0.6,
+    "reason": "age affects prescribing decisions",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "age",
+    "to": "obstetric history",
+    "score": 0.6,
+    "reason": "life-course ordering",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "age",
+    "to": "diabetes mellitus",
+    "score": 0.6,
+    "reason": "risk accumulates with aging",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "age",
+    "to": "baseline weight",
+    "score": 0.6,
+    "reason": "age affects baseline body weight",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "age",
+    "to": "baseline incontinence material use",
+    "score": 0.6,
+    "reason": "aging contributes to continence problems",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "age",
+    "to": "baseline catheter use",
+    "score": 0.6,
+    "reason": "older age increases retention and disability requiring catheterization",
+    "votes": "A→B:3, B→A:0, None:2"
+  },
+  {
+    "from": "history of UTI-related antibiotic exposure",
+    "to": "UTI-related trimethoprim-sulfamethoxazole exposure",
+    "score": 0.6,
+    "reason": "specific TMP-SMX use is a subtype of prior UTI-related antibiotic use",
+    "votes": "A→B:0, B→A:3, None:2"
+  },
+  {
+    "from": "age",
+    "to": "CKD",
+    "score": 0.6,
+    "reason": "renal function declines with aging",
+    "votes": "A→B:0, B→A:3, None:2"
+  }
+]

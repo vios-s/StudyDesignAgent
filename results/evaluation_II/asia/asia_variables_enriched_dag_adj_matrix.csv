@@ -1,0 +1,9 @@
+,Bronchitis,Chest X-ray,Dyspnoea,Lung cancer,Smoking,Tuberculosis,Tuberculosis versus lung cancer/bronchitis,Visit to Asia
+Bronchitis,0,1,1,0,0,0,1,0
+Chest X-ray,0,0,0,0,0,0,1,0
+Dyspnoea,0,1,0,0,0,0,1,0
+Lung cancer,0,1,1,0,0,0,1,0
+Smoking,1,1,1,1,0,0,0,0
+Tuberculosis,0,1,1,0,0,0,1,0
+Tuberculosis versus lung cancer/bronchitis,0,0,0,0,0,0,0,0
+Visit to Asia,0,0,0,0,0,1,1,0

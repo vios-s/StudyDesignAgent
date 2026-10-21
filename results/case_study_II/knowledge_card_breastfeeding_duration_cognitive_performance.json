@@ -1,0 +1,902 @@
+[
+  {
+    "term": "baseline cognitive stimulation",
+    "knowledge card": "Type: clinical assessment/intervention concept. Description: 'Baseline cognitive stimulation' refers to documenting a person’s starting level of cognitive function and/or exposure to cognitive stimulation before later comparison. In clinical use, a baseline cognitive profile is an initial benchmark or snapshot of thinking abilities such as memory, attention, and concentration. Cognitive stimulation refers to activities or interventions designed to engage thinking, memory, and concentration, often used in older adults or people with cognitive impairment. Together, the term usually indicates the initial reference point for cognitive function or stimulation status before treatment, monitoring, or follow-up."
+  },
+  {
+    "term": "baseline infant age",
+    "knowledge card": "Type: demographic/clinical baseline variable. Description: 'Baseline infant age' refers to the age of an infant at the starting point of a clinical study, assessment, or intervention. It is used as an initial reference characteristic for describing the study population and for comparing outcomes over time. In clinical usage, an infant generally refers to a child in the first year of life, although some contexts may extend this definition up to 24 months."
+  },
+  {
+    "term": "baseline age",
+    "knowledge card": "Type: demographic/clinical baseline variable. Description: 'Baseline age' refers to a person’s age at the beginning of a study, clinical assessment, or treatment period. It is used as a reference characteristic to describe the population at study entry and to support later comparisons of outcomes over time. In research and clinical documentation, baseline means the initial measurement taken before follow-up or intervention."
+  },
+  {
+    "term": "baseline caregiver age",
+    "knowledge card": "{\n  \"variable\": \"baseline caregiver age\",\n  \"knowledge card\": \"Type\": \"demographic/clinical baseline variable\",\n  \"knowledge card\": \"Description: 'Baseline caregiver age' refers to the age of a caregiver at the start of a study, assessment, or intervention. It is recorded as an initial demographic characteristic to describe the caregiver population and to support comparison of outcomes over time. In research and clinical documentation, baseline indicates the first measurement taken before follow-up or treatment.\"\n}"
+  },
+  {
+    "term": "baseline neonatal morbidity",
+    "knowledge card": "Type: clinical baseline outcome/health status variable. Description: 'Baseline neonatal morbidity' refers to the presence or level of illness, complications, or adverse health conditions in a newborn at the start of a study, assessment, or clinical observation period. Neonatal morbidity includes medical problems occurring during the neonatal period, typically the first 28 days of life. As a baseline variable, it is used to describe the newborn’s initial health status before follow-up, treatment, or outcome comparison."
+  },
+  {
+    "term": "baseline eating disability",
+    "knowledge card": "Type: functional status/clinical baseline variable. Description: 'Baseline eating disability' refers to impairment in a person’s ability to eat independently or normally at the start of a study, clinical assessment, or intervention. This may include difficulty with self-feeding, chewing, swallowing, or managing nutrition-related tasks. As a baseline variable, it is used to document the person’s initial functional status before follow-up or treatment."
+  },
+  {
+    "term": "baseline paternal smoking",
+    "knowledge card": "Type: exposure/history baseline variable. Description: 'Baseline paternal smoking' refers to the smoking status or tobacco exposure history of the father at the start of a study, pregnancy observation period, or clinical assessment. It is recorded as an initial exposure characteristic to describe the study population and to examine possible associations with later health outcomes in the child, family, or father. Baseline indicates the measurement taken before follow-up or outcome assessment."
+  },
+  {
+    "term": "baseline gestational disease",
+    "knowledge card": "Type: maternal clinical baseline condition. Description: 'Baseline gestational disease' refers to the presence or history of a pregnancy-related disease at the start of a study, pregnancy assessment, or clinical observation period. In medical usage, gestational disease may refer broadly to conditions arising during pregnancy; in some contexts, it may specifically refer to gestational trophoblastic disease, a group of rare pregnancy-related tumors arising from abnormal placental tissue. As a baseline variable, it records the initial maternal disease status before follow-up or outcome assessment."
+  },
+  {
+    "term": "processing speed",
+    "knowledge card": "Type: cognitive function/mental process. Description: Processing speed is the rate at which a person takes in, interprets, and responds to information. It reflects how efficiently the brain can identify, discriminate, integrate, and act on visual or verbal stimuli. In clinical and neuropsychological contexts, processing speed is an important measure of cognitive performance and may be reduced in conditions affecting attention, brain function, or aging."
+  },
+  {
+    "term": "baseline maternal marital status",
+    "knowledge card": "Type: demographic/social baseline variable. Description: 'Baseline maternal marital status' refers to the mother’s marital status at the start of a study, pregnancy assessment, or clinical observation period. It is recorded as an initial social and demographic characteristic, such as married, single, divorced, or widowed, and may be used to describe the study population or assess associations with maternal and child health outcomes. Baseline indicates the measurement taken before follow-up or outcome assessment."
+  },
+  {
+    "term": "sex",
+    "knowledge card": "Type: organism attribute/demographic variable. Description: Sex is a biological classification based on reproductive structure and related characteristics, including phenotype and genotype, that differentiate male and female organisms. In medical and research contexts, sex is recorded as a basic demographic and biological attribute because it can influence physiology, disease patterns, and treatment response."
+  },
+  {
+    "term": "behavioral problem",
+    "knowledge card": "Type: mental or behavioral dysfunction. Description: A behavioral problem is a troublesome, disruptive, or inappropriate pattern of behavior. It may include actions that complicate situations or interfere with social functioning, but it does not necessarily indicate a formal behavioral disorder. In clinical contexts, the term is used to describe behaviors that are concerning or disruptive and may require assessment or support."
+  },
+  {
+    "term": "baseline house ownership",
+    "knowledge card": "Type: socioeconomic/demographic baseline variable. Description: 'Baseline house ownership' refers to whether a person or household owns their home at the start of a study, assessment, or intervention. It is recorded as an initial socioeconomic characteristic and may be used to describe housing status, social conditions, or economic stability before follow-up or outcome measurement."
+  },
+  {
+    "term": "preterm birth",
+    "knowledge card": "Type: obstetric/neonatal clinical condition. Description: Preterm birth is the birth of a baby before 37 completed weeks of gestation. It is a clinically important pregnancy outcome because babies born preterm are at higher risk of complications related to organ immaturity, illness, and death compared with term infants."
+  },
+  {
+    "term": "baseline obstetric complication",
+    "knowledge card": "Type: maternal clinical baseline condition. Description: 'Baseline obstetric complication' refers to the presence of a pregnancy- or childbirth-related medical complication at the start of a study, clinical assessment, or observation period. Obstetric complications are conditions affecting the mother or pregnancy during gestation, labor, delivery, or the immediate postpartum period. As a baseline variable, this term captures the initial complication status before follow-up or outcome assessment."
+  },
+  {
+    "term": "baseline expressed maternal breast milk proportion",
+    "knowledge card": "Type: feeding/nutrition baseline variable. Description: 'Baseline expressed maternal breast milk proportion' refers to the proportion of an infant’s feeds that consist of the mother’s own breast milk given in expressed form at the start of a study, assessment, or intervention. Expressed maternal breast milk is milk removed by hand or pump and then fed to the infant rather than directly at the breast. As a baseline variable, it describes the infant’s initial feeding pattern before follow-up or outcome comparison."
+  },
+  {
+    "term": "baseline head circumference z-score",
+    "knowledge card": "Type: anthropometric/growth baseline variable. Description: 'Baseline head circumference z-score' refers to the standardized value of an individual’s head circumference at the start of a study or clinical assessment, expressed relative to a reference population. A z-score shows how far the measurement is above or below the population mean in standard deviation units, adjusted for factors such as age, sex, and sometimes gestational age. As a baseline variable, it is used to describe initial growth or head size status before follow-up."
+  },
+  {
+    "term": "baseline valid breastfeeding and achievement test score information",
+    "knowledge card": "Type: study data quality/eligibility variable. Description: 'Baseline valid breastfeeding and achievement test score information' refers to whether usable and valid data on breastfeeding history and achievement test scores were available at the start of a study or analysis. It is typically used as a data completeness or participant eligibility variable to identify records suitable for baseline description and later outcome comparison."
+  },
+  {
+    "term": "baseline measurement at cognitive testing",
+    "knowledge card": "Type: assessment/timepoint variable. Description: 'Baseline measurement at cognitive testing' refers to the initial measurement obtained during cognitive assessment before any follow-up, intervention, or comparison over time. It serves as the starting reference point for evaluating cognitive abilities such as memory, attention, reasoning, or processing speed."
+  },
+  {
+    "term": "baseline paternal occupation",
+    "knowledge card": "Type: demographic/socioeconomic baseline variable. Description: 'Baseline paternal occupation' refers to the father’s job, employment category, or occupational status at the start of a study, assessment, or observation period. It is recorded as an initial socioeconomic characteristic and may be used to describe the study population or examine associations with social, environmental, or health-related outcomes."
+  },
+  {
+    "term": "vision problem severity",
+    "knowledge card": "Type: clinical symptom/functional impairment measure. Description: Vision problem severity refers to the degree or intensity of visual impairment or eye-related difficulty. It is used to describe how seriously vision problems affect sight or daily functioning, ranging from mild difficulty to severe impairment."
+  },
+  {
+    "term": "baseline parental warmth",
+    "knowledge card": "Type: psychosocial/family environment baseline variable. Description: 'Baseline parental warmth' refers to the level of affection, support, responsiveness, and positive emotional behavior shown by a parent at the start of a study or assessment. It is used as an initial measure of the parent-child relationship and family environment before follow-up or intervention."
+  },
+  {
+    "term": "neonatal feeding difficulty",
+    "knowledge card": "Type: neonatal clinical problem. Description: Neonatal feeding difficulty refers to problems with a newborn’s ability to feed effectively during the neonatal period. It may involve poor sucking, swallowing, coordination, oral intake, or tolerance of feeding, and can interfere with adequate nutrition, breastfeeding success, growth, and hospital discharge."
+  },
+  {
+    "term": "verbal fluency test result",
+    "knowledge card": "Type: cognitive test result/neuropsychological measure. Description: A verbal fluency test result is the score or performance outcome from a test that measures how quickly and effectively a person can generate words under specific rules, such as naming words in a category or beginning with a certain letter within a set time. It is used to assess language function, memory retrieval, and executive functioning, and can help screen for cognitive impairment."
+  },
+  {
+    "term": "baseline social deprivation",
+    "knowledge card": "Type: social determinant/socioeconomic baseline variable. Description: 'Baseline social deprivation' refers to the level of social disadvantage present at the start of a study, assessment, or intervention. It may reflect limited social resources, poorer living conditions, reduced access to services, or broader social and economic hardship. As a baseline variable, it is used to describe initial social conditions before follow-up or outcome comparison."
+  },
+  {
+    "term": "baseline milk type",
+    "knowledge card": "Type: feeding/nutrition baseline variable. Description: 'Baseline milk type' refers to the type of milk an infant is receiving at the start of a study, assessment, or intervention. This may include direct breast milk, expressed breast milk, donor human milk, formula, or mixed feeding. As a baseline variable, it describes the infant’s initial feeding pattern before follow-up or outcome comparison."
+  },
+  {
+    "term": "overall cognitive ability",
+    "knowledge card": "Type: cognitive function/mental capacity. Description: Overall cognitive ability refers to a person’s general capacity to think, learn, understand, remember, reason, and solve problems. It represents broad mental functioning across multiple domains, such as attention, memory, language, and executive skills, and is often used to summarize global cognitive performance."
+  },
+  {
+    "term": "fetal distress",
+    "knowledge card": "Type: obstetric/fetal clinical condition. Description: Fetal distress refers to a nonreassuring fetal status indicating that the fetus may be compromised, often because of inadequate oxygenation during pregnancy or labor. It is identified by signs such as abnormal fetal heart rate patterns, poor fetal blood oxygenation, or other concerning clinical findings, and it signals the need for prompt obstetric evaluation."
+  },
+  {
+    "term": "pattern reasoning test result",
+    "knowledge card": "Type: cognitive test result/neuropsychological measure. Description: A pattern reasoning test result is the score or performance outcome from an assessment of a person’s ability to recognize relationships, identify visual or logical patterns, and solve nonverbal reasoning problems. It is used to evaluate aspects of fluid reasoning, abstract thinking, and general cognitive ability."
+  },
+  {
+    "term": "baseline family circumstance",
+    "knowledge card": "Type: social/demographic baseline variable. Description: 'Baseline family circumstance' refers to the family’s situation or living conditions at the start of a study, assessment, or intervention. It may include factors such as household composition, caregiving arrangements, relationship status, financial situation, or overall home environment. As a baseline variable, it describes initial family context before follow-up or outcome assessment."
+  },
+  {
+    "term": "baseline diagnosis of hypertension",
+    "knowledge card": "Type: clinical baseline condition/diagnostic history variable. Description: 'Baseline diagnosis of hypertension' refers to whether a person had a documented diagnosis of hypertension at the start of a study, assessment, or treatment period. Hypertension is persistently elevated blood pressure, commonly diagnosed from repeated blood pressure readings such as 130/80 mmHg or higher depending on the guideline used. As a baseline variable, it records the individual’s initial disease status before follow-up or outcome assessment."
+  },
+  {
+    "term": "performance IQ",
+    "knowledge card": "Type: cognitive test score/neuropsychological measure. Description: Performance IQ is an intelligence test score that reflects nonverbal cognitive abilities, especially visual-spatial processing, pattern analysis, and problem-solving. It is derived from performance-based tasks rather than language-heavy tasks and is used to assess aspects of reasoning and general intellectual functioning."
+  },
+  {
+    "term": "baseline maternal bleeding during pregnancy",
+    "knowledge card": "Type: maternal clinical baseline condition. Description: 'Baseline maternal bleeding during pregnancy' refers to whether the mother had bleeding during pregnancy at the start of a study, assessment, or observation period. Bleeding during pregnancy is a clinical sign with multiple possible causes, ranging from relatively minor conditions to serious obstetric complications. As a baseline variable, it records the mother’s initial bleeding status before follow-up or outcome assessment."
+  },
+  {
+    "term": "baseline necrotizing enterocolitis",
+    "knowledge card": "Type: neonatal clinical baseline condition. Description: 'Baseline necrotizing enterocolitis' refers to whether a newborn had necrotizing enterocolitis at the start of a study, assessment, or observation period. Necrotizing enterocolitis is a serious inflammatory disease of the intestine, most often seen in premature infants, and can lead to intestinal injury or tissue death. As a baseline variable, it records the infant’s initial disease status before follow-up or outcome comparison."
+  },
+  {
+    "term": "baseline time to achieve enteral feeding",
+    "knowledge card": "Type: nutrition/feeding clinical variable. Description: 'Baseline time to achieve enteral feeding' refers to the recorded number of days needed to reach a defined enteral feeding target, documented at the start of a study dataset or clinical evaluation as a reference characteristic. Enteral feeding means delivering nutrition through the gastrointestinal tract, either by mouth or feeding tube. The target may be defined by a full feeding volume or consistent breastfeeding, depending on the study protocol."
+  },
+  {
+    "term": "baseline bedroom count",
+    "knowledge card": "Type: housing/socioeconomic baseline variable. Description: 'Baseline bedroom count' refers to the number of bedrooms in a household at the start of a study, assessment, or intervention. It is used as an initial housing characteristic and may help describe living conditions, household crowding, or socioeconomic context before follow-up or outcome assessment."
+  },
+  {
+    "term": "baseline social class",
+    "knowledge card": "Type: socioeconomic/demographic baseline variable. Description: 'Baseline social class' refers to a person’s or family’s social class at the start of a study, assessment, or intervention. It is an initial socioeconomic characteristic that may be based on factors such as income, education, occupation, or related indicators of social position. As a baseline variable, it is used to describe social context before follow-up or outcome assessment."
+  },
+  {
+    "term": "baseline spoon number per meal",
+    "knowledge card": "Type: feeding/nutrition baseline variable. Description: 'Baseline spoon number per meal' refers to the number of spoonfuls of food usually given or consumed during a meal at the start of a study, assessment, or intervention. It is used as an initial measure of feeding amount or eating pattern, especially in infant, child, or nutrition-related research, before follow-up or outcome comparison."
+  },
+  {
+    "term": "baseline maternal social status",
+    "knowledge card": "Type: social determinant/socioeconomic baseline variable. Description: 'Baseline maternal social status' refers to the mother’s social position at the start of a study, pregnancy assessment, or clinical observation period. It may be described using factors such as income, education, occupation, insurance, or other indicators of socioeconomic standing. As a baseline variable, it is used to characterize initial social conditions that may influence maternal and child health outcomes."
+  },
+  {
+    "term": "Wechsler Intelligence Scale for Children IV result",
+    "knowledge card": "Type: cognitive test result/intelligence assessment measure. Description: A Wechsler Intelligence Scale for Children IV (WISC-IV) result is the score profile obtained from a standardized intelligence test used to assess cognitive functioning in children. It provides measures of overall intellectual ability and specific domains such as verbal comprehension, perceptual reasoning, working memory, and processing speed."
+  },
+  {
+    "term": "baseline bottle-feeding duration",
+    "knowledge card": "Type: feeding/nutrition baseline variable. Description: 'Baseline bottle-feeding duration' refers to the length of time an infant has been bottle-fed, or the typical duration of bottle-feeding exposure, at the start of a study, assessment, or intervention. It is used to describe the infant’s initial feeding history or pattern before follow-up or outcome comparison."
+  },
+  {
+    "term": "psychosomatic problem",
+    "knowledge card": "Type: mental and physical health-related problem. Description: A psychosomatic problem refers to physical symptoms or bodily complaints that are influenced by psychological factors such as stress, anxiety, or emotional distress. The term highlights the interaction between mind and body, where mental or emotional states can contribute to the development, worsening, or persistence of physical symptoms."
+  },
+  {
+    "term": "baseline drinking water source",
+    "knowledge card": "Type: environmental/social determinant baseline variable. Description: 'Baseline drinking water source' refers to the main source of water used for drinking at the start of a study, assessment, or intervention. Examples may include piped water, well water, surface water, bottled water, or other supply sources. As a baseline variable, it is used to describe initial environmental and household conditions before follow-up or outcome assessment."
+  },
+  {
+    "term": "baseline smoking",
+    "knowledge card": "Type: exposure/history baseline variable. Description: 'Baseline smoking' refers to a person’s smoking status or tobacco use history at the start of a study, assessment, or treatment period. It may include whether the person currently smokes, smoked previously, or has never smoked, and may also capture amount or frequency of use. As a baseline variable, it records initial tobacco exposure before follow-up or outcome assessment."
+  },
+  {
+    "term": "baseline parental education and occupation",
+    "knowledge card": "Type: socioeconomic/demographic baseline variable. Description: 'Baseline parental education and occupation' refers to the parents’ educational attainment and job or employment status at the start of a study, assessment, or intervention. These characteristics are commonly used to describe family socioeconomic position and may help explain differences in child development, health, or social outcomes before follow-up."
+  },
+  {
+    "term": "baseline intraventricular hemorrhage grade",
+    "knowledge card": "Type: clinical severity grade / assessment finding. Description: 'Baseline intraventricular hemorrhage grade' refers to the initial classification of the severity of intraventricular hemorrhage at the starting time point of evaluation, usually based on imaging such as cranial ultrasound. Intraventricular hemorrhage is graded by the extent of bleeding and its effects: grade 1 involves a small area near the ventricles, grade 2 includes blood within the ventricles, grade 3 includes ventricular enlargement caused by blood, and grade 4 includes bleeding into the surrounding brain tissue. The term therefore describes the patient's starting hemorrhage severity before follow-up or treatment comparisons."
+  },
+  {
+    "term": "perceptual reasoning",
+    "knowledge card": "Type: cognitive assessment construct / psychological test score. Description: Perceptual reasoning is a composite measure, commonly used in the Wechsler Adult Intelligence Scale, that evaluates nonverbal and real-time reasoning abilities. It reflects how well a person can analyze visual information, use visual-spatial skills, organize thoughts, solve problems, and test solutions without relying heavily on language."
+  },
+  {
+    "term": "baseline mealtime distraction use",
+    "knowledge card": "Type: behavioral assessment variable. Description: 'Baseline mealtime distraction use' refers to the extent or frequency of using distractions during meals at the initial assessment time point, before any intervention or follow-up. In clinical or research settings, this may describe whether a person uses activities or external stimuli during eating, such as conversation, screens, toys, or other attention-diverting strategies, to influence the mealtime experience."
+  },
+  {
+    "term": "baseline intention for replacement feeding",
+    "knowledge card": "Type: clinical or study baseline plan variable. Description: 'Baseline intention for replacement feeding' refers to the initial plan or stated intention, measured at the start of care or study enrollment, to use replacement feeding instead of the usual feeding method. In maternal-child health contexts, replacement feeding commonly means providing an infant with a breast-milk substitute rather than breastfeeding. The term captures planned feeding approach at baseline before follow-up or intervention."
+  },
+  {
+    "term": "baseline parental age",
+    "knowledge card": "Type: demographic baseline variable. Description: 'Baseline parental age' refers to the age of a parent recorded at the initial assessment or starting point of a clinical study, survey, or care episode. It is used as a demographic characteristic to describe the study population and to support comparison with later measurements or outcomes."
+  },
+  {
+    "term": "baseline residence location",
+    "knowledge card": "Type: demographic baseline variable. Description: 'Baseline residence location' refers to the place where a person lives as recorded at the initial assessment or start of a study, program, or care period. It is used to describe the participant’s geographic or living setting at baseline, such as home area, community, region, or urban/rural residence, before follow-up or intervention."
+  },
+  {
+    "term": "baseline emotional support",
+    "knowledge card": "{\n  \"variable\": \"baseline emotional support\",\n  \"knowledge card\": \"Type\": \"psychosocial baseline variable. Description: 'Baseline emotional support' refers to the level or availability of emotional support a person has at the initial assessment or start of a study or care period. It typically reflects support from family, friends, caregivers, or social networks that provides comfort, encouragement, empathy, and help with coping before any intervention or follow-up.\"\n}"
+  },
+  {
+    "term": "baseline household income",
+    "knowledge card": "Type: socioeconomic baseline variable. Description: 'Baseline household income' refers to the total household income recorded at the initial assessment or start of a study, program, or care period. It is used as a baseline socioeconomic characteristic to describe participants and to examine how income at study entry may relate to later outcomes."
+  },
+  {
+    "term": "baseline electricity access",
+    "knowledge card": "Type: household infrastructure baseline variable. Description: 'Baseline electricity access' refers to whether a person or household has access to electrical power at the initial assessment or start of a study or program. It is used as a baseline living-condition measure to describe the participant’s environment before follow-up or intervention."
+  },
+  {
+    "term": "baseline maternal education",
+    "knowledge card": "Type: demographic/socioeconomic baseline variable. Description: 'Baseline maternal education' refers to the mother's level of educational attainment recorded at the initial assessment or start of a study, program, or care period. It is used as a baseline characteristic to describe the population and to assess how maternal education may relate to health, developmental, or social outcomes."
+  },
+  {
+    "term": "baseline household size",
+    "knowledge card": "Type: demographic baseline variable. Description: 'Baseline household size' refers to the number of people living in a household at the initial assessment or start of a study, program, or care period. It is used as a baseline characteristic to describe the participant’s living situation before follow-up or intervention."
+  },
+  {
+    "term": "baseline solid food feeding method",
+    "knowledge card": "Type: feeding practice baseline variable. Description: 'Baseline solid food feeding method' refers to the way solid foods are being offered or administered at the initial assessment or start of a study or care period. It describes the participant’s starting approach to solid feeding, such as spoon-feeding, self-feeding, or another method, before any intervention or follow-up."
+  },
+  {
+    "term": "parity",
+    "knowledge card": "Type: obstetric finding. Description: Parity refers to the number of pregnancies that have reached a defined gestational age for viability, commonly 20 weeks or more, regardless of whether the infants were born alive or stillborn and regardless of the number of fetuses. It is distinct from gravidity, which counts the total number of pregnancies."
+  },
+  {
+    "term": "baseline maternal characteristic",
+    "knowledge card": "Type: maternal baseline variable. Description: 'Baseline maternal characteristic' refers to any maternal attribute recorded at the initial assessment or start of a study or care period. This may include demographic, clinical, behavioral, social, or reproductive factors, and it is used to describe the mother’s status before follow-up, treatment, or intervention."
+  },
+  {
+    "term": "birth weight z-score",
+    "knowledge card": "Type: neonatal growth measurement. Description: Birth weight z-score is a standardized measure showing how an infant’s birth weight compares with the expected birth weight in a reference population, usually adjusted for gestational age and sometimes sex. It expresses how many standard deviations the birth weight is above or below the population mean, helping assess whether the infant is smaller or larger than expected at birth."
+  },
+  {
+    "term": "exclusive breastfeeding duration",
+    "knowledge card": "Type: feeding practice variable. Description: Exclusive breastfeeding duration refers to the length of time an infant receives only breast milk, without other liquids or foods, except for oral rehydration solution, vitamins, minerals, or medicines if needed. It measures how long exclusive breastfeeding is maintained, typically reported in days, weeks, or months."
+  },
+  {
+    "term": "baseline province",
+    "knowledge card": "Type: geographic baseline variable. Description: 'Baseline province' refers to the province or first-level administrative region recorded for a participant at the initial assessment or start of a study, program, or care period. It is used to describe the participant’s geographic location at baseline before follow-up or intervention."
+  },
+  {
+    "term": "impulsivity",
+    "knowledge card": "Type: mental or behavioral trait/symptom. Description: Impulsivity refers to a tendency to act quickly without adequate planning, forethought, or consideration of consequences. It can affect decision-making, emotional control, and behavior, and may be seen as a personality trait or as a feature of psychiatric or neurodevelopmental conditions."
+  },
+  {
+    "term": "baseline parity",
+    "knowledge card": "Type: obstetric baseline variable. Description: 'Baseline parity' refers to a woman's parity status recorded at the initial assessment or start of a study or care period. Parity is the number of pregnancies that have reached a viable gestational age, regardless of the number of fetuses or whether the infants were born alive or stillborn. This baseline measure describes prior childbearing history before follow-up or intervention."
+  },
+  {
+    "term": "reasoning",
+    "knowledge card": "Type: mental process. Description: Reasoning is the cognitive process of thinking in a coherent and logical way to interpret information, draw conclusions, solve problems, and make judgments. It is a core aspect of higher mental functioning used in everyday decision-making and clinical cognitive assessment."
+  },
+  {
+    "term": "baseline geographic region",
+    "knowledge card": "Type: geographic baseline variable. Description: 'Baseline geographic region' refers to the broader geographic area associated with a participant at the initial assessment or start of a study, program, or care period. It is used to describe location at baseline, such as a region, zone, or area of residence, before follow-up or intervention."
+  },
+  {
+    "term": "baseline force feeding",
+    "knowledge card": "Type: feeding practice baseline variable. Description: 'Baseline force feeding' refers to whether force feeding is present, reported, or practiced at the initial assessment or start of a study or care period. It describes the baseline use of feeding in which food is given despite resistance or without voluntary cooperation, before any intervention or follow-up."
+  },
+  {
+    "term": "baseline diagnosis of maternal hypertension during pregnancy",
+    "knowledge card": "Type: maternal clinical baseline variable. Description: 'Baseline diagnosis of maternal hypertension during pregnancy' refers to whether the mother had a diagnosis of hypertension recorded at the initial assessment or study entry during pregnancy. This may include chronic hypertension, gestational hypertension, or hypertensive disorders of pregnancy, and it is used to describe maternal health status before follow-up or outcome assessment."
+  },
+  {
+    "term": "baseline infant feeding",
+    "knowledge card": "Type: feeding practice baseline variable. Description: 'Baseline infant feeding' refers to the infant’s feeding pattern recorded at the initial assessment or start of a study or care period. It describes the starting method of feeding, such as breastfeeding, formula feeding, mixed feeding, or the introduction of complementary foods, before follow-up or intervention."
+  },
+  {
+    "term": "major congenital anomaly",
+    "knowledge card": "Type: congenital abnormality. Description: A major congenital anomaly is a structural or functional defect of prenatal origin that is present in utero, at live birth, or at fetal demise, and that affects or is likely to affect health, survival, or physical or cognitive functioning. These anomalies usually have important medical, functional, or developmental consequences."
+  },
+  {
+    "term": "baseline caregiver education",
+    "knowledge card": "Type: demographic/socioeconomic baseline variable. Description: 'Baseline caregiver education' refers to the educational attainment or schooling level of a caregiver as recorded at the initial assessment or start of a study, program, or care period. It is used as a baseline characteristic to describe the caregiver’s background before follow-up or intervention."
+  },
+  {
+    "term": "d prime",
+    "knowledge card": "Type: psychometric/statistical measure. Description: d-prime (d′) is a measure from signal detection theory that quantifies how well a person can distinguish a target signal from background noise. Higher d-prime values indicate better perceptual sensitivity or discrimination ability, independent of response bias."
+  },
+  {
+    "term": "baseline breastfeeding duration",
+    "knowledge card": "Type: feeding practice baseline variable. Description: 'Baseline breastfeeding duration' refers to the amount of time breastfeeding has occurred or is planned to occur as recorded at the initial assessment or start of a study or care period. It is used to describe breastfeeding exposure at baseline before follow-up or intervention, typically measured in days, weeks, or months."
+  },
+  {
+    "term": "baseline ventilation duration",
+    "knowledge card": "Type: clinical baseline variable. Description: 'Baseline ventilation duration' refers to the length of time a patient has been receiving ventilatory support at the initial assessment or study entry. It is used to describe the starting duration of mechanical or assisted ventilation before follow-up, treatment comparison, or outcome analysis."
+  },
+  {
+    "term": "maternal age",
+    "knowledge card": "Type: demographic/obstetric characteristic. Description: Maternal age refers to the age of the mother during pregnancy or at the time the pregnancy occurs. It is an important maternal characteristic commonly used in obstetric, neonatal, and epidemiologic assessment."
+  },
+  {
+    "term": "baseline household child count",
+    "knowledge card": "Type: demographic baseline variable. Description: 'Baseline household child count' refers to the number of children living in the household at the initial assessment or start of a study, program, or care period. It is used as a baseline characteristic to describe the household composition before follow-up or intervention."
+  },
+  {
+    "term": "baseline food refusal at meal onset",
+    "knowledge card": "Type: feeding behavior baseline variable. Description: 'Baseline food refusal at meal onset' refers to the presence, frequency, or severity of refusing food at the beginning of a meal as measured at the initial assessment or start of a study or care period. It describes the individual's starting feeding behavior before follow-up or intervention."
+  },
+  {
+    "term": "working memory",
+    "knowledge card": "Type: mental process. Description: Working memory is the cognitive ability to temporarily hold and use information for a short period, from seconds to hours. It supports reasoning, learning, problem-solving, and the guidance of behavior by allowing information to be stored and mentally manipulated."
+  },
+  {
+    "term": "baseline methyldopa exposure",
+    "knowledge card": "Type: medication exposure baseline variable. Description: 'Baseline methyldopa exposure' refers to whether a patient was receiving or had been exposed to methyldopa at the initial assessment or start of a study or care period. Methyldopa is an antihypertensive medication, commonly used during pregnancy, and this variable describes treatment status before follow-up or intervention."
+  },
+  {
+    "term": "baseline age at follow-up",
+    "knowledge card": "Type: temporal/demographic study variable. Description: 'Baseline age at follow-up' refers to the participant’s age used as a reference in relation to a follow-up assessment, typically indicating the age recorded at the study baseline before later follow-up measurements. It serves as a timing or demographic variable for interpreting changes over time."
+  },
+  {
+    "term": "baseline urban-rural residence",
+    "knowledge card": "Type: geographic/demographic baseline variable. Description: 'Baseline urban-rural residence' refers to whether a participant lives in an urban or rural area at the initial assessment or start of a study, program, or care period. It is used to describe the participant’s residential setting at baseline before follow-up or intervention."
+  },
+  {
+    "term": "hyperactivity index",
+    "knowledge card": "Type: behavioral assessment score. Description: Hyperactivity index refers to a rating or summary score used to quantify the level of hyperactive behavior, such as excessive activity, restlessness, and difficulty remaining still. It is commonly used in behavioral or psychological assessment to measure symptom severity."
+  },
+  {
+    "term": "baseline weight",
+    "knowledge card": "Type: clinical measurement / organism attribute. Description: Baseline weight refers to a person’s body weight recorded at the initial assessment or starting point of a study, treatment, or observation period. It serves as the reference value against which later weight changes are compared."
+  },
+  {
+    "term": "verbal comprehension",
+    "knowledge card": "Type: cognitive assessment construct. Description: Verbal comprehension refers to the ability to understand, interpret, and reason using spoken language and word-based knowledge. It reflects skills such as vocabulary, verbal concept formation, understanding of verbal information, and expression of learned knowledge, and is commonly measured in intelligence and neuropsychological testing."
+  },
+  {
+    "term": "memory",
+    "knowledge card": "Type: mental process. Description: Memory is the mental process of encoding, storing, retaining, and retrieving information. It allows a person to learn from experience, recall past information, and recognize previously encountered people, events, or facts."
+  },
+  {
+    "term": "baseline cooking fuel",
+    "knowledge card": "Type: household environment baseline variable. Description: 'Baseline cooking fuel' refers to the primary type of fuel used for cooking at the initial assessment or start of a study, program, or care period. It describes the household’s starting cooking energy source, such as electricity, gas, kerosene, charcoal, wood, or other biomass fuels, before follow-up or intervention."
+  },
+  {
+    "term": "congenital malformation",
+    "knowledge card": "Type: congenital abnormality. Description: Congenital malformation is a structural abnormality that develops before birth and is present at birth. It results from abnormal formation of a body part or organ during embryonic or fetal development and may range from minor to major in clinical significance."
+  },
+  {
+    "term": "retrieval and application of knowledge",
+    "knowledge card": "Type: cognitive function / mental process. Description: Retrieval and application of knowledge refers to the ability to recall previously learned information and use it appropriately to understand situations, solve problems, make decisions, or perform tasks. It is an important aspect of higher cognitive functioning and learning."
+  },
+  {
+    "term": "small for gestational age",
+    "knowledge card": "Type: neonatal growth finding. Description: Small for gestational age describes a newborn whose size, most commonly birth weight, is smaller than expected for the infant’s sex and gestational age. It is typically defined as birth weight below the 10th percentile for gestational age, or in some references as more than two standard deviations below the mean."
+  },
+  {
+    "term": "perceptual matching",
+    "knowledge card": "Type: cognitive function / perceptual process. Description: Perceptual matching refers to the ability to compare visual or sensory information and determine whether stimuli are the same, similar, or correspond to a known pattern. It is used in cognitive assessment to evaluate perceptual discrimination, pattern recognition, and visual processing."
+  },
+  {
+    "term": "baseline singleton birth",
+    "knowledge card": "Type: obstetric/demographic research term. Description: 'Baseline singleton birth' refers to a single-infant birth used as a reference or starting pregnancy/birth event in a clinical or epidemiologic dataset. 'Singleton birth' means one baby was born, not a multiple birth such as twins or triplets. 'Baseline' indicates that this birth is the initial observation or comparison point for later analysis, such as assessing outcomes in subsequent pregnancies. The available references did not provide a formal UMLS definition for this exact term, so this description is based on the standard medical meaning of 'singleton birth' and the common research use of 'baseline' in clinical studies."
+  },
+  {
+    "term": "baseline poor sucking and chewing ability",
+    "knowledge card": "Type: clinical assessment finding / feeding difficulty term. Description: 'Baseline poor sucking and chewing ability' refers to reduced ability to suck or chew effectively at the initial or reference point of a clinical evaluation. It is used to describe a patient's starting level of oral-motor or feeding function before treatment, follow-up, or comparison over time. Poor sucking and chewing ability may indicate difficulty with feeding, swallowing coordination, neuromuscular control, or developmental function. The available references did not provide a formal UMLS definition for this exact phrase, so this card reflects the standard clinical meaning of the component terms."
+  },
+  {
+    "term": "gestational age at birth",
+    "knowledge card": "Type: clinical finding / obstetric measurement. Description: Gestational age at birth is the duration of the pregnancy when the baby is born, usually expressed in completed weeks. It indicates how far the pregnancy had progressed at delivery and is used to classify births as preterm, term, or post-term and to assess newborn risk and development."
+  },
+  {
+    "term": "baseline maternal smoking during pregnancy",
+    "knowledge card": "Type: maternal exposure / clinical history variable. Description: 'Baseline maternal smoking during pregnancy' refers to whether, or to what extent, a mother smoked tobacco during pregnancy at the initial or reference point of a study or clinical assessment. It is commonly recorded as a baseline exposure because smoking during pregnancy is associated with adverse pregnancy and birth outcomes, including impaired fetal growth and preterm birth. The available references did not provide a formal UMLS definition for this exact phrase, so this description reflects the standard clinical meaning of the component terms."
+  },
+  {
+    "term": "single birth",
+    "knowledge card": "Type: obstetric finding / birth classification. Description: A single birth is a birth in which one infant is delivered in a pregnancy, as opposed to a multiple birth such as twins or triplets. It is used as a standard classification in obstetrics, perinatal care, and population health records."
+  },
+  {
+    "term": "baseline breastfeeding method",
+    "knowledge card": "{\n  \"variable\": \"baseline breastfeeding method\",\n  \"knowledge card\": \"Type\": \"clinical/demographic feeding variable\",\n  \"knowledge card\": \"Description: 'Baseline breastfeeding method' refers to the way an infant is being fed at the initial or reference time point of a clinical assessment or study. It typically records whether feeding is direct breastfeeding, expressed breast milk, mixed feeding, or another method. This variable is used to describe starting feeding practices before follow-up or intervention.\"\n}"
+  },
+  {
+    "term": "baseline exclusive breastfeeding duration",
+    "knowledge card": "Type: feeding history variable. Description: 'Baseline exclusive breastfeeding duration' refers to the length of time an infant has been fed only breast milk, measured at the initial or reference point of a clinical assessment or study. Exclusive breastfeeding means the infant receives breast milk without other foods or liquids, except medically indicated supplements or medicines. This variable is used to describe starting feeding history before follow-up or intervention."
+  },
+  {
+    "term": "full scale IQ",
+    "knowledge card": "Type: cognitive assessment measure. Description: Full Scale IQ is a composite score that summarizes overall intellectual functioning based on standardized intelligence testing, commonly from instruments such as the Wechsler scales. It combines performance across multiple cognitive domains and is used to estimate general cognitive ability relative to population norms."
+  },
+  {
+    "term": "reading performance",
+    "knowledge card": "Type: cognitive/educational performance measure. Description: Reading performance refers to how well a person reads, including skills such as word recognition, fluency, comprehension, and accuracy. In clinical, developmental, or research settings, it is used to assess literacy-related functioning and may help evaluate learning, language, or neurocognitive ability."
+  },
+  {
+    "term": "breastfeeding duration",
+    "knowledge card": "Type: feeding history variable. Description: Breastfeeding duration is the length of time an infant receives breast milk. It may refer to exclusive breastfeeding only or to the total period of breastfeeding, including breastfeeding continued alongside complementary foods."
+  },
+  {
+    "term": "baseline house construction characteristic",
+    "knowledge card": "Type: environmental or housing exposure variable. Description: 'Baseline house construction characteristic' refers to structural features of a home recorded at the initial or reference point of a study or assessment. Examples can include building materials, roofing, flooring, wall type, ventilation, or other construction-related attributes. This variable is commonly used to describe living conditions that may influence health, safety, or environmental exposure."
+  },
+  {
+    "term": "baseline breastfeeding data completeness",
+    "knowledge card": "Type: data quality variable. Description: 'Baseline breastfeeding data completeness' refers to whether breastfeeding-related information collected at the initial or reference time point is fully recorded and sufficiently complete for analysis. It is used in research and clinical datasets to assess the quality and usability of baseline breastfeeding data."
+  },
+  {
+    "term": "baseline parent householder",
+    "knowledge card": "Type: demographic or household variable. Description: 'Baseline parent householder' refers to the parent identified as the householder at the initial or reference point of a study or assessment. A householder is the person recognized as the primary head or reference member of the household. This variable is used to describe household structure and caregiving context at baseline."
+  },
+  {
+    "term": "baseline maternal literacy",
+    "knowledge card": "Type: maternal sociodemographic or educational variable. Description: 'Baseline maternal literacy' refers to a mother's reading and writing ability as recorded at the initial or reference point of a study or assessment. It is commonly used to describe educational status and may influence health communication, caregiving practices, and maternal and child health outcomes."
+  },
+  {
+    "term": "baseline BMI",
+    "knowledge card": "Type: anthropometric measurement. Description: Baseline BMI refers to a person's body mass index measured at the initial or reference point of a clinical assessment or study. BMI is calculated as weight in kilograms divided by height in meters squared and is commonly used to classify body size categories and assess weight-related health risk at baseline."
+  },
+  {
+    "term": "word order test result",
+    "knowledge card": "Type: language or cognitive test measure. Description: A word order test result is the score or outcome from an assessment that evaluates a person's ability to understand, recall, or organize words in the correct sequence. It is used in language, developmental, or neurocognitive evaluation to measure aspects of syntax, verbal processing, and related cognitive skills."
+  },
+  {
+    "term": "baseline living with biological mother",
+    "knowledge card": "Type: household or family structure variable. Description: 'Baseline living with biological mother' refers to whether a child was living with their biological mother at the initial or reference point of a study or assessment. It is used to describe family living arrangements and caregiving context at baseline."
+  },
+  {
+    "term": "learning problem",
+    "knowledge card": "Type: mental or behavioral dysfunction / educational difficulty. Description: A learning problem refers to difficulty acquiring, understanding, or using academic skills such as reading, writing, reasoning, attention, or mathematics. In clinical or developmental contexts, it may indicate a cognitive, behavioral, or neurodevelopmental issue that interferes with learning and school performance."
+  },
+  {
+    "term": "multiple birth",
+    "knowledge card": "Type: obstetric finding / birth classification. Description: Multiple birth refers to the birth of more than one fetus from a single pregnancy, such as twins, triplets, or higher-order multiples. It includes fetuses born live or dead, regardless of gestational age or whether delivery occurred on different dates."
+  },
+  {
+    "term": "baseline cup feeding exposure",
+    "knowledge card": "Type: feeding exposure variable. Description: 'Baseline cup feeding exposure' refers to whether an infant had been fed using a cup at the initial or reference point of a clinical assessment or study. Cup feeding is an alternative feeding method in which milk is given from a small cup rather than directly from the breast or a bottle. This variable is used to describe early feeding experience at baseline."
+  },
+  {
+    "term": "baseline young mother",
+    "knowledge card": "Type: maternal demographic variable. Description: 'Baseline young mother' refers to maternal young age recorded at the initial or reference point of a study or assessment. It is typically used to identify whether the mother falls within a younger age category, often for analysis of social, developmental, or health-related outcomes."
+  },
+  {
+    "term": "atlantis test result",
+    "knowledge card": "Type: test outcome variable. Description: 'Atlantis test result' refers to the score or recorded outcome from an assessment called the Atlantis test. In research or developmental datasets, it is used as a measured result from that specific instrument. The available references did not provide a formal definition of the test itself, so the exact domain assessed by the Atlantis test cannot be confirmed from the provided sources."
+  },
+  {
+    "term": "anxiety",
+    "knowledge card": "Type: mental or behavioral dysfunction. Description: Anxiety is a feeling of fear, dread, apprehension, or uneasiness, often accompanied by physical symptoms such as restlessness, tension, sweating, rapid heartbeat, nausea, chest discomfort, or shortness of breath. It can be a normal response to stress, but when persistent or severe it may interfere with daily functioning and be part of an anxiety disorder."
+  },
+  {
+    "term": "baseline family income",
+    "knowledge card": "Type: socioeconomic or demographic variable. Description: 'Baseline family income' refers to the total household or family income recorded at the initial or reference point of a study or assessment. It is used to describe socioeconomic status at baseline and may help explain differences in health, development, or access to resources."
+  },
+  {
+    "term": "baseline primary school attendance duration",
+    "knowledge card": "Type: educational history variable. Description: 'Baseline primary school attendance duration' refers to the amount of time a child has attended primary school, measured at the initial or reference point of a study or assessment. It is used to describe early educational exposure before follow-up or comparison over time."
+  },
+  {
+    "term": "baseline primary caregiver employment",
+    "knowledge card": "Type: socioeconomic or caregiver status variable. Description: 'Baseline primary caregiver employment' refers to the employment status of the main person responsible for a child or dependent at the initial or reference point of a study or assessment. It is used to describe caregiver socioeconomic context at baseline, such as whether the caregiver is employed, unemployed, or engaged in other work arrangements."
+  },
+  {
+    "term": "cognitive flexibility",
+    "knowledge card": "Type: mental process. Description: Cognitive flexibility is the ability to adapt thinking and behavior in response to changing tasks, rules, information, or environmental demands. It is an important aspect of executive function and helps a person shift strategies, consider alternatives, and respond appropriately to new situations."
+  },
+  {
+    "term": "baseline maternal pregnancy status",
+    "knowledge card": "Type: maternal reproductive status variable. Description: 'Baseline maternal pregnancy status' refers to whether a woman is pregnant, and sometimes the stage or condition of the pregnancy, at the initial or reference point of a study or clinical assessment. It is used to describe maternal reproductive status at baseline before follow-up or intervention."
+  },
+  {
+    "term": "baseline postmenstrual age",
+    "knowledge card": "Type: neonatal or developmental age measurement. Description: 'Baseline postmenstrual age' refers to postmenstrual age recorded at the initial or reference point of a clinical assessment or study. Postmenstrual age is the time from the first day of the mother's last menstrual period to the current date, combining gestational age at birth and the infant's chronological age after birth."
+  },
+  {
+    "term": "baseline maternal parity",
+    "knowledge card": "Type: maternal reproductive history variable. Description: 'Baseline maternal parity' refers to the number of previous pregnancies carried by a mother to a viable gestational age, recorded at the initial or reference point of a study or assessment. It is used to describe maternal reproductive history at baseline."
+  },
+  {
+    "term": "verbal IQ",
+    "knowledge card": "Type: cognitive assessment measure. Description: Verbal IQ is a score from standardized intelligence testing that estimates verbal reasoning and language-based intellectual ability. It reflects skills such as understanding words, using language concepts, verbal comprehension, and reasoning with verbally presented information."
+  },
+  {
+    "term": "baseline length z-score",
+    "knowledge card": "Type: anthropometric measurement. Description: 'Baseline length z-score' refers to a person's length measurement, usually an infant or child's recumbent length, standardized relative to a reference population and recorded at the initial or reference point of assessment. A z-score shows how far the measured length is above or below the population mean in standard deviation units, helping evaluate growth status at baseline."
+  },
+  {
+    "term": "baseline cognitive outcome availability",
+    "knowledge card": "Type: data availability or study variable. Description: 'Baseline cognitive outcome availability' refers to whether cognitive outcome data are present and usable at the initial or reference point of a study or assessment. It is a data-related variable used to indicate if baseline cognitive measurements are available for analysis."
+  },
+  {
+    "term": "inattention",
+    "knowledge card": "Type: mental or behavioral dysfunction. Description: Inattention refers to reduced ability to focus, sustain concentration, or attend to tasks and stimuli appropriately. It may appear as distractibility, difficulty following instructions, forgetfulness, or trouble completing tasks, and is commonly assessed in developmental, psychiatric, and neurocognitive evaluations."
+  },
+  {
+    "term": "baseline supplementation time",
+    "knowledge card": "Type: treatment or exposure timing variable. Description: 'Baseline supplementation time' refers to the timing or duration of a supplement exposure recorded at the initial or reference point of a study or clinical assessment. It is used to describe when supplementation began, how long it had been used, or its timing relative to baseline measurement."
+  },
+  {
+    "term": "baseline bronchopulmonary dysplasia",
+    "knowledge card": "Type: neonatal disease/history variable. Description: 'Baseline bronchopulmonary dysplasia' refers to the presence or status of bronchopulmonary dysplasia at the initial or reference point of a study or clinical assessment. Bronchopulmonary dysplasia is a chronic lung disease of premature infants associated with disrupted lung development and lung injury, often related to respiratory support and prematurity."
+  },
+  {
+    "term": "baseline kindergarten attendance duration",
+    "knowledge card": "Type: educational history variable. Description: 'Baseline kindergarten attendance duration' refers to the amount of time a child has attended kindergarten, measured at the initial or reference point of a study or assessment. It is used to describe early educational exposure before follow-up or later comparison."
+  },
+  {
+    "term": "baseline school attendance",
+    "knowledge card": "Type: educational or social history variable. Description: 'Baseline school attendance' refers to a child's school attendance status or pattern at the initial or reference point of a study or assessment. It is used to describe whether and how regularly the child was attending school before follow-up or later comparison."
+  },
+  {
+    "term": "baseline periventricular leukomalacia",
+    "knowledge card": "Type: neonatal neurologic disease/history variable. Description: 'Baseline periventricular leukomalacia' refers to the presence or status of periventricular leukomalacia at the initial or reference point of a study or clinical assessment. Periventricular leukomalacia is a form of white matter brain injury, most commonly seen in premature infants, involving damage near the brain's ventricles."
+  },
+  {
+    "term": "baseline maternal height",
+    "knowledge card": "Type: maternal anthropometric measurement. Description: 'Baseline maternal height' refers to the mother's height recorded at the initial or reference point of a study or clinical assessment. It is used as a baseline body measurement and may be relevant to analyses of maternal health, pregnancy, and child outcomes."
+  },
+  {
+    "term": "diagnosis of maternal pre-eclampsia",
+    "knowledge card": "Type: maternal diagnosis / pregnancy complication. Description: Diagnosis of maternal pre-eclampsia refers to identifying pre-eclampsia in a pregnant mother. Pre-eclampsia is a hypertensive disorder of pregnancy characterized by new-onset high blood pressure, typically after 20 weeks of gestation, often with proteinuria or other signs of organ dysfunction. It is an important maternal and fetal risk condition."
+  },
+  {
+    "term": "baseline feeding type",
+    "knowledge card": "Type: feeding history variable. Description: 'Baseline feeding type' refers to the kind of feeding an infant or child is receiving at the initial or reference point of a study or clinical assessment. Examples may include breastfeeding, formula feeding, mixed feeding, tube feeding, or other feeding methods. It is used to describe starting nutritional intake before follow-up or intervention."
+  },
+  {
+    "term": "baseline homeownership",
+    "knowledge card": "Type: socioeconomic or housing variable. Description: 'Baseline homeownership' refers to whether a person or household owns their home at the initial or reference point of a study or assessment. It is used to describe housing status and socioeconomic context at baseline."
+  },
+  {
+    "term": "reading score and math score",
+    "knowledge card": "Type: educational or cognitive performance measures. Description: Reading score and math score are quantitative results from assessments of reading ability and mathematics ability. They are used to measure academic performance and may reflect skills such as reading comprehension, fluency, calculation, problem-solving, and overall school achievement."
+  },
+  {
+    "term": "baseline major medical problem",
+    "knowledge card": "Type: clinical history variable. Description: 'Baseline major medical problem' refers to the presence of a significant health condition recorded at the initial or reference point of a study or clinical assessment. It is used to describe important pre-existing medical issues before follow-up, treatment, or outcome evaluation."
+  },
+  {
+    "term": "impulse-hyperactivity",
+    "knowledge card": "Type: behavioral/clinical symptom domain. Impulse-hyperactivity refers to a pattern of impulsive behavior and excessive activity, often involving difficulty sitting still, acting without thinking, interrupting, or being unable to wait. In clinical use, it is commonly discussed as part of attention-deficit/hyperactivity disorder (ADHD), where hyperactivity and impulsivity are core features."
+  },
+  {
+    "term": "attention",
+    "knowledge card": "Type: mental process. Attention is the cognitive ability to focus on certain aspects of experience, thoughts, or stimuli while filtering out others. It involves concentration, readiness to notice or observe, and directing the mind toward something important."
+  },
+  {
+    "term": "baseline intention to breastfeed",
+    "knowledge card": "Type: behavioral/clinical research variable. Baseline intention to breastfeed refers to a person’s initial plan or stated willingness to breastfeed, measured at the starting point of a study or clinical assessment before any intervention or follow-up. It is commonly used to predict breastfeeding initiation, duration, or response to support programs."
+  },
+  {
+    "term": "low birth weight",
+    "knowledge card": "Type: clinical finding. Low birth weight refers to an infant birth weight below 2,500 grams (2,499 g or less), regardless of gestational age. It is used to identify newborns at higher risk for health complications and may reflect prematurity, restricted fetal growth, or both."
+  },
+  {
+    "term": "baseline maternal age",
+    "knowledge card": "Type: demographic/clinical research variable. Baseline maternal age refers to the mother’s age at the initial time point of a study, assessment, or pregnancy-related observation. It is commonly recorded as a baseline characteristic because it can influence maternal health, pregnancy outcomes, and infant outcomes."
+  },
+  {
+    "term": "baseline breastfeeding",
+    "knowledge card": "Type: behavioral/clinical research variable. Baseline breastfeeding refers to the infant feeding status or breastfeeding behavior measured at the initial assessment point of a study or clinical evaluation. It may describe whether breastfeeding has started, its current frequency, exclusivity, or related feeding practices before any intervention or follow-up."
+  },
+  {
+    "term": "fine motor skill",
+    "knowledge card": "Type: motor function. Fine motor skill is the ability to control and coordinate small muscles, especially in the hands and fingers, often together with visual guidance. It supports precise movements such as grasping, writing, buttoning, and manipulating small objects."
+  },
+  {
+    "term": "baseline paternal literacy",
+    "knowledge card": "Type: demographic/social research variable. Baseline paternal literacy refers to the father’s literacy level measured at the start of a study or assessment. It generally indicates his ability to read and understand written information and is used as an important background factor that may influence health communication, caregiving, and child or family outcomes."
+  },
+  {
+    "term": "baseline household social deprivation",
+    "knowledge card": "Type: social/demographic research variable. Baseline household social deprivation refers to the level of social disadvantage present in a household at the start of a study or assessment. It may reflect factors such as low income, unemployment, poor housing, limited education, or other markers of reduced social resources, and is used to describe background conditions that can affect health and development outcomes."
+  },
+  {
+    "term": "baseline blood pressure",
+    "knowledge card": "Type: clinical measurement. Baseline blood pressure refers to a person’s blood pressure recorded at the initial assessment or before a treatment, intervention, or follow-up period. It serves as a reference value for comparing later measurements and evaluating changes in cardiovascular status."
+  },
+  {
+    "term": "baseline intention to remain in study area",
+    "knowledge card": "Type: behavioral/clinical research variable. Baseline intention to remain in study area refers to a participant’s stated plan, at the start of a study, to continue living in or staying within the geographic area where follow-up will occur. It is commonly used to estimate the likelihood of participant retention and successful follow-up over time."
+  },
+  {
+    "term": "baseline home language",
+    "knowledge card": "Type: demographic/social research variable. Baseline home language refers to the primary language spoken in the home, recorded at the start of a study or assessment. It is used as a background characteristic because it can influence communication, education, cognitive testing, access to services, and health-related outcomes."
+  },
+  {
+    "term": "baseline weight z-score",
+    "knowledge card": "Type: anthropometric/clinical research variable. Baseline weight z-score refers to a standardized measure of a person’s weight at the initial assessment, expressed relative to the mean weight of a reference population of the same age and sex. It shows how far the individual’s weight is above or below the population average and is commonly used to assess growth and nutritional status over time."
+  },
+  {
+    "term": "visual-spatial perception",
+    "knowledge card": "Type: cognitive/perceptual function. Visual-spatial perception is the ability to perceive, interpret, and understand the position, orientation, and movement of objects in space. It supports skills such as judging distance, recognizing spatial relationships, navigating environments, and coordinating visually guided actions."
+  },
+  {
+    "term": "baseline congenital anomaly",
+    "knowledge card": "Type: clinical research variable / medical history finding. Baseline congenital anomaly refers to the presence or history of a structural, functional, or developmental abnormality that exists from birth and is recorded at the start of a study or clinical assessment. It is used as an initial health characteristic that may affect later outcomes or analyses."
+  },
+  {
+    "term": "baseline socioeconomic status",
+    "knowledge card": "Type: social/demographic research variable. Baseline socioeconomic status refers to a person’s or household’s social and economic position measured at the start of a study or assessment. It commonly reflects factors such as income, education, occupation, or material resources, and is used because it can strongly influence health, development, and access to care."
+  },
+  {
+    "term": "baseline food pocketing",
+    "knowledge card": "Type: feeding/clinical research variable. Baseline food pocketing refers to the presence or frequency of food being held in the mouth, often in the cheeks, at the initial assessment before treatment or follow-up. It is commonly used in feeding and swallowing evaluations to describe an early behavioral or oral-motor concern that may affect safe and effective eating."
+  },
+  {
+    "term": "arithmetic performance",
+    "knowledge card": "Type: cognitive/educational outcome. Arithmetic performance refers to how well a person understands and carries out basic mathematical tasks such as counting, number operations, and calculation. It is commonly used to assess numerical reasoning, academic achievement, and possible difficulties in mathematical learning."
+  },
+  {
+    "term": "baseline cup introduction age",
+    "knowledge card": "Type: feeding/developmental research variable. Baseline cup introduction age refers to the age at which a child was first introduced to drinking from a cup, as recorded at the start of a study or assessment. It is used to describe early feeding history and may be relevant to feeding development, oral-motor skills, and weaning practices."
+  },
+  {
+    "term": "baseline household asset",
+    "knowledge card": "Type: socioeconomic/demographic research variable. Baseline household asset refers to the material resources or possessions owned by a household, measured at the start of a study or assessment. These assets may include housing quality, land, livestock, appliances, vehicles, or other goods, and are often used as indicators of household wealth and living conditions."
+  },
+  {
+    "term": "baseline bottle-feeding exposure",
+    "knowledge card": "Type: feeding/clinical research variable. Baseline bottle-feeding exposure refers to an infant’s prior or current exposure to feeding by bottle, recorded at the start of a study or assessment. It may describe whether bottle-feeding has occurred, how often it is used, or the extent of exposure before any intervention or follow-up."
+  },
+  {
+    "term": "British ability scale result",
+    "knowledge card": "Type: cognitive assessment result. A British Ability Scale result refers to the score or outcome from the British Ability Scales, a standardized test used to assess cognitive and educational abilities in children. It helps describe performance in areas such as reasoning, verbal ability, and other developmental skills."
+  },
+  {
+    "term": "baseline parental marital status",
+    "knowledge card": "Type: demographic/social research variable. Baseline parental marital status refers to the parents’ relationship status recorded at the start of a study or assessment, such as married, partnered, separated, divorced, widowed, or never married. It is used as a background characteristic because family structure can influence social, developmental, and health-related outcomes."
+  },
+  {
+    "term": "birth weight",
+    "knowledge card": "Type: organism attribute / clinical measurement. Birth weight is the first weight of a newborn measured shortly after birth, usually recorded in grams or kilograms. It is an important indicator of newborn health and growth, and it can help identify infants at risk for complications related to prematurity or restricted growth."
+  },
+  {
+    "term": "cognitive performance",
+    "knowledge card": "Type: cognitive outcome. Cognitive performance refers to how well a person carries out mental processes such as attention, memory, learning, reasoning, problem-solving, and processing information. It is commonly assessed to describe overall thinking ability or changes in brain function over time."
+  },
+  {
+    "term": "baseline family size",
+    "knowledge card": "Type: demographic/social research variable. Baseline family size refers to the number of people in a family or household recorded at the start of a study or assessment. It is used as a background characteristic because family size can influence caregiving, living conditions, resource availability, and health or developmental outcomes."
+  },
+  {
+    "term": "verbal function",
+    "knowledge card": "Type: cognitive/language function. Verbal function refers to the ability to use and understand language, especially spoken words, for communication and thinking. It includes skills such as word comprehension, expression, naming, verbal reasoning, and other language-related mental functions."
+  },
+  {
+    "term": "birth order",
+    "knowledge card": "Type: family/demographic characteristic. Birth order refers to the sequence in which a child is born within a family, such as first-born, second-born, or later-born. It is commonly used in research as a background factor that may relate to development, family dynamics, and some health outcomes."
+  },
+  {
+    "term": "baseline breastfeeding exposure",
+    "knowledge card": "Type: feeding/clinical research variable. Baseline breastfeeding exposure refers to an infant’s prior or current exposure to breastfeeding, recorded at the start of a study or assessment. It may indicate whether breastfeeding has occurred, how long it has been practiced, or the extent of breast milk exposure before any intervention or follow-up."
+  },
+  {
+    "term": "baseline colostrum exposure",
+    "knowledge card": "Type: feeding/neonatal research variable. Baseline colostrum exposure refers to whether and to what extent a newborn received colostrum, the first milk produced after birth, as recorded at the start of a study or assessment. It is used to describe early feeding history because colostrum provides concentrated nutrients and immune protection."
+  },
+  {
+    "term": "baseline incomplete maternal information",
+    "knowledge card": "Type: data quality / clinical research variable. Baseline incomplete maternal information refers to missing, partial, or unavailable maternal data at the start of a study or assessment. It is used to indicate that important background information about the mother was not fully captured, which may affect analysis, interpretation, or adjustment for maternal factors."
+  },
+  {
+    "term": "baseline height",
+    "knowledge card": "Type: anthropometric measurement. Baseline height refers to a person’s height measured at the initial assessment or starting point of a study, clinical evaluation, or intervention. It serves as a reference value for growth assessment, nutritional evaluation, and comparison with later measurements."
+  },
+  {
+    "term": "executive function",
+    "knowledge card": "Type: mental process. Executive function refers to a set of higher-order cognitive processes that help a person control and manage goal-directed thinking and behavior. It includes skills such as planning, problem-solving, working memory, inhibition, cognitive flexibility, and using feedback to adjust actions."
+  },
+  {
+    "term": "neonatal complication",
+    "knowledge card": "Type: pathologic condition. Neonatal complication refers to a medical difficulty or problem that occurs at birth or during the newborn period and may threaten the infant’s health. These complications can involve breathing, infection, feeding, temperature control, neurologic function, or other early-life problems requiring monitoring or treatment."
+  },
+  {
+    "term": "baseline cardiac malformation",
+    "knowledge card": "Type: congenital condition / clinical research variable. Baseline cardiac malformation refers to a structural abnormality of the heart or great vessels that is present at the start of a study or clinical assessment. It is recorded as an initial health characteristic because congenital heart defects can influence treatment decisions, prognosis, and later outcomes."
+  },
+  {
+    "term": "baseline parental social deprivation",
+    "knowledge card": "Type: social/demographic research variable. Baseline parental social deprivation refers to the level of social disadvantage affecting a child’s parent or parents at the start of a study or assessment. It may reflect factors such as low income, unemployment, limited education, poor housing, or reduced social support, and is used as a background factor that can influence family, child, and health outcomes."
+  },
+  {
+    "term": "baseline solid food introduction age",
+    "knowledge card": "Type: feeding/developmental research variable. Baseline solid food introduction age refers to the age at which an infant was first given solid foods, recorded at the start of a study or assessment. It is used to describe early feeding history and may be relevant to nutrition, feeding development, and later health outcomes."
+  },
+  {
+    "term": "baseline medical or obstetric complication",
+    "knowledge card": "Type: clinical research variable / medical history finding. Baseline medical or obstetric complication refers to a pre-existing or already identified maternal medical problem or pregnancy-related complication that is documented at the start of a study or clinical assessment. It is used as an initial health characteristic because such complications can affect pregnancy management, delivery, and maternal or infant outcomes."
+  },
+  {
+    "term": "mode of delivery",
+    "knowledge card": "Type: obstetric/clinical characteristic. Mode of delivery refers to the method by which a baby is born, such as vaginal delivery or cesarean delivery. It is an important obstetric variable because it can influence maternal recovery, neonatal outcomes, and future pregnancy management."
+  },
+  {
+    "term": "baseline MCH-FS raw score",
+    "knowledge card": "Type: assessment/research measurement. Baseline MCH-FS raw score refers to the original, unstandardized score obtained on the MCH-FS at the start of a study or assessment. It represents the participant’s initial measured result on that specific instrument before any intervention or follow-up. Because the abbreviation MCH-FS can refer to different scales in different studies, the exact meaning depends on the study’s defined instrument."
+  },
+  {
+    "term": "birth length",
+    "knowledge card": "Type: neonatal anthropometric measurement. Birth length refers to the length of a newborn measured at birth, usually from the top of the head to the heel. It is used as an indicator of fetal growth and overall newborn size, often together with birth weight and head circumference."
+  },
+  {
+    "term": "baseline paternal education",
+    "knowledge card": "Type: demographic/social research variable. Baseline paternal education refers to the father’s level of educational attainment recorded at the start of a study or assessment. It is used as a background characteristic because parental education can influence health literacy, socioeconomic conditions, caregiving, and child developmental outcomes."
+  },
+  {
+    "term": "baseline parental occupation",
+    "knowledge card": "Type: demographic/social research variable. Baseline parental occupation refers to the job, employment type, or work status of a parent recorded at the start of a study or assessment. It is used as a background characteristic because occupation can reflect socioeconomic position, working conditions, and factors that may influence family, health, and child development outcomes."
+  },
+  {
+    "term": "baseline cluster residence",
+    "knowledge card": "Type: geographic/demographic research variable. Baseline cluster residence refers to the participant’s place of residence within a defined geographic or study cluster at the start of a study or assessment. It is used to describe location-based grouping, which may be important for sampling, intervention assignment, environmental exposure, or community-level analysis."
+  },
+  {
+    "term": "baseline physical or mental limitation on childhood or school activity",
+    "knowledge card": "Type: functional/clinical research variable. Baseline physical or mental limitation on childhood or school activity refers to a child’s pre-existing physical, cognitive, emotional, or behavioral difficulty that restricts normal participation in age-appropriate daily, play, or school activities at the start of a study or assessment. It is used to describe initial functional status and potential barriers to development or education."
+  },
+  {
+    "term": "baseline parental psychiatric history",
+    "knowledge card": "Type: clinical history / assessment variable. Description: 'Baseline parental psychiatric history' refers to the record of a parent’s past or current mental health conditions as documented at the starting point (baseline) of a clinical study, evaluation, or treatment period. It is used as a background factor to describe whether a child or participant has maternal and/or paternal history of psychiatric disorders, and may help assess risk, prognosis, or associations with health outcomes."
+  },
+  {
+    "term": "baseline paternal polygamy",
+    "knowledge card": "Type: demographic / family structure variable. Description: 'Baseline paternal polygamy' refers to whether the father is in a polygamous marital or household arrangement at the beginning (baseline) of a study or assessment. It is used as a background characteristic to describe family structure and may be analyzed as a social or contextual factor in relation to health, developmental, or behavioral outcomes."
+  },
+  {
+    "term": "baseline breastfeeding session duration",
+    "knowledge card": "Type: clinical/behavioral measurement variable. Description: 'Baseline breastfeeding session duration' refers to the length of time a breastfeeding episode lasts, measured at the start of a study, intervention, or clinical assessment. It is used to describe initial infant feeding patterns and to compare feeding behavior over time or after treatment."
+  },
+  {
+    "term": "baseline housing status",
+    "knowledge card": "Type: social/demographic assessment variable. Description: 'Baseline housing status' refers to a person’s living or housing situation at the beginning of a study, clinical evaluation, or intervention. It may describe whether the person is stably housed, unstably housed, homeless, in temporary accommodation, or in another residential arrangement, and is used as an important social determinant of health."
+  },
+  {
+    "term": "baseline gagging spitting or vomiting",
+    "knowledge card": "Type: clinical symptom / feeding-related assessment variable. Description: 'Baseline gagging, spitting, or vomiting' refers to the presence, frequency, or severity of these symptoms at the start of a study, clinical evaluation, or intervention. It is used to document a person’s initial gastrointestinal or feeding-related status before any treatment or follow-up, especially in infants or patients with swallowing or reflux concerns."
+  },
+  {
+    "term": "diagnosis of neuropsychiatric disorder",
+    "knowledge card": "Type: diagnosis / clinical condition variable. Description: 'Diagnosis of neuropsychiatric disorder' refers to the clinical identification of a disorder involving both neurological and psychiatric features. Neuropsychiatric disorders affect brain function and may present with changes in cognition, mood, behavior, perception, or motor function. This term is typically used to indicate whether an individual has been diagnosed with such a condition in a clinical or research setting."
+  },
+  {
+    "term": "birth size",
+    "knowledge card": "Type: birth characteristic / clinical finding. Description: 'Birth size' refers to the physical size of a newborn at the time of birth, usually assessed using measures such as birth weight, birth length, and head circumference. It is used to describe neonatal growth status and may help identify whether an infant is small, average, or large for gestational age."
+  },
+  {
+    "term": "baseline older sibling count",
+    "knowledge card": "Type: demographic / family composition variable. Description: 'Baseline older sibling count' refers to the number of siblings older than the participant or index child at the start of a study or assessment. It is used to describe family structure and birth order context, which may be relevant in developmental, social, or health-related analyses."
+  },
+  {
+    "term": "breastfeeding exposure",
+    "knowledge card": "Type: infant feeding / exposure variable. Description: 'Breastfeeding exposure' refers to whether and to what extent an infant has been fed breast milk. It may describe any breastfeeding, exclusive breastfeeding, partial breastfeeding, or duration of exposure to breast milk. In clinical and research settings, it is used to assess infant feeding history and potential health effects related to breast milk intake."
+  },
+  {
+    "term": "baseline bottle-feeding session duration",
+    "knowledge card": "Type: feeding behavior / clinical measurement variable. Description: 'Baseline bottle-feeding session duration' refers to the amount of time a bottle-feeding episode lasts at the beginning of a study, intervention, or clinical assessment. It is used to describe initial feeding patterns and to monitor changes in feeding efficiency or behavior over time."
+  },
+  {
+    "term": "baseline residence",
+    "knowledge card": "{\n  \"variable\": \"baseline residence\",\n  \"knowledge card\": \"Type\": \"demographic / living arrangement variable\",\n  \"knowledge card\": \"Type: demographic / living arrangement variable. Description: 'Baseline residence' refers to the place or type of residence where a person lives at the start of a study, clinical evaluation, or intervention. It may describe geographic location, household setting, or residential category such as private home, institution, or temporary housing, and is used as an important background characteristic.\"\n}"
+  },
+  {
+    "term": "baseline maternal employment status",
+    "knowledge card": "Type: demographic / socioeconomic variable. Description: 'Baseline maternal employment status' refers to the mother’s work status at the start of a study, assessment, or intervention. It typically indicates whether the mother is employed, unemployed, self-employed, on leave, or not in the labor force, and is used as a background socioeconomic characteristic that may influence child, maternal, or household outcomes."
+  },
+  {
+    "term": "baseline mealtime disruptive behaviour",
+    "knowledge card": "Type: behavioral / feeding assessment variable. Description: 'Baseline mealtime disruptive behaviour' refers to problematic behaviors during meals that are present at the start of a study or clinical assessment. These behaviors may include refusal to eat, throwing food, tantrums, aggression, leaving the table, or other actions that interfere with feeding. It is used to document initial mealtime functioning and to evaluate change over time."
+  },
+  {
+    "term": "baseline aid to families with dependent children or temporary assistance for needy families participation",
+    "knowledge card": "Type: socioeconomic / public assistance participation variable. Description: 'Baseline Aid to Families with Dependent Children (AFDC) or Temporary Assistance for Needy Families (TANF) participation' refers to whether an individual or household was receiving benefits from these cash assistance programs at the start of a study or assessment. It is used as a baseline indicator of socioeconomic need and public assistance use."
+  },
+  {
+    "term": "baseline primary caregiver",
+    "knowledge card": "Type: demographic / caregiving role variable. Description: 'Baseline primary caregiver' refers to the person mainly responsible for an individual’s day-to-day care at the start of a study, assessment, or intervention. This may be a parent, guardian, family member, or another caregiver, and the variable is used to describe the initial caregiving arrangement."
+  },
+  {
+    "term": "asphyxia at birth",
+    "knowledge card": "Type: neonatal condition / pathologic event. Description: 'Asphyxia at birth' refers to oxygen deprivation in a fetus or newborn during labor, delivery, or immediately after birth that is severe enough to cause harm. It can impair breathing and blood flow and may lead to injury of the brain or other organs if prolonged."
+  },
+  {
+    "term": "global neurocognitive score",
+    "knowledge card": "Type: neuropsychological assessment measure. Description: 'Global neurocognitive score' refers to a summary score that reflects overall cognitive functioning across multiple domains, such as memory, attention, processing speed, executive function, and language. It is used in clinical and research settings to provide a broad measure of neurocognitive performance and to compare cognitive status across individuals or over time."
+  },
+  {
+    "term": "conduct problem",
+    "knowledge card": "Type: behavioral symptom / assessment construct. Description: 'Conduct problem' refers to difficulties involving antisocial, oppositional, aggressive, or rule-breaking behavior. It is used in clinical and research settings to describe patterns such as defiance, aggression, lying, stealing, or violation of social rules, and may also refer to a measured score on a behavioral assessment scale."
+  },
+  {
+    "term": "baseline bloodstream infection count",
+    "knowledge card": "Type: clinical history / infection measure variable. Description: 'Baseline bloodstream infection count' refers to the number of documented bloodstream infections a person has had at the start of a study, clinical assessment, or treatment period. It is used to describe the initial burden of infection and may help assess disease severity, risk, or response to later interventions."
+  },
+  {
+    "term": "baseline food stamp program participation",
+    "knowledge card": "Type: socioeconomic / public assistance participation variable. Description: 'Baseline food stamp program participation' refers to whether an individual or household was receiving food assistance benefits at the start of a study or assessment, commonly through the Food Stamp Program or its successor, the Supplemental Nutrition Assistance Program (SNAP). It is used as an indicator of socioeconomic status, food insecurity risk, and public assistance use."
+  },
+  {
+    "term": "baseline education level",
+    "knowledge card": "Type: demographic / socioeconomic variable. Description: 'Baseline education level' refers to the highest level of education completed by a person at the start of a study, assessment, or intervention. It is used as a background characteristic and an indicator of socioeconomic position, literacy, and potential influence on health or developmental outcomes."
+  },
+  {
+    "term": "full-scale intelligence quotient",
+    "knowledge card": "Type: cognitive assessment score. Description: 'Full-scale intelligence quotient' (FSIQ) is a composite score derived from standardized intelligence testing that summarizes overall intellectual functioning. It combines performance across multiple cognitive domains, such as verbal reasoning, working memory, processing speed, and perceptual skills, and is commonly used to estimate general cognitive ability."
+  },
+  {
+    "term": "baseline younger sibling count",
+    "knowledge card": "Type: demographic / family composition variable. Description: 'Baseline younger sibling count' refers to the number of siblings younger than the participant or index child at the start of a study or assessment. It is used to describe family structure and household context, which may be relevant to developmental, social, or health-related analyses."
+  },
+  {
+    "term": "neonatal ICU admission",
+    "knowledge card": "Type: neonatal care event / clinical outcome. Description: 'Neonatal ICU admission' refers to a newborn being admitted to a neonatal intensive care unit (NICU) for specialized monitoring or treatment. It usually indicates that the infant has a medical condition requiring intensive support, such as prematurity, breathing problems, infection, or other complications after birth."
+  },
+  {
+    "term": "global cognitive concern",
+    "knowledge card": "Type: clinical assessment finding / symptom construct. Description: 'Global cognitive concern' refers to a broad concern about overall cognitive functioning rather than a problem limited to one specific domain. It may involve concerns about memory, attention, language, learning, reasoning, or problem-solving, and is used in clinical or research settings to indicate suspected generalized cognitive difficulty."
+  },
+  {
+    "term": "preterm delivery",
+    "knowledge card": "Type: obstetric condition / birth outcome. Description: 'Preterm delivery' refers to childbirth occurring before 37 completed weeks of gestation. It is an important adverse pregnancy outcome because babies born preterm are at increased risk of breathing problems, infection, developmental complications, and other health issues."
+  },
+  {
+    "term": "healthy singleton status",
+    "knowledge card": "Type: birth/pregnancy status variable. Description: 'Healthy singleton status' refers to whether a pregnancy or birth involves one infant only (a singleton rather than twins or higher-order multiples) and whether that infant is considered healthy, typically meaning no major medical complications or congenital anomalies are present. It is commonly used in obstetric and neonatal research to identify low-risk births."
+  },
+  {
+    "term": "information processing",
+    "knowledge card": "Type: mental process / cognitive function. Description: 'Information processing' refers to the ability to acquire, organize, interpret, store, and use information. In clinical and neuropsychological contexts, it describes how efficiently the brain handles incoming information, including attention, perception, memory, and response generation."
+  },
+  {
+    "term": "5-minute Apgar score",
+    "knowledge card": "Type: neonatal clinical assessment score. Description: '5-minute Apgar score' is a newborn evaluation performed 5 minutes after birth to assess the infant’s condition and adaptation to life outside the womb. It summarizes five signs—heart rate, breathing effort, muscle tone, reflex response, and color—into a score from 0 to 10, with lower scores indicating greater need for medical attention."
+  },
+  {
+    "term": "coding test result",
+    "knowledge card": "Type: cognitive or neuropsychological test result. Description: 'Coding test result' refers to the score or outcome of a coding task, usually a timed assessment in which a person matches symbols, numbers, or patterns according to a key. It is commonly used to measure processing speed, attention, visual-motor coordination, and short-term working efficiency in clinical or psychological testing."
+  },
+  {
+    "term": "kohs block design test result",
+    "knowledge card": "Type: neuropsychological test result. Description: 'Kohs block design test result' refers to the score or performance outcome on the Kohs Block Design Test, a cognitive assessment in which a person recreates patterns using colored blocks. The test is used to evaluate visuospatial ability, nonverbal reasoning, problem-solving, and perceptual organization."
+  },
+  {
+    "term": "baseline maternal occupation",
+    "knowledge card": "Type: demographic / socioeconomic variable. Description: 'Baseline maternal occupation' refers to the mother’s job or occupational role at the start of a study, assessment, or intervention. It is used as a background characteristic that may reflect socioeconomic position, work-related exposures, and social context relevant to maternal or child health outcomes."
+  },
+  {
+    "term": "baseline parental education",
+    "knowledge card": "Type: demographic / socioeconomic variable. Description: 'Baseline parental education' refers to the education level attained by one or both parents at the start of a study, assessment, or intervention. It is usually recorded as the highest grade completed, degree earned, or years of schooling, and is used as an indicator of family socioeconomic and educational background."
+  },
+  {
+    "term": "baseline marital status",
+    "knowledge card": "Type: demographic / social status variable. Description: 'Baseline marital status' refers to a person’s relationship status at the start of a study, assessment, or intervention. It typically categorizes whether the person is married, single, divorced, separated, widowed, or partnered, and is used as a background social characteristic that may influence health and life outcomes."
+  },
+  {
+    "term": "birth measurement",
+    "knowledge card": "Type: neonatal assessment / clinical measurement. Description: 'Birth measurement' refers to the physical measurements recorded for a newborn at or shortly after birth. These commonly include birth weight, length, head circumference, and sometimes chest circumference, and are used to assess the infant’s size, growth status, and overall neonatal health."
+  },
+  {
+    "term": "spatial imagery",
+    "knowledge card": "Type: mental process / cognitive function. Description: 'Spatial imagery' refers to the mental representation and manipulation of spatial relationships, such as the position, orientation, size, or movement of objects in space. It is an important cognitive ability involved in navigation, visualizing patterns, and solving visuospatial problems."
+  },
+  {
+    "term": "spelling performance",
+    "knowledge card": "Type: educational / cognitive performance measure. Description: 'Spelling performance' refers to how accurately and effectively a person spells words on a test or task. It is used to assess written language skills, including orthographic knowledge, phonological processing, memory for word forms, and academic achievement."
+  },
+  {
+    "term": "gestational age",
+    "knowledge card": "Type: pregnancy / fetal age measure. Description: 'Gestational age' refers to how far a pregnancy has progressed, usually measured in weeks from the first day of the pregnant person’s last menstrual period. It is used to assess fetal development, estimate the due date, and classify births as preterm, term, or post-term."
+  },
+  {
+    "term": "baseline neurological status",
+    "knowledge card": "Type: clinical assessment / neurologic status variable. Description: 'Baseline neurological status' refers to a person’s usual or initial level of neurologic functioning at the start of a study, evaluation, or treatment period. It may include consciousness, motor and sensory function, reflexes, coordination, speech, and cognition, and serves as a reference point for detecting later neurologic change."
+  },
+  {
+    "term": "baseline only child status",
+    "knowledge card": "Type: demographic / family composition variable. Description: 'Baseline only child status' refers to whether the participant or index child has no siblings at the start of a study or assessment. It is used to describe family structure and household context, which may be relevant to developmental, social, behavioral, or health-related analyses."
+  },
+  {
+    "term": "Apgar score",
+    "knowledge card": "Type: neonatal clinical assessment score. Description: 'Apgar score' is a quick assessment of a newborn’s condition performed shortly after birth, typically at 1 and 5 minutes. It rates five signs—heart rate, breathing effort, muscle tone, reflex response, and skin color—on a scale that totals 0 to 10, helping clinicians judge how well the baby is adapting after delivery."
+  },
+  {
+    "term": "ethnicity",
+    "knowledge card": "Type: population group / demographic characteristic. Description: 'Ethnicity' refers to a person’s identification with a social or cultural group that shares common heritage, history, traditions, language, or origin. In clinical and research settings, it is used as a demographic variable because it can be associated with social experiences, health patterns, and differences in disease risk or care."
+  },
+  {
+    "term": "reading quotient",
+    "knowledge card": "Type: educational / cognitive test score. Description: 'Reading quotient' refers to a score used to quantify reading ability relative to age or expected level of performance. It is typically derived from standardized reading assessments and is used to evaluate reading development, achievement, or possible reading difficulties."
+  },
+  {
+    "term": "birth weight for gestational age",
+    "knowledge card": "Type: neonatal growth / clinical attribute. Description: 'Birth weight for gestational age' refers to a newborn’s weight interpreted in relation to how many weeks of pregnancy had been completed at birth. It is used to classify infants as small, appropriate, or large for gestational age and helps assess fetal growth and neonatal health."
+  },
+  {
+    "term": "baseline trial arm knowledge",
+    "knowledge card": "Type: research assessment / knowledge variable. Description: 'Baseline trial arm knowledge' refers to a participant’s understanding at the start of a study about the treatment group, intervention group, or comparison group in a clinical trial. It is used to assess initial awareness or comprehension of trial assignment or study design before further intervention or follow-up."
+  }
+]

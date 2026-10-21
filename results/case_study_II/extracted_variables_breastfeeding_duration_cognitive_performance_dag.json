@@ -1,0 +1,1189 @@
+[
+  {
+    "variable": "breastfeeding duration",
+    "roles": [
+      "treatment"
+    ],
+    "knowledge_card": "Type: feeding history variable. Description: Breastfeeding duration is the length of time an infant receives breast milk, whether as exclusive breastfeeding or as any breastfeeding continued alongside other foods or liquids, depending on study definition.",
+    "source_passages": [
+      "Intervention\n\nEnrolled mothers in the intervention clusters were offered at least five home-based breastfeeding visits from peer counsellors, starting from the third trimester.",
+      "Most of the women had been delivered before breast feeding returned to favour, and only 21 infants were still being breast fed at 2 months of age.",
+      "The younger the infant at age of cup drinking introduction, the stronger the association with possible expressive language and articulation concerns (P = 0.030) on the PEDS. A longer breastfeeding duration was strongly correlated with failed self-help outcomes (P = 0.009). Conversely, a longer breastfeeding duration was associated with developmentally appropriate expressive language skills (P = 0.026) on the PEDS-DM.",
+      "breastfeeding_duration",
+      "We have used data from the Mysore Parthenon Study to examine whether duration of breast-feeding and age at introduction of complementary foods are associated with cognitive ability, independent of socio-demographic factors, among 9-10 year old South Indian children.",
+      "Our current study was prompted by two factors, the now likely causal relationship between breast feeding and cognition and the previous observation that cognitive scores in preterms are related to head circumference and brain size measured by quantitative volumetric analysis of MRI scans.",
+      "Our paper shows that there are no advantages in the results obtained by breastfed children when compared with those who were not breastfed, regardless of the duration of breastfeeding.",
+      "We used three major independent variables: children’s race, a dichotomous indicator on whether children were breastfed, and a categorical variable of the duration of breastfeeding.",
+      "Harmful effects of maternal smoking during pregnancy on cognitive development of the child have been shown,1 as have beneficial effects of breast feeding.2 We examined whether adverse effects of maternal smoking can be modified by breast feeding.",
+      "Methods: A cross-sectional study involving 17,867 3-year-old children in Longhua District, Shenzhen, China, used questionnaires to collect data on socio-economic status, breastfeeding patterns, and behavioral problems. Breastfeeding durations were analyzed as continuous and categorical variables. Logistic regression, linear regression, and spline plots were used to assess the relationships."
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479",
+      "6423184",
+      "32209147",
+      "35807888",
+      "19946010",
+      "20035247",
+      "29100140",
+      "23880156",
+      "12775783",
+      "41036195"
+    ],
+    "frequency": 10
+  },
+  {
+    "variable": "cognitive performance",
+    "roles": [
+      "outcome"
+    ],
+    "knowledge_card": "Type: cognitive outcome. Description: Cognitive performance refers to how well a person carries out mental processes such as attention, memory, learning, reasoning, problem-solving, and information processing, and is used as a broad measure of thinking ability.",
+    "source_passages": [
+      "Background\n\nThe beneficial effects from exclusive breastfeeding (EBF) have been widely acknowledged. We assessed the effect of exclusive breastfeeding promotion by peer counsellors in Uganda and Burkina Faso, on cognitive abilities, social emotional development, school performance and linear growth among 5–8 years old children.",
+      "The intellectual abilities of 242 children born to women who had been hypertensive during pregnancy were assessed at the age of 71 years.",
+      "An assessment of each participant’s development was conducted using the Parent’s Evaluation of Developmental Status (PEDS) tools, which includes the PEDS and Parent’s Evaluation of Developmental Status – Developmental Milestones (PEDS-DM) (Brothers et al.,). The PEDS identifies parental/caregiver concern regarding global/cognitive, receptive language, expressive language and articulation, fine motor, gross motor, behaviour, social–emotional, and self-help skills (Glascoe,).",
+      "cognitive_performance",
+      "In the present study, we examine whether the beneficial effects of breastfeeding we have observed at age 6.5 years persist at age 16 years in both verbal and nonverbal domains of neurocognitive function, using a computerized neurocognition assessment battery to overcome these limitations.",
+      "Several studies have suggested a beneficial effect of infant breast-feeding on childhood cognitive function. Our main objective was to examine whether duration of breast-feeding and age at introduction of complementary foods are related to cognitive performance in 9-10 year old school going children in South-India.",
+      "Our current study was prompted by two factors, the now likely causal relationship between breast feeding and cognition and the previous observation that cognitive scores in preterms are related to head circumference and brain size measured by quantitative volumetric analysis of MRI scans.",
+      "We estimate the effect of breastfeeding on the cognitive outcomes of Chinese children.",
+      "Harmful effects of maternal smoking during pregnancy on cognitive development of the child have been shown,1 as have beneficial effects of breast feeding.2 We examined whether adverse effects of maternal smoking can be modified by breast feeding.",
+      "Methods: A cross-sectional study involving 17,867 3-year-old children in Longhua District, Shenzhen, China, used questionnaires to collect data on socio-economic status, breastfeeding patterns, and behavioral problems. Breastfeeding durations were analyzed as continuous and categorical variables. Logistic regression, linear regression, and spline plots were used to assess the relationships."
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479",
+      "6423184",
+      "32209147",
+      "35807888",
+      "29677187",
+      "19946010",
+      "20035247",
+      "29100140",
+      "12775783",
+      "41036195"
+    ],
+    "frequency": 10
+  },
+  {
+    "variable": "sex",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: demographic and biologic attribute. Description: Sex is the biological classification of the participant, typically male or female, recorded as a basic demographic and biologic characteristic.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status.",
+      "Baseline characteristics, categorical variables given.\n\nSex of child (male)\t254 (48.7)\t272 (51.3)",
+      "Straight analyses according to sex just failed to achieve significance; however, we had previously found that when adjustment was made for social class girls had higher reading quotients than boys (p < 0 05), and we therefore included this factor in the final analyses.\nTable I gives the results.\nSex:\nMale (n= 133)\nFemale (n = 109)",
+      "Description of participants\nDescription\tCategory\tn = 144\t%*\t \tGender of infant\tMale\t81\t56.3\t \tFemale\t63\t43.8",
+      "We predefined the following variables in the regression model: nutritional group (U-MOM, F-MOM, PF), gestational age (GA), birth weight standard deviation score (BW-z-score), sex (boys and girls), multiple birth (including triplets), and social status (low and high).",
+      "Those adjusted variables were age at follow-up, sex, sex- and gestational age-standardized birth weight z-score, maternal age, maternal and paternal education and occupation, parental marital status at birth, maternal smoking during pregnancy, and birth order.",
+      "We considered the following as potential covariates and confounders: ‘maternal factors’ (maternal age, parity, BMI and height in pregnancy); ‘infant factors’(gender, gestational age at birth and birthweight); ‘child factors’(current age, BMI and height) and ‘parental factors’(parents’ school attainment, rural/urban residence and current SES, assessed using the Standard of Living Index (SLI) designed by National Family Health Survey-2 which derives a score based on type and size of the house, household sanitary facilities, source of water and power supply, cooking fuel used, ownership of house/property, land, livestock and household assets.",
+      "There were no associations between longer duration of breast-feeding, or age of introduction of complementary foods, and cognitive function at 9-10 years, either unadjusted or after adjustment for age, sex, gestation, birth size, maternal age, parity, socio-economic status, parents’ attained schooling, and rural/urban residence.",
+      "Table 1 presents perinatal and milk intake data for the total group and genders separately; there were no significant differences between boys and girls.",
+      "The first group was children’s characteristics, including age and age squared, gender (1 = male and 0 = others), preterm birth (1 = gestational age <37 weeks and 0 = others), low birth weight (1 = birth weight <1500 g and 0 = others), neonatal intensive care at birth (1 = yes and 0 = others), and physical or mental limitations on childhood or school activities (1 = yes and 0 = others).",
+      "It persisted after adjustment for other risk factors that were linked to the separate cognitive performance outcomes (see table 1) including the child’s gender (55% male), parental marital state during pregnancy (7% unmarried), and socioeconomic status.",
+      "Model 2 was adjusted for the following covariates: child gender, birth weight (g), birth length (cm), preterm birth status, whether the child was an only child, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479",
+      "6423184",
+      "32209147",
+      "35807888",
+      "29677187",
+      "19946010",
+      "20035247",
+      "23880156",
+      "12775783",
+      "41036195"
+    ],
+    "frequency": 10
+  },
+  {
+    "variable": "baseline age",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: demographic variable. Description: Baseline age refers to the participant's age at the initial assessment or study entry and serves as the starting age for analysis.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status.",
+      "Baseline characteristics, continuous variables given.\n\nChild’s age at SDQa interview (years)\t521\t7.4 (0.6)\t530\t7.4 (0.6)\t \tChild’s age at psychometric testing (years)\t521\t7.1 (0.5)\t532\t7.1 (0.5)\t \tChild’s age at school testing (years) b\t124\t8.2 (0.5)\t131\t8.1 (0.6)",
+      "Baseline characteristics, continuous variables given.\n\nChild’s age at SDQa interview (years)\t521\t7.4 (0.6)\t530\t7.4 (0.6)\t \tChild’s age at psychometric testing (years)\t521\t7.1 (0.5)\t532\t7.1 (0.5)\t \tChild’s age at school testing (years) b\t124\t8.2 (0.5)\t131\t8.1 (0.6)",
+      "Baseline characteristics, continuous variables given.\n\nChild’s age at SDQa interview (years)\t521\t7.4 (0.6)\t530\t7.4 (0.6)\t \tChild’s age at psychometric testing (years)\t521\t7.1 (0.5)\t532\t7.1 (0.5)\t \tChild’s age at school testing (years) b\t124\t8.2 (0.5)\t131\t8.1 (0.6)",
+      "Corrected age (years) at WISC-IV (Median; min-max) 6.4 (5.4–8.3) 6.4 (5.2–7.5) 6.3 (5.9–7.7)",
+      "Corrected age (years) at FTF questionnaire (Median; min–max) 6.5 (6.1–8.3) 6.4 (6.0–7.5) 6.3 (5.9–7.7)",
+      "We considered the following as potential covariates and confounders: ‘maternal factors’ (maternal age, parity, BMI and height in pregnancy); ‘infant factors’(gender, gestational age at birth and birthweight); ‘child factors’(current age, BMI and height) and ‘parental factors’(parents’ school attainment, rural/urban residence and current SES, assessed using the Standard of Living Index (SLI) designed by National Family Health Survey-2 which derives a score based on type and size of the house, household sanitary facilities, source of water and power supply, cooking fuel used, ownership of house/property, land, livestock and household assets.",
+      "There were no associations between longer duration of breast-feeding, or age of introduction of complementary foods, and cognitive function at 9-10 years, either unadjusted or after adjustment for age, sex, gestation, birth size, maternal age, parity, socio-economic status, parents’ attained schooling, and rural/urban residence.",
+      "We repeated regression analyses as reported above, adding GA and age at test/scan as predictors.",
+      "We use observational data from a representative sample of children aged 10–15 from the China Family Panel Study.",
+      "All these covariates were collected in the first wave of the PSID–CDS (1997) except for children’s age, which was measured in the second wave (2002).",
+      "In September 2019, a total of 18,035 children, approximately 3 years of age, were enrolled in the LCCS after being administered by 171 kindergartens in Longhua District.",
+      "We collected data from mothers regarding parental and child demographics, and health information through a self-administered questionnaire measuring child gender, age, birth weight (g), birth length (cm), preterm birth, single child or not, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [
+      "baseline age at follow-up"
+    ],
+    "paper_ids": [
+      "29474479",
+      "35807888",
+      "19946010",
+      "20035247",
+      "29100140",
+      "23880156",
+      "41036195"
+    ],
+    "frequency": 7
+  },
+  {
+    "variable": "baseline parental age",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: demographic variable. Description: Baseline parental age refers to the age of one or both parents at study entry, used as a family background characteristic.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status.",
+      "Model 2 was adjusted for the following covariates: child gender, birth weight (g), birth length (cm), preterm birth status, whether the child was an only child, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [
+      "baseline maternal age"
+    ],
+    "paper_ids": [
+      "29474479",
+      "41036195"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "birth size",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: neonatal growth characteristic. Description: Birth size refers to the newborn's overall physical size at birth, typically described using weight, length, and head circumference.",
+    "source_passages": [
+      "There were no associations between longer duration of breast-feeding, or age of introduction of complementary foods, and cognitive function at 9-10 years, either unadjusted or after adjustment for age, sex, gestation, birth size, maternal age, parity, socio-economic status, parents’ attained schooling, and rural/urban residence."
+    ],
+    "children": [
+      "birth weight",
+      "birth length",
+      "birth weight for gestational age"
+    ],
+    "paper_ids": [
+      "19946010"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline parental education",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: socioeconomic variable. Description: Baseline parental education refers to the educational attainment of one or both parents at study entry, commonly used as an indicator of family educational and socioeconomic background.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status.",
+      "We considered the following as potential covariates and confounders: ‘maternal factors’ (maternal age, parity, BMI and height in pregnancy); ‘infant factors’(gender, gestational age at birth and birthweight); ‘child factors’(current age, BMI and height) and ‘parental factors’(parents’ school attainment, rural/urban residence and current SES, assessed using the Standard of Living Index (SLI) designed by National Family Health Survey-2 which derives a score based on type and size of the house, household sanitary facilities, source of water and power supply, cooking fuel used, ownership of house/property, land, livestock and household assets.",
+      "There were no associations between longer duration of breast-feeding, or age of introduction of complementary foods, and cognitive function at 9-10 years, either unadjusted or after adjustment for age, sex, gestation, birth size, maternal age, parity, socio-economic status, parents’ attained schooling, and rural/urban residence.",
+      "Regression co-efficient (β) is the effect size (SD) per category increase in breast feeding (<3, 3-5, 6-8., 9-11, 12-17 and 18+ months), and age at introduction of complementary foods (<4, 4, 5, 6+ months); Model1 adjusted for sex, gestation and child’s age at the time of study; Model 2 adjusted for model 1 parameters + SLI, parent’s education; Model 3 adjusted for model 2 parameters + parity, maternal age at pregnancy, rural/urban residence; Model 4 adjusted for model 3 parameters + child’s birthweight; Model 5 adjusted for model 4 parameters + child’s current body mass index and height."
+    ],
+    "children": [
+      "baseline maternal education",
+      "baseline paternal education"
+    ],
+    "paper_ids": [
+      "29474479",
+      "19946010"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "gestational age",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: pregnancy age measure. Description: Gestational age is the age of the pregnancy measured from the first day of the last menstrual period, usually in weeks.",
+    "source_passages": [
+      "We predefined the following variables in the regression model: nutritional group (U-MOM, F-MOM, PF), gestational age (GA), birth weight standard deviation score (BW-z-score), sex (boys and girls), multiple birth (including triplets), and social status (low and high)."
+    ],
+    "children": [
+      "gestational age at birth"
+    ],
+    "paper_ids": [
+      "35807888"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "birth order",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: family demographic characteristic. Description: Birth order refers to the sequence in which a child is born within the family, such as first-born or later-born.",
+    "source_passages": [
+      "After adjustment for confounding variables children in the upper social classes, born to non-smokers, who were first born, breast fed, and with birth weights above the 10th centile had significantly higher scores in some aspects of ability than the rest.\nTable I gives the results.\nParity:\nFirst born (n= 105)\nLater born (n 137)",
+      "Those adjusted variables were age at follow-up, sex, sex- and gestational age-standardized birth weight z-score, maternal age, maternal and paternal education and occupation, parental marital status at birth, maternal smoking during pregnancy, and birth order.",
+      "Also examined but unrelated to the dependent variables and therefore not adjusted for were: paternal smoking, maternal age, parental psychiatric history, length of gestation, obstetric complications (for example, instrumental delivery, rotation disturbances), birth weight, birth order, family size, and family circumstances (traditional two parent family compared with others)."
+    ],
+    "children": [],
+    "paper_ids": [
+      "6423184",
+      "29677187",
+      "12775783"
+    ],
+    "frequency": 3
+  },
+  {
+    "variable": "baseline parental marital status",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: family structure variable. Description: Baseline parental marital status refers to the relationship status of the parents at study entry, such as married, partnered, separated, divorced, widowed, or never married.",
+    "source_passages": [
+      "Those adjusted variables were age at follow-up, sex, sex- and gestational age-standardized birth weight z-score, maternal age, maternal and paternal education and occupation, parental marital status at birth, maternal smoking during pregnancy, and birth order.",
+      "It persisted after adjustment for other risk factors that were linked to the separate cognitive performance outcomes (see table 1) including the child’s gender (55% male), parental marital state during pregnancy (7% unmarried), and socioeconomic status.",
+      "Model 2 was adjusted for the following covariates: child gender, birth weight (g), birth length (cm), preterm birth status, whether the child was an only child, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [],
+    "paper_ids": [
+      "29677187",
+      "12775783",
+      "41036195"
+    ],
+    "frequency": 3
+  },
+  {
+    "variable": "baseline house ownership",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: housing or socioeconomic variable. Description: Baseline house ownership refers to whether the participant's household owns its home at study entry, used as an indicator of housing status and socioeconomic conditions.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status.",
+      "Baseline characteristics, categorical variables given.\n\nHouse ownership\t \t \tOwn\t482 (92.3)\t479 (90.4)\t \tRent\t37 (7.1)\t48 (9.0)\t \tOther\t3 (0.6)\t3 (0.6)",
+      "Finally, we adjusted for five household characteristics: household size, number of children in households, food stamp program participation (1 = yes and 0 = others), Aid to Families with Dependent Children or Temporary Assistance for Needy Families participation (1 = yes and 0 = others), homeownership (1 = yes and 0 = others), and log-transformed household income."
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479",
+      "23880156"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline household composition",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: household composition variable. Description: Baseline household composition refers to the structure and size of the household at study entry, including the number of people or children living in the home.",
+    "source_passages": [
+      "Baseline characteristics, continuous variables given.\n\nNumber of people in household\t520\t8.5 (3.9)\t530\t9.2 (5.0)",
+      "Finally, we adjusted for five household characteristics: household size, number of children in households, food stamp program participation (1 = yes and 0 = others), Aid to Families with Dependent Children or Temporary Assistance for Needy Families participation (1 = yes and 0 = others), homeownership (1 = yes and 0 = others), and log-transformed household income.",
+      "Finally, we adjusted for five household characteristics: household size, number of children in households, food stamp program participation (1 = yes and 0 = others), Aid to Families with Dependent Children or Temporary Assistance for Needy Families participation (1 = yes and 0 = others), homeownership (1 = yes and 0 = others), and log-transformed household income.",
+      "Also examined but unrelated to the dependent variables and therefore not adjusted for were: paternal smoking, maternal age, parental psychiatric history, length of gestation, obstetric complications (for example, instrumental delivery, rotation disturbances), birth weight, birth order, family size, and family circumstances (traditional two parent family compared with others)."
+    ],
+    "children": [
+      "baseline household size",
+      "baseline household child count",
+      "baseline family size"
+    ],
+    "paper_ids": [
+      "29474479",
+      "23880156",
+      "12775783"
+    ],
+    "frequency": 3
+  },
+  {
+    "variable": "baseline primary caregiver",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: caregiving arrangement variable. Description: Baseline primary caregiver identifies the person mainly responsible for the child's day-to-day care at study entry.",
+    "source_passages": [
+      "Baseline characteristics, categorical variables given.\n\nPrimary caregiver\t \t \tMother\t233 (44.6)\t221 (41.7)\t \tFather\t242 (46.4)\t250 (47.2)\t \tOther\t47 (9.0)\t59 (11.1)",
+      "Description of participants\nDescription\tCategory\tn = 144\t%*\t \tPrimary caregiver\tMother\t132\t91.7\t \tGrandparents\t7\t4.9\t \tExtended family\t4\t2.8\t \tBoth parents\t1\t0.7"
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479",
+      "32209147"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline parental occupation",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: socioeconomic variable. Description: Baseline parental occupation refers to the job or employment status of one or both parents at study entry, used to characterize family socioeconomic position.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status."
+    ],
+    "children": [
+      "baseline paternal occupation",
+      "baseline maternal occupation"
+    ],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "multiple birth",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: birth classification. Description: Multiple birth refers to a pregnancy or birth involving more than one fetus, such as twins or triplets.",
+    "source_passages": [
+      "We predefined the following variables in the regression model: nutritional group (U-MOM, F-MOM, PF), gestational age (GA), birth weight standard deviation score (BW-z-score), sex (boys and girls), multiple birth (including triplets), and social status (low and high)."
+    ],
+    "children": [],
+    "paper_ids": [
+      "35807888"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline cooking fuel",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: household environmental exposure. Description: Baseline cooking fuel refers to the primary fuel source used for cooking in the household at study entry, such as electricity, gas, kerosene, wood, or other biomass fuels.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status.",
+      "Baseline characteristics, categorical variables given.\n\nFuel for cooking\t \t \tWood\t440 (84.3)\t455 (85.9)\t \tCharcoal\t76 (14.6)\t69 (13.0)\t \tOther\t6 (1.1)\t6 (1.1)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline drinking water source",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: household environmental variable. Description: Baseline drinking water source refers to the main source of drinking water at study entry, such as piped, well, surface, or bottled water.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status.",
+      "Baseline characteristics, categorical variables given.\n\nDrinking water\t \t \tSurface water\t347 (66.5)\t352 (66.4)\t \tBorehole or tap\t172 (32.9)\t177 (33.4)\t \tOther\t3 (0.6)\t1 (0.2)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline school attendance",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: educational history variable. Description: Baseline school attendance refers to whether and how regularly the child was attending school at study entry.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status.",
+      "Baseline characteristics, categorical variables given.\n\nSchool attendance for study child\t \t \tNo\t145 (27.8)\t162 (30.6)\t \tEver attended kindergarten or primarya\t276 (52.9)\t271 (51.1)\t \tAttended both kindergarten and primaryb\t95 (18.2)\t91 (17.2)"
+    ],
+    "children": [
+      "baseline kindergarten attendance duration",
+      "baseline primary school attendance duration"
+    ],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline household asset",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: socioeconomic variable. Description: Baseline household asset refers to material possessions or resources owned by the household at study entry, used as an indicator of wealth and living conditions.",
+    "source_passages": [
+      "The modelling included assets such as mobile phones, radios, bikes, scooters and house construction characteristics (roofing materials, window, walls and doors)."
+    ],
+    "children": [
+      "baseline house construction characteristic"
+    ],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline electricity access",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: household infrastructure variable. Description: Baseline electricity access indicates whether the household had access to electrical power at study entry.",
+    "source_passages": [
+      "Socio-economy, electricity and duration of attendance in kindergarten were slightly in favour of the control-group, and these covariates were adjusted for in the final models.",
+      "Baseline characteristics, categorical variables given.\n\nElectricity (yes)\t262 (50.2)\t311 (58.7)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "parity",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: obstetric finding. Description: Parity is the number of pregnancies that reached viable gestation. In this child-focused PICO it is distinct from birth order because it describes maternal reproductive history rather than the index child's ordinal position among siblings.",
+    "source_passages": [
+      "Model 2 was adjusted for the following covariates: child gender, birth weight (g), birth length (cm), preterm birth status, whether the child was an only child, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [
+      "baseline parity",
+      "baseline maternal parity"
+    ],
+    "paper_ids": [
+      "41036195"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline marital status",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: social status variable. Description: Baseline marital status refers to the participant's relationship status at study entry, such as married, single, divorced, or widowed.",
+    "source_passages": [
+      "Baseline characteristics, categorical variables given.\n\nRespondent is married\t430 (82.7)\t441 (83.4)"
+    ],
+    "children": [
+      "baseline paternal polygamy"
+    ],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline paternal literacy",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: paternal educational variable. Description: Baseline paternal literacy refers to the father's reading and writing ability at study entry.",
+    "source_passages": [
+      "Baseline characteristics, categorical variables given.\n\nFather says he can read\t273 (52.7)\t266 (50.5)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "diagnosis of maternal hypertension during pregnancy",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: maternal pregnancy complication. Description: Diagnosis of maternal hypertension during pregnancy indicates that the mother had hypertension during pregnancy, including chronic or gestational hypertension or related hypertensive disorders.",
+    "source_passages": [
+      "The intellectual abilities of 242 children born to women who had been hypertensive during pregnancy were assessed at the age of 71 years."
+    ],
+    "children": [
+      "diagnosis of maternal pre-eclampsia"
+    ],
+    "paper_ids": [
+      "6423184"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline smoking",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: tobacco exposure variable. Description: Baseline smoking refers to smoking status or tobacco use history at study entry.",
+    "source_passages": [
+      "After adjustment for confounding variables children in the upper social classes, born to non-smokers, who were first born, breast fed, and with birth weights above the 10th centile had significantly higher scores in some aspects of ability than the rest.\nTable I gives the results.\nSmoking:\nNone (n= 174)\nSome (n =68)"
+    ],
+    "children": [
+      "baseline maternal smoking during pregnancy",
+      "baseline paternal smoking"
+    ],
+    "paper_ids": [
+      "6423184"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "mode of delivery",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: obstetric characteristic. Description: Mode of delivery is the method by which the baby was born, such as vaginal delivery or cesarean delivery.",
+    "source_passages": [
+      "Children delivered by elective caesarean section had lower scores than those delivered spontaneously.\nTable I gives the results.\nDelivery:\nSpontaneous 'n = 132)\nInstrumental (n = 58)\nElective caesarean section (n 24)\nEmergency caesarean section (n =28)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "6423184"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "fetal distress",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: fetal clinical condition. Description: Fetal distress refers to nonreassuring fetal status suggesting compromise, often related to inadequate oxygenation.",
+    "source_passages": [
+      "Small differences were also found according to fetal distress in labour (or not) and weight for gestational age at birth (below or above the 10th centile).\nTable I gives the results.\nFetal distress:\nNone (n= 144)\nSome (n=98)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "6423184"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline methyldopa exposure",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: drug exposure. Description: Baseline methyldopa exposure indicates whether the mother or patient was receiving methyldopa at study entry.",
+    "source_passages": [
+      "No significant differences were found in the mean reading quotient or for any of the five processes according to maternal age, treatment with methyldopa (or not), preterm delivery (or not), bleeding during pregnancy, asphyxia at birth, or problems in the neonatal period."
+    ],
+    "children": [],
+    "paper_ids": [
+      "6423184"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline maternal bleeding during pregnancy",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: maternal pregnancy complication. Description: Baseline maternal bleeding during pregnancy indicates whether the mother had bleeding during pregnancy at the baseline assessment.",
+    "source_passages": [
+      "No significant differences were found in the mean reading quotient or for any of the five processes according to maternal age, treatment with methyldopa (or not), preterm delivery (or not), bleeding during pregnancy, asphyxia at birth, or problems in the neonatal period."
+    ],
+    "children": [],
+    "paper_ids": [
+      "6423184"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "neonatal complication",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: neonatal condition category. Description: Neonatal complication refers to a medical problem occurring during the newborn period that may affect health or require treatment.",
+    "source_passages": [
+      "No significant differences were found in the mean reading quotient or for any of the five processes according to maternal age, treatment with methyldopa (or not), preterm delivery (or not), bleeding during pregnancy, asphyxia at birth, or problems in the neonatal period."
+    ],
+    "children": [
+      "asphyxia at birth",
+      "neonatal feeding difficulty",
+      "neonatal ICU admission"
+    ],
+    "paper_ids": [
+      "6423184"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline caregiver age",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: caregiver demographic variable. Description: Baseline caregiver age refers to the age of the caregiver at study entry.",
+    "source_passages": [
+      "Description of participants\nDescription\tCategory\tn = 144\t%*\t \tAge of caregiver (years)\t17–20\t10\t6.9\t \t21–30\t92\t63.9\t \t31–40\t36\t25.0\t \t41–50\t6\t4.2"
+    ],
+    "children": [],
+    "paper_ids": [
+      "32209147"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline caregiver education",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: caregiver socioeconomic variable. Description: Baseline caregiver education refers to the caregiver's educational attainment at study entry.",
+    "source_passages": [
+      "Description of participants\nDescription\tCategory\tn = 144\t%*\t \tEducation of caregiver\tLess than Grade 8\t6\t4.2\t \tGrade 8 to Grade 10\t12\t8.3\t \tGrade 11 to Grade 12\t110\t76.4\t \tDiploma/degree\t16\t11.1"
+    ],
+    "children": [],
+    "paper_ids": [
+      "32209147"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline residence",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: residence variable. Description: Baseline residence refers to the participant's place or type of residence at study entry, including geographic or household setting.",
+    "source_passages": [
+      "Residence (No (%)) a) Rural\t72 (28.9)\t64 (24.1) \t \t     b) Urban\t177 (71.1)\t201 (75.9)",
+      "We considered the following as potential covariates and confounders: ‘maternal factors’ (maternal age, parity, BMI and height in pregnancy); ‘infant factors’(gender, gestational age at birth and birthweight); ‘child factors’(current age, BMI and height) and ‘parental factors’(parents’ school attainment, rural/urban residence and current SES, assessed using the Standard of Living Index (SLI) designed by National Family Health Survey-2 which derives a score based on type and size of the house, household sanitary facilities, source of water and power supply, cooking fuel used, ownership of house/property, land, livestock and household assets.",
+      "There were significant non-linear associations between duration of breast-feeding and maternal age at pregnancy, birthweight, the child’s current BMI and urban/rural dwelling (Table 3)."
+    ],
+    "children": [
+      "baseline housing status",
+      "baseline urban-rural residence"
+    ],
+    "paper_ids": [
+      "19946010"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline primary caregiver employment",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: caregiver socioeconomic variable. Description: Baseline primary caregiver employment refers to the employment status of the main caregiver at study entry.",
+    "source_passages": [
+      "Description of participants\nDescription\tCategory\tn = 144\t%*\t \tEmployment status of primary caregiver\tEmployed\t33\t22.9\t \tUnemployed\t111\t77.1"
+    ],
+    "children": [],
+    "paper_ids": [
+      "32209147"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline home language",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: sociolinguistic variable. Description: Baseline home language refers to the primary language spoken in the home at study entry.",
+    "source_passages": [
+      "Description of participants\nDescription\tCategory\tn = 144\t%*\t \tHome language\tIsiZulu\t21\t14.6\t \tSepedi\t71\t49.3\t \tSesotho\t11\t7.6\t \tXitsonga\t12\t8.3\t \tOther\t29\t20.1"
+    ],
+    "children": [],
+    "paper_ids": [
+      "32209147"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline socioeconomic status",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: socioeconomic position variable. Description: Baseline socioeconomic status refers to the person's or household's social and economic position at study entry, commonly based on income, education, occupation, or material resources.",
+    "source_passages": [
+      "It persisted after adjustment for other risk factors that were linked to the separate cognitive performance outcomes (see table 1) including the child’s gender (55% male), parental marital state during pregnancy (7% unmarried), and socioeconomic status."
+    ],
+    "children": [
+      "baseline social class",
+      "baseline maternal social status",
+      "baseline social deprivation"
+    ],
+    "paper_ids": [
+      "12775783"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline postmenstrual age",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: age measurement. Description: Baseline postmenstrual age is the age calculated from the mother's last menstrual period to the baseline date, combining gestational age at birth and chronological age after birth.",
+    "source_passages": [
+      "PMA at discharge (Weeks and days) (Median; min–max) 37 + 3 (34 + 5–45 +4) 37 + 2 (34 + 5–42 + 3) 36 + 6 (35 + 0–40 + 6)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "35807888"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline anthropometry",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: anthropometric construct. Description: Baseline anthropometry refers to body size and growth measurements recorded at the initial assessment, including weight, height or length, and head size indices.",
+    "source_passages": [
+      "Weight at discharge (g) (Mean ± SD) 2679 ± 469 2612 ± 343 2696 ± 427",
+      "Head circumference z-score (SDS) at 4-month CA (Mean ± SD) 0.24 ± 0.94 0.26 ± 1.08 0.44 ± 1.29",
+      "Length z-score (SDS) at 4-month CA (Mean ± SD) −0.36 ± 1.42 −0.14 ± 1.34 0.16 ± 1.41",
+      "We considered the following as potential covariates and confounders: ‘maternal factors’ (maternal age, parity, BMI and height in pregnancy); ‘infant factors’(gender, gestational age at birth and birthweight); ‘child factors’(current age, BMI and height) and ‘parental factors’(parents’ school attainment, rural/urban residence and current SES, assessed using the Standard of Living Index (SLI) designed by National Family Health Survey-2 which derives a score based on type and size of the house, household sanitary facilities, source of water and power supply, cooking fuel used, ownership of house/property, land, livestock and household assets.",
+      "Regression co-efficient (β) is the effect size (SD) per category increase in breast feeding (<3, 3-5, 6-8., 9-11, 12-17 and 18+ months), and age at introduction of complementary foods (<4, 4, 5, 6+ months); Model1 adjusted for sex, gestation and child’s age at the time of study; Model 2 adjusted for model 1 parameters + SLI, parent’s education; Model 3 adjusted for model 2 parameters + parity, maternal age at pregnancy, rural/urban residence; Model 4 adjusted for model 3 parameters + child’s birthweight; Model 5 adjusted for model 4 parameters + child’s current body mass index and height.",
+      "We considered the following as potential covariates and confounders: ‘maternal factors’ (maternal age, parity, BMI and height in pregnancy); ‘infant factors’(gender, gestational age at birth and birthweight); ‘child factors’(current age, BMI and height) and ‘parental factors’(parents’ school attainment, rural/urban residence and current SES, assessed using the Standard of Living Index (SLI) designed by National Family Health Survey-2 which derives a score based on type and size of the house, household sanitary facilities, source of water and power supply, cooking fuel used, ownership of house/property, land, livestock and household assets."
+    ],
+    "children": [
+      "baseline weight",
+      "baseline head circumference z-score",
+      "baseline length z-score",
+      "baseline BMI",
+      "baseline height"
+    ],
+    "paper_ids": [
+      "35807888",
+      "19946010"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "ethnicity",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: demographic characteristic. Description: Ethnicity refers to identification with a cultural, social, or ancestral group and is used as a demographic background characteristic.",
+    "source_passages": [
+      "To maximize the sample size, we included African American and Caucasian children who were interviewed in 2002 (N = 2552) and had valid information on breastfeeding and achievement test scores (N = 2257).",
+      "Model 1 regressed achievement test scores on children’s race and other covariates to identify racial differences in test scores."
+    ],
+    "children": [
+      "race"
+    ],
+    "paper_ids": [
+      "23880156"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline physical or mental limitation on childhood or school activity",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: functional limitation variable. Description: Baseline physical or mental limitation on childhood or school activity refers to a pre-existing limitation that restricts normal participation in age-appropriate daily or school activities.",
+    "source_passages": [
+      "The first group was children’s characteristics, including age and age squared, gender (1 = male and 0 = others), preterm birth (1 = gestational age <37 weeks and 0 = others), low birth weight (1 = birth weight <1500 g and 0 = others), neonatal intensive care at birth (1 = yes and 0 = others), and physical or mental limitations on childhood or school activities (1 = yes and 0 = others)."
+    ],
+    "children": [],
+    "paper_ids": [
+      "23880156"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline maternal employment status",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: maternal socioeconomic variable. Description: Baseline maternal employment status refers to the mother's work status at study entry, such as employed, unemployed, or not in the labor force.",
+    "source_passages": [
+      "The second group was mothers’ characteristics, including age, number of schooling years (1–17 years), employment status (1 = yes and 0 = others), and mothers’ parenting practices."
+    ],
+    "children": [],
+    "paper_ids": [
+      "23880156"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline parenting practices",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: family psychosocial construct. Description: Baseline parenting practices refers to caregiving behaviors and home interactions at study entry that shape the child's emotional support and cognitive development.",
+    "source_passages": [
+      "We controlled for three indicators of parenting practices: parental warmth, emotional support, and cognitive stimulation.",
+      "We controlled for three indicators of parenting practices: parental warmth, emotional support, and cognitive stimulation.",
+      "We controlled for three indicators of parenting practices: parental warmth, emotional support, and cognitive stimulation."
+    ],
+    "children": [
+      "baseline parental warmth",
+      "baseline emotional support",
+      "baseline cognitive stimulation"
+    ],
+    "paper_ids": [
+      "23880156"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline public assistance participation",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: public assistance variable. Description: Baseline public assistance participation indicates whether the household was receiving government assistance benefits at study entry, such as food assistance or cash welfare support.",
+    "source_passages": [
+      "Finally, we adjusted for five household characteristics: household size, number of children in households, food stamp program participation (1 = yes and 0 = others), Aid to Families with Dependent Children or Temporary Assistance for Needy Families participation (1 = yes and 0 = others), homeownership (1 = yes and 0 = others), and log-transformed household income.",
+      "Finally, we adjusted for five household characteristics: household size, number of children in households, food stamp program participation (1 = yes and 0 = others), Aid to Families with Dependent Children or Temporary Assistance for Needy Families participation (1 = yes and 0 = others), homeownership (1 = yes and 0 = others), and log-transformed household income."
+    ],
+    "children": [
+      "baseline food stamp program participation",
+      "baseline aid to families with dependent children or temporary assistance for needy families participation"
+    ],
+    "paper_ids": [
+      "23880156"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline household income",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: socioeconomic variable. Description: Baseline household income refers to total household income recorded at study entry.",
+    "source_passages": [
+      "Finally, we adjusted for five household characteristics: household size, number of children in households, food stamp program participation (1 = yes and 0 = others), Aid to Families with Dependent Children or Temporary Assistance for Needy Families participation (1 = yes and 0 = others), homeownership (1 = yes and 0 = others), and log-transformed household income."
+    ],
+    "children": [
+      "baseline family income"
+    ],
+    "paper_ids": [
+      "23880156"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline parental psychiatric history",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: family psychiatric history variable. Description: Baseline parental psychiatric history refers to the record of past or current psychiatric disorders in one or both parents at study entry.",
+    "source_passages": [
+      "Also examined but unrelated to the dependent variables and therefore not adjusted for were: paternal smoking, maternal age, parental psychiatric history, length of gestation, obstetric complications (for example, instrumental delivery, rotation disturbances), birth weight, birth order, family size, and family circumstances (traditional two parent family compared with others)."
+    ],
+    "children": [],
+    "paper_ids": [
+      "12775783"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline obstetric complication",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: maternal pregnancy complication. Description: Baseline obstetric complication refers to a pregnancy- or childbirth-related medical complication present at study entry.",
+    "source_passages": [
+      "Also examined but unrelated to the dependent variables and therefore not adjusted for were: paternal smoking, maternal age, parental psychiatric history, length of gestation, obstetric complications (for example, instrumental delivery, rotation disturbances), birth weight, birth order, family size, and family circumstances (traditional two parent family compared with others)."
+    ],
+    "children": [],
+    "paper_ids": [
+      "12775783"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline family circumstance",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: family context variable. Description: Baseline family circumstance refers to the family's overall situation at study entry, including living conditions, composition, caregiving arrangement, or financial and social context.",
+    "source_passages": [
+      "Also examined but unrelated to the dependent variables and therefore not adjusted for were: paternal smoking, maternal age, parental psychiatric history, length of gestation, obstetric complications (for example, instrumental delivery, rotation disturbances), birth weight, birth order, family size, and family circumstances (traditional two parent family compared with others)."
+    ],
+    "children": [],
+    "paper_ids": [
+      "12775783"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline only child status",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: family composition variable. Description: Baseline only child status indicates whether the participant had no siblings at study entry.",
+    "source_passages": [
+      "We collected data from mothers regarding parental and child demographics, and health information through a self-administered questionnaire measuring child gender, age, birth weight (g), birth length (cm), preterm birth, single child or not, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases.",
+      "Model 2 was adjusted for the following covariates: child gender, birth weight (g), birth length (cm), preterm birth status, whether the child was an only child, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [],
+    "paper_ids": [
+      "41036195"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline education level",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: socioeconomic variable. Description: Baseline education level refers to the highest education completed by the person measured at study entry.",
+    "source_passages": [
+      "Model 2 was adjusted for the following covariates: child gender, birth weight (g), birth length (cm), preterm birth status, whether the child was an only child, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [],
+    "paper_ids": [
+      "41036195"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline supplementation time",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: exposure timing variable. Description: Baseline supplementation time refers to the timing or duration of supplement use recorded at the initial assessment.",
+    "source_passages": [
+      "Model 2 was adjusted for the following covariates: child gender, birth weight (g), birth length (cm), preterm birth status, whether the child was an only child, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [],
+    "paper_ids": [
+      "41036195"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline gestational disease",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: maternal pregnancy-related disease variable. Description: Baseline gestational disease refers to the presence of a disease arising during pregnancy or otherwise pregnancy-related at study entry.",
+    "source_passages": [
+      "Model 2 was adjusted for the following covariates: child gender, birth weight (g), birth length (cm), preterm birth status, whether the child was an only child, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [],
+    "paper_ids": [
+      "41036195"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline geographic region",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: geographic variable. Description: Baseline geographic region refers to the participant's broader region or area at study entry.",
+    "source_passages": [
+      "We then further adjusted for stratum-level variables (geographic region and urban versus rural location) and individual-level characteristics that are known predictors of cognitive development to minimize imbalances in potential confounders between the two arms due to the relatively small number of clusters (31) in PROBIT ( S1 Text , p. 14)."
+    ],
+    "children": [
+      "baseline province"
+    ],
+    "paper_ids": [
+      "29677187"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline maternal height",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: maternal anthropometric measurement. Description: Baseline maternal height is the mother's height recorded at study entry.",
+    "source_passages": [
+      "We considered the following as potential covariates and confounders: ‘maternal factors’ (maternal age, parity, BMI and height in pregnancy); ‘infant factors’(gender, gestational age at birth and birthweight); ‘child factors’(current age, BMI and height) and ‘parental factors’(parents’ school attainment, rural/urban residence and current SES, assessed using the Standard of Living Index (SLI) designed by National Family Health Survey-2 which derives a score based on type and size of the house, household sanitary facilities, source of water and power supply, cooking fuel used, ownership of house/property, land, livestock and household assets."
+    ],
+    "children": [],
+    "paper_ids": [
+      "19946010"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "Apgar score",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: neonatal assessment score. Description: Apgar score is a summary score of newborn condition shortly after birth based on heart rate, respiration, muscle tone, reflexes, and color.",
+    "source_passages": [
+      "Means (SD) for perinatal and social factors for the whole group and for males and females separately.\nApgar score at 5 minutes\t7.7(2.2)\t7.3(2.2)\t8.2(2.2)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "20035247"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline neonatal intensive care course",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: neonatal care course variable. Description: Baseline neonatal intensive care course refers to the intensity and progression of neonatal supportive care, including feeding advancement and ventilatory support during the newborn period.",
+    "source_passages": [
+      "We then carried out regression analyses for the three IQ scores with the following predictors: maternal education, social class, %EBM, number of infections, number of days to achieve enteral feeds of 150ml/kg/day, and days of ventilation.",
+      "We then carried out regression analyses for the three IQ scores with the following predictors: maternal education, social class, %EBM, number of infections, number of days to achieve enteral feeds of 150ml/kg/day, and days of ventilation."
+    ],
+    "children": [
+      "baseline time to achieve enteral feeding",
+      "baseline ventilation duration"
+    ],
+    "paper_ids": [
+      "20035247"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline bloodstream infection count",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: infection burden variable. Description: Baseline bloodstream infection count is the number of documented bloodstream infections by the baseline assessment.",
+    "source_passages": [
+      "We then carried out regression analyses for the three IQ scores with the following predictors: maternal education, social class, %EBM, number of infections, number of days to achieve enteral feeds of 150ml/kg/day, and days of ventilation."
+    ],
+    "children": [],
+    "paper_ids": [
+      "20035247"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline young mother",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: maternal age category. Description: Baseline young mother indicates that the mother falls within a younger maternal age category at study entry.",
+    "source_passages": [
+      "Young mothers were defined as mothers under 25 years."
+    ],
+    "children": [],
+    "paper_ids": [
+      "35807888"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "birth weight z-score",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: neonatal growth measurement. Description: Birth weight z-score is a standardized measure of birth weight relative to a reference population, usually adjusted for gestational age and sometimes sex.",
+    "source_passages": [
+      "We predefined the following variables in the regression model: nutritional group (U-MOM, F-MOM, PF), gestational age (GA), birth weight standard deviation score (BW-z-score), sex (boys and girls), multiple birth (including triplets), and social status (low and high).",
+      "Those adjusted variables were age at follow-up, sex, sex- and gestational age-standardized birth weight z-score, maternal age, maternal and paternal education and occupation, parental marital status at birth, maternal smoking during pregnancy, and birth order."
+    ],
+    "children": [],
+    "paper_ids": [
+      "35807888",
+      "29677187"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "low birth weight",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: neonatal growth finding. Description: Low birth weight refers to birth weight below 2,500 grams, regardless of gestational age.",
+    "source_passages": [
+      "Since some studies reported stronger associations of breast-feeding duration with later cognitive performance among SGA children (gestation and sex specific birthweight<10th percentile) or low-birthweight children (full-term birthweight<2500 g), we repeated the above analyses limiting the sample to SGA children (gestation and sex specific birthweight<10th percentile), and (separately) to low-birthweight children (full-term (>37weeks) birthweight<2500 g).",
+      "The first group was children’s characteristics, including age and age squared, gender (1 = male and 0 = others), preterm birth (1 = gestational age <37 weeks and 0 = others), low birth weight (1 = birth weight <1500 g and 0 = others), neonatal intensive care at birth (1 = yes and 0 = others), and physical or mental limitations on childhood or school activities (1 = yes and 0 = others)."
+    ],
+    "children": [],
+    "paper_ids": [
+      "19946010",
+      "23880156"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline maternal literacy",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: maternal educational variable. Description: Baseline maternal literacy refers to the mother's reading and writing ability at study entry.",
+    "source_passages": [
+      "Baseline characteristics, categorical variables given.\n\nMother says she can read\t207 (40.0)\t206 (39.1)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "preterm birth",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: birth outcome. Description: Preterm birth is birth before 37 completed weeks of gestation.",
+    "source_passages": [
+      "The first group was children’s characteristics, including age and age squared, gender (1 = male and 0 = others), preterm birth (1 = gestational age <37 weeks and 0 = others), low birth weight (1 = birth weight <1500 g and 0 = others), neonatal intensive care at birth (1 = yes and 0 = others), and physical or mental limitations on childhood or school activities (1 = yes and 0 = others).",
+      "Model 2 was adjusted for the following covariates: child gender, birth weight (g), birth length (cm), preterm birth status, whether the child was an only child, parents’ marital status, education level, family income, parity, parental age at the time of the child’s birth, supplementation time (month), and gestational diseases."
+    ],
+    "children": [],
+    "paper_ids": [
+      "23880156",
+      "41036195"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "preterm delivery",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: birth outcome. Description: Preterm delivery refers to childbirth before 37 completed weeks of gestation.",
+    "source_passages": [
+      "No significant differences were found in the mean reading quotient or for any of the five processes according to maternal age, treatment with methyldopa (or not), preterm delivery (or not), bleeding during pregnancy, asphyxia at birth, or problems in the neonatal period."
+    ],
+    "children": [],
+    "paper_ids": [
+      "6423184"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "small for gestational age",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: neonatal growth finding. Description: Small for gestational age refers to a newborn whose birth size, usually weight, is smaller than expected for gestational age, typically below the 10th percentile.",
+    "source_passages": [
+      "SGA was defined as BW less than −2 SDS (based on the reference Niklasson and Albertsson-Wikland 2008).",
+      "Since some studies reported stronger associations of breast-feeding duration with later cognitive performance among SGA children (gestation and sex specific birthweight<10th percentile) or low-birthweight children (full-term birthweight<2500 g), we repeated the above analyses limiting the sample to SGA children (gestation and sex specific birthweight<10th percentile), and (separately) to low-birthweight children (full-term (>37weeks) birthweight<2500 g).",
+      "Means (SD) for perinatal and social factors for the whole group and for males and females separately.\n% Small for gestational age\t16%\t19%\t13%"
+    ],
+    "children": [],
+    "paper_ids": [
+      "35807888",
+      "19946010",
+      "20035247"
+    ],
+    "frequency": 3
+  },
+  {
+    "variable": "baseline household social deprivation",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: social deprivation variable. Description: Baseline household social deprivation refers to the degree of social disadvantage affecting the household at study entry, such as poor housing, low resources, or limited access to services.",
+    "source_passages": [
+      "Covariates included parental (mother and father) age, education and occupation, cooking fuels, house ownership, drinking water sources, child’s age, sex and school attendance as well as the household socio-economic status."
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline bedroom count",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: housing characteristic. Description: Baseline bedroom count refers to the number of bedrooms in the household at study entry, often used to characterize housing conditions or crowding.",
+    "source_passages": [
+      "Baseline characteristics, continuous variables given.\n\nNumber of bedrooms in home\t518\t2.5 (1.4)\t529\t2.7 (1.6)"
+    ],
+    "children": [],
+    "paper_ids": [
+      "29474479"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline weight z-score",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: anthropometric standardized measurement. Description: Baseline weight z-score is the participant's weight at study entry expressed in standard deviation units relative to a reference population.",
+    "source_passages": [
+      "Weight z-score (SDS) at discharge (Mean ± SD) −1.19 ± 0.87 −1.20 ± 0.83 −0.96 ± 0.95",
+      "Weight z-score (SDS) at 4-month CA (Mean ± SD) −0.65 ± 1.19 −0.54 ± 1.20 −0.17 ± 1.17"
+    ],
+    "children": [],
+    "paper_ids": [
+      "35807888"
+    ],
+    "frequency": 1
+  }
+]

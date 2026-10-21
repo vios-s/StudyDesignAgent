@@ -1,0 +1,674 @@
+[
+  {
+    "term": "perineal E. coli resistance to at least one antibiotic",
+    "knowledge card": "Type: microbiologic finding / laboratory finding. Description: This term refers to the presence of Escherichia coli (E. coli) isolated from the perineal area that is resistant to at least one antibiotic on susceptibility testing. In clinical meaning, it indicates colonization or detection of an antibiotic-resistant E. coli strain at the perineum, rather than a specific disease itself. This finding may be relevant because resistant perineal E. coli can serve as a reservoir for infection, including urinary tract infection, and may reflect prior antibiotic exposure or other risk factors for antimicrobial resistance."
+  },
+  {
+    "term": "urine culture organism identification",
+    "knowledge card": "Type: laboratory procedure. Description: This term refers to a urine culture test process in which microorganisms grown from a urine specimen are identified, usually to determine whether bacteria or yeast are present and causing a urinary tract infection. It is used to detect and name the organism in the sample so results can help guide diagnosis and treatment."
+  },
+  {
+    "term": "baseline breastfeeding",
+    "knowledge card": "Type: clinical/research status variable. Description: This term refers to breastfeeding status measured at baseline, meaning at the starting point of a clinical study, assessment, or observation period. It indicates whether an infant is being breastfed, and sometimes the extent of breastfeeding, before any intervention or follow-up occurs."
+  },
+  {
+    "term": "urine E coli trimethoprim-sulfamethoxazole resistance",
+    "knowledge card": "Type: microbiologic finding / antimicrobial susceptibility finding. Description: This term refers to Escherichia coli (E. coli) identified in a urine specimen that is resistant to trimethoprim-sulfamethoxazole on susceptibility testing. It indicates that this antibiotic combination is unlikely to be effective against the detected urinary E. coli isolate and is clinically relevant in the evaluation and treatment of urinary tract infection."
+  },
+  {
+    "term": "history of renal transplantation",
+    "knowledge card": "Type: clinical history finding. Description: This term indicates that a patient has previously undergone renal transplantation, also called kidney transplantation. It is a past medical history finding rather than a current disease, and it is clinically important because prior kidney transplant status can affect ongoing care, including kidney function monitoring, immunosuppressive therapy, infection risk, and transplant-related complications."
+  },
+  {
+    "term": "baseline sexually active",
+    "knowledge card": "Type: clinical/research status variable. Description: This term refers to whether a person is sexually active at baseline, meaning at the start of a study, clinical assessment, or observation period. It is used to record sexual activity status before any intervention or follow-up and may be relevant to reproductive, sexual health, or infection-related evaluations."
+  },
+  {
+    "term": "postmenopausal status",
+    "knowledge card": "Type: clinical finding / physiologic status. Description: This term indicates that a person is in the postmenopausal state, meaning menopause has occurred and menstrual periods have permanently ceased. In clinical use, it generally refers to the status after 12 months without menstruation that is not due to another pathological cause, and it is relevant to reproductive, hormonal, and general health assessment."
+  },
+  {
+    "term": "smoking",
+    "knowledge card": "Type: individual behavior. Description: Smoking is the deliberate inhalation and exhalation of smoke, most commonly from burning tobacco in cigarettes, cigars, or pipes. In medicine, it is an important health behavior because it is associated with nicotine dependence and increases the risk of many diseases, including cancer, lung disease, and cardiovascular disease."
+  },
+  {
+    "term": "urine bacterial growth",
+    "knowledge card": "Type: laboratory finding / microbiologic finding. Description: This term refers to the growth of bacteria from a urine specimen, usually detected on urine culture. It indicates that bacteria are present in the sample and may suggest bacteriuria or a urinary tract infection, although clinical interpretation depends on the amount and type of growth and the patient's symptoms."
+  },
+  {
+    "term": "baseline menopausal status",
+    "knowledge card": "Type: clinical/research status variable. Description: This term refers to a person's menopausal state as recorded at baseline, meaning at the start of a study, clinical assessment, or observation period. It indicates whether the individual is premenopausal, perimenopausal, or postmenopausal before any intervention or follow-up."
+  },
+  {
+    "term": "baseline comorbidity",
+    "knowledge card": "Type: clinical/research variable. Description: This term refers to the presence or measure of one or more coexisting medical conditions at baseline, meaning at the start of a study, clinical assessment, or observation period. It is used as an initial health status measure and may help describe patient risk, prognosis, or factors that could influence outcomes."
+  },
+  {
+    "term": "baseline prophylactic antibiotic dose",
+    "knowledge card": "Type: clinical/research treatment variable. Description: This term refers to the dose of an antibiotic being used prophylactically at baseline, meaning at the start of a study, clinical assessment, or observation period. It records preventive antibiotic use before follow-up and may be relevant for understanding infection prevention practices, exposure to antimicrobials, and factors that could influence outcomes."
+  },
+  {
+    "term": "baseline urine culture isolate identification",
+    "knowledge card": "Type: laboratory/research variable. Description: This term refers to identification of the microorganism isolated from a urine culture at baseline, meaning at the start of a study, clinical assessment, or observation period. It records which bacterium, yeast, or other organism is present in the urine sample before any intervention or follow-up and helps support diagnosis and treatment decisions."
+  },
+  {
+    "term": "baseline gentamicin dose and formulation",
+    "knowledge card": "Type: clinical/research medication variable. Description: This term refers to the gentamicin dose and the specific formulation being used at baseline, meaning at the start of a study, treatment course, or clinical assessment. It records both how much gentamicin is given and the product form, such as an injectable or ophthalmic preparation, before follow-up or intervention."
+  },
+  {
+    "term": "baseline years of smoking",
+    "knowledge card": "Type: clinical/research exposure variable. Description: This term refers to the number of years a person has smoked as recorded at baseline, meaning at the start of a study, clinical assessment, or observation period. It is used to quantify smoking history before follow-up and helps estimate cumulative tobacco exposure and related health risk."
+  },
+  {
+    "term": "baseline diagnosis of urinary lithiasis",
+    "knowledge card": "Type: clinical/research diagnosis variable. Description: This term refers to the presence of a diagnosis of urinary lithiasis at baseline, meaning at the start of a study, clinical assessment, or observation period. Urinary lithiasis means stones in the urinary tract, including the kidney, ureter, bladder, or urethra. Recording this diagnosis at baseline helps describe preexisting urinary stone disease before follow-up or intervention."
+  },
+  {
+    "term": "baseline UTI-related care setting",
+    "knowledge card": "Type: clinical/research care variable. Description: This term refers to the healthcare setting associated with urinary tract infection (UTI) care at baseline, meaning at the start of a study, clinical assessment, or observation period. It records where UTI-related evaluation or treatment is occurring, such as outpatient, primary care, emergency department, hospital, or long-term care, before follow-up or intervention."
+  },
+  {
+    "term": "UTI-related antibiotic exposure",
+    "knowledge card": "Type: clinical/research treatment exposure variable. Description: This term refers to exposure to antibiotics used for the treatment or prevention of a urinary tract infection (UTI). It captures whether a person has received antimicrobial therapy in relation to UTI care, which is clinically important because prior antibiotic use can influence treatment response, recurrence risk, and antimicrobial resistance."
+  },
+  {
+    "term": "baseline time since injury or diagnosis",
+    "knowledge card": "Type: clinical/research temporal variable. Description: This term refers to the amount of time that has elapsed, at baseline, since a patient’s injury occurred or since a diagnosis was made. It is recorded at the start of a study or clinical assessment and helps describe disease or injury duration before follow-up or intervention."
+  },
+  {
+    "term": "baseline diagnosis of urinary incontinence",
+    "knowledge card": "Type: clinical/research diagnosis variable. Description: This term refers to the presence of a diagnosis of urinary incontinence at baseline, meaning at the start of a study, clinical assessment, or observation period. Urinary incontinence is the involuntary leakage or loss of urine. Recording this diagnosis at baseline helps identify preexisting bladder control problems before follow-up or intervention."
+  },
+  {
+    "term": "baseline nitrofurantoin prophylaxis exposure",
+    "knowledge card": "Type: clinical/research medication exposure variable. Description: This term refers to prior or current exposure to nitrofurantoin used prophylactically at baseline, meaning at the start of a study, clinical assessment, or observation period. It indicates preventive use of nitrofurantoin, commonly for recurrent urinary tract infection prevention, before follow-up or intervention."
+  },
+  {
+    "term": "frailty",
+    "knowledge card": "Type: clinical finding / geriatric syndrome. Description: Frailty is a clinically recognizable state of increased vulnerability to stressors due to reduced physiologic reserve and function across multiple body systems. It is commonly characterized by weakness, fatigue, slowed movement, low physical activity, and unintentional weight loss, and it is associated with poorer recovery and higher risk of adverse health outcomes."
+  },
+  {
+    "term": "amoxicillin resistance",
+    "knowledge card": "Type: microbiologic finding / antimicrobial resistance finding. Description: This term refers to resistance of a microorganism, usually a bacterium, to amoxicillin, meaning the organism is not adequately inhibited or killed by this antibiotic. In clinical practice, it indicates that amoxicillin may be ineffective for treating an infection caused by the resistant organism."
+  },
+  {
+    "term": "baseline UTI symptom",
+    "knowledge card": "Type: clinical/research symptom variable. Description: This term refers to symptoms related to urinary tract infection that are present at baseline, meaning at the start of a study, clinical assessment, or observation period. Examples may include dysuria, urinary frequency, urgency, suprapubic pain, or flank pain. Recording baseline UTI symptoms helps describe the patient's initial clinical status before follow-up or treatment."
+  },
+  {
+    "term": "baseline correctable urinary tract abnormality contributory to recurrent UTI",
+    "knowledge card": "Type: clinical/research risk factor finding. Description: This term refers to the presence, at baseline, of a urinary tract structural or functional abnormality that may contribute to recurrent urinary tract infections and that is potentially correctable. Examples can include obstructive or anatomic problems that predispose to repeated infection. Recording this finding at baseline helps identify an underlying reversible cause of recurrent UTI before treatment or follow-up."
+  },
+  {
+    "term": "fecal and urinary E. coli amoxicillin resistance",
+    "knowledge card": "Type: microbiologic finding / antimicrobial susceptibility finding. Description: This term refers to Escherichia coli (E. coli) isolated from fecal and urine specimens that is resistant to amoxicillin on susceptibility testing. It indicates that the detected E. coli strains from intestinal and urinary sources are unlikely to respond to amoxicillin, which may be relevant in understanding colonization, transmission, and treatment of urinary tract infection."
+  },
+  {
+    "term": "baseline methenamine hippurate exposure",
+    "knowledge card": "Type: clinical/research medication exposure variable. Description: This term refers to prior or current exposure to methenamine hippurate at baseline, meaning at the start of a study, clinical assessment, or observation period. Methenamine hippurate is used for prophylactic or suppressive treatment of frequently recurring urinary tract infections, so this variable records preventive use before follow-up or intervention."
+  },
+  {
+    "term": "baseline diagnosis of uncomplicated UTI",
+    "knowledge card": "Type: clinical/research diagnosis variable. Description: This term refers to the presence of a diagnosis of uncomplicated urinary tract infection at baseline, meaning at the start of a study, clinical assessment, or observation period. An uncomplicated UTI is typically a bacterial lower urinary tract infection, such as cystitis, occurring in a person without relevant structural or functional urinary tract abnormalities or major complicating comorbidities."
+  },
+  {
+    "term": "baseline self-reported UTI count in previous 12 months",
+    "knowledge card": "Type: clinical/research history variable. Description: This term refers to the number of urinary tract infections a person reports having had during the 12 months before baseline, meaning before the start of a study, clinical assessment, or observation period. It is a self-reported measure of recent UTI frequency and is commonly used to describe prior disease burden and risk of recurrence."
+  },
+  {
+    "term": "multidrug-resistant organism in urine culture",
+    "knowledge card": "Type: microbiologic finding / laboratory finding. Description: This term refers to a microorganism grown from a urine culture that is resistant to multiple antimicrobial drugs. It indicates that the urinary isolate has limited susceptibility to standard antibiotics, which can complicate treatment of urinary tract infection and may require more targeted antimicrobial selection."
+  },
+  {
+    "term": "baseline immunosuppression",
+    "knowledge card": "Type: clinical/research status variable. Description: This term refers to immunosuppression present at baseline, meaning at the start of a study, clinical assessment, or observation period. Immunosuppression is a reduced ability of the immune system to respond effectively, whether due to disease or immunosuppressive treatment, and it is clinically important because it increases susceptibility to infection and can affect outcomes."
+  },
+  {
+    "term": "gentamicin bladder instillation exposure",
+    "knowledge card": "Type: clinical treatment exposure variable. Description: This term refers to exposure to gentamicin administered directly into the bladder, usually as an intravesical instillation. It indicates that a person has received this local antibiotic treatment, often used in selected patients to help prevent or manage recurrent urinary tract infections."
+  },
+  {
+    "term": "urine Escherichia coli growth",
+    "knowledge card": "Type: microbiologic finding / laboratory finding. Description: This term refers to the growth of Escherichia coli (E. coli) from a urine specimen, usually on urine culture. It indicates that E. coli is present in the urine sample and commonly suggests bacteriuria or urinary tract infection, depending on the amount of growth and the clinical context."
+  },
+  {
+    "term": "diabetes",
+    "knowledge card": "Type: Disease/metabolic disorder. Description: Diabetes is a heterogeneous group of chronic metabolic disorders characterized by hyperglycemia (high blood sugar) and impaired glucose tolerance. It occurs because the body does not produce enough insulin, does not respond properly to insulin, or both. In clinical practice, diabetes commonly refers to diabetes mellitus, including type 1 and type 2 diabetes."
+  },
+  {
+    "term": "history of methenamine hippurate exposure",
+    "knowledge card": "Type: Exposure/drug history term. Description: This term refers to a documented past exposure or prior use of methenamine hippurate, a medication used in urinary tract antiseptic therapy. It indicates that a person has previously taken or been exposed to this drug, rather than describing an active disease or current treatment."
+  },
+  {
+    "term": "baseline incontinence material use",
+    "knowledge card": "Type: Clinical assessment/usage measure. Description: This term refers to the use of incontinence materials, such as pads, briefs, or protective garments, at baseline—that is, at the start of a clinical evaluation or study. It is used to document the patient’s initial level of support needed for urinary or fecal incontinence before treatment or follow-up."
+  },
+  {
+    "term": "antibiotic resistance",
+    "knowledge card": "Type: Organism attribute/microbiologic phenomenon. Description: Antibiotic resistance is the ability of bacteria or other microorganisms to survive or continue growing despite exposure to an antibiotic that would normally kill them or stop their growth. It results from genetic changes in the microorganisms and can lead to infections that are harder to treat, require longer care, and may be more dangerous."
+  },
+  {
+    "term": "baseline symptomatic UTI count",
+    "knowledge card": "Type: Clinical measurement/count variable. Description: This term refers to the number of symptomatic urinary tract infections (UTIs) a patient has at baseline, meaning at the start of a clinical assessment or study period. It is used to record the initial burden of UTIs that caused symptoms such as dysuria, urgency, frequency, or related urinary complaints before treatment or follow-up."
+  },
+  {
+    "term": "prophylactic antibiotic exposure",
+    "knowledge card": "Type: Exposure/treatment history term. Description: This term refers to prior or current exposure to antibiotics given prophylactically, meaning they are used to prevent an infection rather than treat an active one. In clinical settings, it often describes preventive antibiotic use in people at risk for recurrent or procedure-related infections."
+  },
+  {
+    "term": "social deprivation",
+    "knowledge card": "Type: Social determinant/human-caused phenomenon. Description: Social deprivation refers to limited access to society’s resources and opportunities because of poverty, discrimination, neglect, or other disadvantage. It is associated with factors such as low income, limited education, unemployment, poor housing, and reduced access to transport or social support, and it can negatively affect health and well-being."
+  },
+  {
+    "term": "baseline Escherichia coli urine culture isolation",
+    "knowledge card": "Type: Microbiologic finding/baseline clinical variable. Description: This term refers to the detection and isolation of Escherichia coli (E. coli) from a urine culture at baseline, meaning at the start of a clinical assessment or study. It indicates that E. coli was present in the urine sample at the initial time point and is commonly relevant in the evaluation of urinary tract infection."
+  },
+  {
+    "term": "symptomatic urine E. coli co-trimoxazole resistance",
+    "knowledge card": "Type: Microbiologic resistance finding. Description: This term refers to Escherichia coli isolated from the urine of a patient with symptomatic urinary tract infection that is resistant to co-trimoxazole (trimethoprim-sulfamethoxazole). It indicates that this antibiotic is unlikely to be effective against the identified urinary E. coli strain."
+  },
+  {
+    "term": "diagnosis of immunosuppression",
+    "knowledge card": "Type: Diagnosis/clinical condition. Description: This term refers to a documented diagnosis that a person has immunosuppression, meaning reduced activity or effectiveness of the immune system. Immunosuppression may result from diseases, medical treatments such as chemotherapy or immunosuppressive drugs, or other conditions that increase susceptibility to infections."
+  },
+  {
+    "term": "baseline urine culture",
+    "knowledge card": "Type: Laboratory test/baseline clinical assessment. Description: This term refers to a urine culture obtained at baseline, meaning at the start of a clinical evaluation or study. It is used to detect and identify bacteria or other microorganisms present in the urine before treatment or follow-up, helping establish the initial microbiologic status."
+  },
+  {
+    "term": "UTI-related trimethoprim-sulfamethoxazole exposure",
+    "knowledge card": "Type: Drug exposure/treatment history term. Description: This term refers to prior or current exposure to trimethoprim-sulfamethoxazole in the context of a urinary tract infection (UTI). It indicates that this antibiotic combination was used for treatment or management of a UTI, which may be relevant when assessing prior therapy or antibiotic resistance risk."
+  },
+  {
+    "term": "pregnancy status",
+    "knowledge card": "Type: Clinical finding/status. Description: Pregnancy status refers to whether an individual is currently pregnant, not pregnant, or has an unknown pregnancy state. It is an important clinical finding used in medical assessment, treatment decisions, and safety considerations."
+  },
+  {
+    "term": "history of urological reconstruction",
+    "knowledge card": "Type: Surgical history term. Description: This term refers to a documented past history of reconstructive urologic surgery involving the urinary tract or related genitourinary structures. It indicates that the person previously underwent surgery to restore anatomy or function, which may be relevant to current urinary symptoms, anatomy, or infection risk."
+  },
+  {
+    "term": "baseline diagnosis of recurrent UTI",
+    "knowledge card": "Type: Diagnosis/baseline clinical status. Description: This term refers to a documented diagnosis of recurrent urinary tract infection (UTI) present at baseline, meaning at the start of a clinical assessment or study. Recurrent UTI generally means repeated episodes of symptomatic UTI over time, often defined in practice as two or more infections in 6 months or three or more in 12 months."
+  },
+  {
+    "term": "baseline long-term antibiotic prophylaxis exposure",
+    "knowledge card": "Type: Exposure/treatment history term. Description: This term refers to documented exposure at baseline to long-term antibiotic prophylaxis, meaning ongoing or prior extended use of antibiotics to prevent infection rather than treat an active infection. It is recorded at the start of a clinical assessment or study to capture preventive antibiotic use and related risk factors, such as antimicrobial resistance."
+  },
+  {
+    "term": "baseline alcohol use",
+    "knowledge card": "Type: Behavioral/clinical history variable. Description: This term refers to a person’s alcohol consumption status or pattern at baseline, meaning at the start of a clinical assessment or study. It is used to document initial alcohol use, such as whether the person drinks alcohol and sometimes the amount or frequency of use."
+  },
+  {
+    "term": "history of UTI-related diagnosis or antibiotic exposure in preceding 90 days",
+    "knowledge card": "Type: Recent clinical history/exposure term. Description: This term refers to a documented history within the previous 90 days of either a urinary tract infection (UTI)-related diagnosis or exposure to antibiotics used in relation to a UTI. It is used to capture recent infection history and recent antibiotic use, which may be relevant to recurrence risk, treatment decisions, and antimicrobial resistance."
+  },
+  {
+    "term": "E coli trimethoprim resistance",
+    "knowledge card": "Type: Microbiologic resistance finding. Description: This term refers to Escherichia coli (E. coli) that is resistant to trimethoprim, meaning the bacteria can survive and continue to grow despite exposure to this antibiotic. It is clinically important because trimethoprim may be ineffective for treating infections caused by the resistant strain."
+  },
+  {
+    "term": "hypertension",
+    "knowledge card": "Type: Disease/cardiovascular disorder. Description: Hypertension is a chronic condition in which blood pressure in the arteries is persistently elevated. It is often called high blood pressure and may have no symptoms, but over time it increases the risk of heart attack, stroke, heart failure, and kidney disease."
+  },
+  {
+    "term": "history of gynaecological-obstetric surgery",
+    "knowledge card": "Type: Surgical history term. Description: This term refers to a documented past history of surgery related to gynecologic or obstetric care. It includes previous operations involving the female reproductive system or pregnancy-related procedures, and it may be relevant to current reproductive, pelvic, or urinary health."
+  },
+  {
+    "term": "baseline six-month follow-up before and after gentamicin initiation",
+    "knowledge card": "Type: Study design/timepoint variable. Description: This term refers to the comparison of clinical data collected during a baseline period and during six months of follow-up before and after the start of gentamicin treatment. It is used to assess changes over time, such as infection frequency or treatment response, in relation to gentamicin initiation."
+  },
+  {
+    "term": "baseline intermittent self-catheterisation",
+    "knowledge card": "Type: Baseline clinical history/management variable. Description: This term refers to the use of intermittent self-catheterisation at baseline, meaning at the start of a clinical assessment or study. Intermittent self-catheterisation is a method in which a person periodically inserts a catheter to empty the bladder, and documenting it at baseline helps describe the patient’s initial bladder management status."
+  },
+  {
+    "term": "baseline complicated UTI",
+    "knowledge card": "Type: Diagnosis/baseline clinical status. Description: This term refers to a complicated urinary tract infection (UTI) present at baseline, meaning at the start of a clinical assessment or study. A complicated UTI is a urinary infection associated with factors that increase the risk of treatment failure or worse outcomes, such as structural or functional urinary tract abnormalities, catheters, or significant comorbid conditions."
+  },
+  {
+    "term": "E. coli antibiotic resistance",
+    "knowledge card": "Type: Microbiologic phenomenon/organism attribute. Description: E. coli antibiotic resistance refers to the ability of Escherichia coli bacteria to survive or continue growing despite treatment with antibiotics that would normally inhibit or kill them. This resistance can make E. coli infections, including urinary tract infections, harder to treat and may require alternative antibiotics."
+  },
+  {
+    "term": "trimethoprim resistance",
+    "knowledge card": "Type: Organism attribute/microbiologic resistance finding. Description: Trimethoprim resistance is the nonsusceptibility of bacteria to the action of trimethoprim. It means the antibiotic is less effective or ineffective against the resistant bacteria, which can make infections more difficult to treat."
+  },
+  {
+    "term": "E coli norfloxacin resistance",
+    "knowledge card": "Type: Microbiologic resistance finding. Description: This term refers to Escherichia coli (E. coli) that is resistant to norfloxacin, meaning the bacteria can survive or continue growing despite exposure to this fluoroquinolone antibiotic. It suggests that norfloxacin may be ineffective for treating infections caused by the resistant E. coli strain."
+  },
+  {
+    "term": "ciprofloxacin resistance",
+    "knowledge card": "Type: Organism attribute/microbiologic resistance finding. Description: Ciprofloxacin resistance refers to the ability of bacteria to survive or continue growing despite exposure to ciprofloxacin, a fluoroquinolone antibiotic. It indicates reduced or absent susceptibility to this drug and may limit its effectiveness in treating bacterial infections."
+  },
+  {
+    "term": "premenopausal status",
+    "knowledge card": "Type: Clinical/reproductive status finding. Description: Premenopausal status refers to being in the stage of life before menopause, when menstrual cycles and ovarian hormonal function are still present. It is an important clinical finding in reproductive and hormonal assessment."
+  },
+  {
+    "term": "history of hospitalisation in preceding 14 days",
+    "knowledge card": "Type: Recent clinical history term. Description: This term refers to a documented history that a person was hospitalized within the previous 14 days. It is used to capture recent healthcare exposure, which may be relevant to current illness severity, infection risk, or treatment decisions."
+  },
+  {
+    "term": "baseline smoking intensity",
+    "knowledge card": "Type: Behavioral/clinical history variable. Description: This term refers to the amount or level of tobacco smoking at baseline, meaning at the start of a clinical assessment or study. Smoking intensity is commonly measured by the number of cigarettes smoked per day and is used to describe initial smoking exposure."
+  },
+  {
+    "term": "number of positive urine culture during follow-up",
+    "knowledge card": "Type: Clinical outcome/laboratory count variable. Description: This term refers to the total count of urine cultures that were positive for microbial growth during the follow-up period after baseline or treatment. It is used to measure how often bacteriuria or urinary infection was detected over time."
+  },
+  {
+    "term": "ethnicity",
+    "knowledge card": "Type: Population group/demographic characteristic. Description: Ethnicity refers to a group of people who share a common cultural heritage, history, origin, and sense of identity. In healthcare and research, it is used as a demographic characteristic that may relate to social experiences, lifestyle patterns, and differences in health outcomes."
+  },
+  {
+    "term": "diabetes mellitus",
+    "knowledge card": "Type: disease/metabolic disorder. Diabetes mellitus is a disease or syndrome characterized by chronic hyperglycemia (high blood glucose) and impaired glucose tolerance. It is a heterogeneous group of metabolic disorders caused by reduced insulin production, impaired insulin action (insulin resistance), or both, leading to difficulty maintaining normal blood sugar levels."
+  },
+  {
+    "term": "E coli amoxicillin resistance",
+    "knowledge card": "Type: antimicrobial resistance / microbiology finding. E. coli amoxicillin resistance refers to Escherichia coli bacteria that are not effectively inhibited or killed by the antibiotic amoxicillin. Clinically, this means infections caused by these strains may not respond to amoxicillin treatment. E. coli is often normally susceptible to many antibiotics, but it can acquire resistance genes, commonly through horizontal gene transfer, leading to reduced antibiotic effectiveness."
+  },
+  {
+    "term": "baseline number of vaginal delivery",
+    "knowledge card": "Type: clinical/obstetric history variable. Baseline number of vaginal delivery refers to the recorded count of prior births delivered vaginally at the starting point of a clinical assessment, study, or patient record. It is used as a background obstetric characteristic to describe a patient’s delivery history before an intervention, outcome measurement, or follow-up period."
+  },
+  {
+    "term": "CKD",
+    "knowledge card": "Type: disease. CKD stands for chronic kidney disease, a long-term disorder in which the kidneys are damaged and have reduced ability to filter blood properly for at least three months. This can lead to buildup of waste and fluid in the body and may progress slowly over time to kidney failure. Common causes include diabetes and high blood pressure."
+  },
+  {
+    "term": "Escherichia coli antibiotic susceptibility",
+    "knowledge card": "Type: microbiology/laboratory finding. Escherichia coli antibiotic susceptibility refers to how sensitive E. coli bacteria are to specific antibiotics, as determined by antimicrobial susceptibility testing. It describes whether an E. coli isolate is likely to be inhibited or killed by a given drug and helps guide appropriate antibiotic selection for treatment."
+  },
+  {
+    "term": "history of antibiotic prophylaxis exposure",
+    "knowledge card": "Type: clinical history variable. History of antibiotic prophylaxis exposure refers to whether a patient has previously received antibiotics for prevention of infection rather than for treatment of an active infection. This term is used as a background clinical factor because prior prophylactic antibiotic use may influence infection risk, microbial flora, and antibiotic resistance patterns."
+  },
+  {
+    "term": "urine culture with antibiogram result",
+    "knowledge card": "Type: laboratory test result / microbiology finding. Urine culture with antibiogram result refers to a urine microbiology test that identifies bacteria or other microorganisms present in urine and reports their antibiotic susceptibility pattern. It is used to diagnose urinary tract infection and to guide antibiotic selection by showing which antimicrobial agents the isolated organism is susceptible or resistant to."
+  },
+  {
+    "term": "urine coliform growth",
+    "knowledge card": "Type: microbiology/laboratory finding. Urine coliform growth refers to the growth of coliform bacteria in a urine culture sample. Coliforms are Gram-negative bacilli, including organisms such as Escherichia coli, that may indicate urinary tract infection when detected in urine, although interpretation depends on the amount of growth and the clinical context."
+  },
+  {
+    "term": "erythromycin, fosfomycin, and clindamycin resistance",
+    "knowledge card": "Type: antimicrobial resistance / laboratory finding. Erythromycin, fosfomycin, and clindamycin resistance refers to a microbial isolate showing reduced susceptibility or non-susceptibility to these three antibiotics on susceptibility testing. Clinically, this means the organism may not respond to treatment with erythromycin, fosfomycin, or clindamycin, and alternative active antibiotics may be needed."
+  },
+  {
+    "term": "baseline diagnosis of chronic disease",
+    "knowledge card": "Type: clinical history variable. Baseline diagnosis of chronic disease refers to the presence or documented diagnosis of a long-term medical condition at the initial time point of assessment, enrollment, or data collection. It is used to describe a patient’s pre-existing health status before follow-up, treatment, or outcome evaluation."
+  },
+  {
+    "term": "diagnosis of CKD",
+    "knowledge card": "Type: clinical finding/diagnostic status. Diagnosis of CKD refers to the identification of chronic kidney disease, a long-term impairment of kidney structure or function that persists for at least three months. In clinical practice, the diagnosis is typically based on blood and urine testing, such as estimated glomerular filtration rate (GFR) and urine albumin, which show ongoing kidney damage or reduced kidney function."
+  },
+  {
+    "term": "urine bacterial susceptibility to prescribed antibiotic",
+    "knowledge card": "Type: laboratory/microbiology finding. Urine bacterial susceptibility to prescribed antibiotic refers to whether bacteria isolated from a urine sample are sensitive to the antibiotic that has been prescribed. It is determined by antimicrobial susceptibility testing and helps show whether the chosen treatment is likely to be effective against the urinary pathogen."
+  },
+  {
+    "term": "baseline UTI count in preceding year",
+    "knowledge card": "Type: clinical history variable. Baseline UTI count in preceding year refers to the number of urinary tract infection episodes a patient had during the year before the baseline assessment or study entry. It is used to describe prior infection burden and to help assess risk of recurrent UTI."
+  },
+  {
+    "term": "perineal E. coli multidrug resistance",
+    "knowledge card": "Type: microbiology finding / antimicrobial resistance. Perineal E. coli multidrug resistance refers to Escherichia coli identified from the perineal area that is resistant to multiple antimicrobial drugs. This indicates colonization or presence of E. coli strains with reduced susceptibility to several antibiotics, which may increase the risk of difficult-to-treat infection and limit treatment options."
+  },
+  {
+    "term": "baseline antibiotic sensitivity pattern in urine culture",
+    "knowledge card": "Type: laboratory/microbiology baseline variable. Baseline antibiotic sensitivity pattern in urine culture refers to the initial susceptibility profile of bacteria grown from a urine sample at the start of assessment or study entry. It shows which antibiotics the urinary isolate is sensitive or resistant to and helps guide treatment decisions and establish a reference for later comparison."
+  },
+  {
+    "term": "baseline diagnosis of neurogenic bladder",
+    "knowledge card": "Type: clinical history variable / diagnosis. Baseline diagnosis of neurogenic bladder refers to documentation at the initial assessment that a patient has bladder dysfunction caused by neurologic damage or disease. Neurogenic bladder can impair urine storage or emptying and may be associated with incontinence, urinary retention, recurrent urinary tract infection, and other urinary complications."
+  },
+  {
+    "term": "baseline Proteus mirabilis urine culture isolation",
+    "knowledge card": "Type: microbiology baseline finding. Baseline Proteus mirabilis urine culture isolation refers to the detection and identification of Proteus mirabilis in a urine culture at the initial assessment or study entry. Proteus mirabilis is a Gram-negative bacterium commonly associated with urinary tract infections, and its presence in urine may indicate urinary colonization or infection depending on the clinical context."
+  },
+  {
+    "term": "disease-free time",
+    "knowledge card": "Type: clinical outcome/time interval. Disease-free time refers to the period during which a patient remains without detectable signs, symptoms, or recurrence of a disease after treatment or remission. It is commonly used as an outcome measure, especially in oncology, to assess how long a patient stays free of disease."
+  },
+  {
+    "term": "gentamicin-resistant organism in urine culture",
+    "knowledge card": "Type: microbiology/laboratory finding. Gentamicin-resistant organism in urine culture refers to a microorganism isolated from a urine sample that is reported as resistant to gentamicin on antimicrobial susceptibility testing. This means gentamicin is unlikely to be effective for treating infection caused by that urinary isolate."
+  },
+  {
+    "term": "history of UTI-related antibiotic exposure",
+    "knowledge card": "Type: clinical history variable. History of UTI-related antibiotic exposure refers to prior use of antibiotics to treat or prevent urinary tract infections. It is an important background factor because previous antibiotic exposure can influence recurrence risk, urine culture results, and the likelihood of antibiotic-resistant urinary pathogens."
+  },
+  {
+    "term": "diagnosis of diabetes",
+    "knowledge card": "Type: clinical finding/diagnostic status. Diagnosis of diabetes refers to the identification of diabetes mellitus, a metabolic disease characterized by hyperglycemia and impaired glucose regulation due to insufficient insulin production, impaired insulin action, or both. In clinical practice, this diagnosis indicates that a person has a disorder affecting the body’s ability to maintain normal blood glucose levels."
+  },
+  {
+    "term": "baseline three-month washout period completion",
+    "knowledge card": "Type: study eligibility/baseline status variable. Baseline three-month washout period completion refers to confirmation that, before baseline assessment or study entry, a participant completed a 3-month period without the prior treatment, drug, or intervention. This is used to reduce carryover effects and ensure that baseline measurements reflect the participant’s status without recent influence from the previous exposure."
+  },
+  {
+    "term": "sex",
+    "knowledge card": "Type: organism attribute/demographic variable. Sex refers to the biological classification of an individual based on reproductive anatomy and related physical characteristics, including phenotype and genotype, commonly categorized as male or female. In medical and research settings, it is used as a basic demographic and biological attribute."
+  },
+  {
+    "term": "baseline cranberry extract exposure",
+    "knowledge card": "Type: clinical history/exposure variable. Baseline cranberry extract exposure refers to whether a person was using or had been exposed to cranberry extract at the time of baseline assessment or study entry. It is recorded as a background exposure variable, often because cranberry products may be used as a preventive measure in urinary tract health studies."
+  },
+  {
+    "term": "antibiotic susceptibility testing result",
+    "knowledge card": "Type: laboratory/microbiology result. Antibiotic susceptibility testing result is the laboratory report showing how a microorganism responds to specific antibiotics. It classifies the organism as susceptible, intermediate, or resistant, and may include measures such as minimum inhibitory concentration (MIC). These results help guide selection of effective antimicrobial treatment."
+  },
+  {
+    "term": "fecal E coli trimethoprim-sulfamethoxazole resistance",
+    "knowledge card": "Type: microbiology finding / antimicrobial resistance. Fecal E. coli trimethoprim-sulfamethoxazole resistance refers to Escherichia coli isolated from stool or fecal flora that is resistant to the antibiotic combination trimethoprim-sulfamethoxazole. This indicates intestinal carriage of resistant E. coli and may reflect prior antibiotic exposure or selection pressure."
+  },
+  {
+    "term": "amoxicillin-clavulanate resistance",
+    "knowledge card": "Type: antimicrobial resistance / laboratory finding. Amoxicillin-clavulanate resistance refers to a microorganism showing reduced susceptibility or non-susceptibility to the antibiotic combination amoxicillin and clavulanate. Clinically, this means the organism may not be effectively treated with this drug combination, often due to resistance mechanisms in the pathogen."
+  },
+  {
+    "term": "baseline prophylactic antibiotic exposure duration",
+    "knowledge card": "Type: clinical history/exposure variable. Baseline prophylactic antibiotic exposure duration refers to the length of time a patient had been receiving antibiotics for infection prevention before the baseline assessment or study entry. It is used to describe prior preventive antibiotic use, which may affect infection risk and antimicrobial resistance patterns."
+  },
+  {
+    "term": "urine white blood cell count",
+    "knowledge card": "Type: laboratory test result. Urine white blood cell count is the measurement of the number of white blood cells present in a urine sample. Increased white blood cells in urine may indicate inflammation or infection in the urinary tract, although results must be interpreted in clinical context and with attention to possible sample contamination."
+  },
+  {
+    "term": "fecal and urinary E. coli trimethoprim-sulfamethoxazole resistance",
+    "knowledge card": "Type: microbiology finding / antimicrobial resistance. Fecal and urinary E. coli trimethoprim-sulfamethoxazole resistance refers to Escherichia coli isolated from stool and urine that is resistant to the antibiotic combination trimethoprim-sulfamethoxazole. This indicates resistant E. coli colonization in the gut and/or infection in the urinary tract, which may reduce the usefulness of this antibiotic for treatment."
+  },
+  {
+    "term": "cefalexin resistance",
+    "knowledge card": "Type: antimicrobial resistance / laboratory finding. Cefalexin resistance refers to a microorganism showing reduced susceptibility or non-susceptibility to cefalexin (cephalexin), a first-generation cephalosporin antibiotic. Clinically, this means the organism may not be effectively treated with cefalexin."
+  },
+  {
+    "term": "baseline neurogenic dysfunction of the lower urinary tract",
+    "knowledge card": "Type: clinical history variable / diagnosis. Baseline neurogenic dysfunction of the lower urinary tract refers to documentation at the initial assessment that a patient has abnormal function of the bladder, bladder neck, and/or urinary sphincters due to a neurologic disorder. This condition can affect urine storage or emptying and may present with incontinence, urgency, retention, or recurrent urinary complications."
+  },
+  {
+    "term": "baseline washout period without preventive treatment",
+    "knowledge card": "Type: study design/baseline status variable. Baseline washout period without preventive treatment refers to a treatment-free interval before baseline assessment or study entry during which the participant does not receive preventive therapy. Its purpose is to allow prior treatment effects to wear off so baseline measurements better reflect the untreated condition."
+  },
+  {
+    "term": "baseline positive urine culture count in previous 12 months",
+    "knowledge card": "Type: clinical variable / measurement. Description: This term refers to the number of urine cultures that were positive at baseline during the prior 12 months. It is used as a historical clinical measure to capture how many times a patient had documented bacterial growth in urine over the past year. In clinical practice, interpretation of a positive urine culture depends on the context, including symptoms and specimen collection quality, because a positive culture may reflect urinary tract infection or asymptomatic bacteriuria."
+  },
+  {
+    "term": "baseline Enterococcus faecalis urine culture isolation",
+    "knowledge card": "Type: microbiology finding / baseline clinical variable. Description: This term refers to the detection or isolation of Enterococcus faecalis from a urine culture at baseline. Enterococcus faecalis is a bacterium that commonly inhabits the gastrointestinal tract and may be found in urine either as a cause of urinary tract infection or as colonization without clear infection. Clinical interpretation depends on symptoms, urine collection quality, and the overall patient context."
+  },
+  {
+    "term": "E coli nitrofurantoin resistance",
+    "knowledge card": "Type: antimicrobial resistance finding. Description: This term refers to Escherichia coli that is resistant to nitrofurantoin, meaning the organism is not susceptible to this antibiotic at standard testing thresholds. It is a microbiology and antibiotic susceptibility result used to guide treatment decisions, especially in urinary tract infections caused by E. coli."
+  },
+  {
+    "term": "urinary E. coli antibiotic resistance",
+    "knowledge card": "Type: microbiology / antimicrobial resistance finding. Description: This term refers to antibiotic resistance in Escherichia coli isolated from urine. It indicates that urinary E. coli is not susceptible to one or more antibiotics that might otherwise be used to treat urinary tract infection. This finding is important for selecting effective therapy and for monitoring patterns of antimicrobial resistance in urinary infections."
+  },
+  {
+    "term": "baseline neurological condition etiology",
+    "knowledge card": "Type: clinical variable / diagnostic attribute. Description: This term refers to the underlying cause or origin of a neurological condition as documented at baseline. In medicine, etiology means the cause of a disease or condition. For a neurological condition, this may describe the factor or process responsible for the disorder, such as degenerative, vascular, infectious, traumatic, congenital, autoimmune, or metabolic causes."
+  },
+  {
+    "term": "baseline complicating host factor",
+    "knowledge card": "Type: clinical risk factor / baseline patient characteristic. Description: This term refers to a patient-related factor present at baseline that may increase susceptibility to disease, make an infection more complex, or affect clinical outcomes and management. A host factor is an inherent or acquired characteristic of the individual, such as age, comorbidity, immune status, or other traits that can complicate the clinical course."
+  },
+  {
+    "term": "symptomatic urine E. coli trimethoprim resistance",
+    "knowledge card": "Type: microbiology / antimicrobial resistance finding. Description: This term refers to trimethoprim resistance in Escherichia coli isolated from urine in a patient with urinary symptoms. It indicates that the E. coli causing a symptomatic urinary tract infection is not susceptible to trimethoprim at standard testing thresholds, which is important for antibiotic selection and treatment planning."
+  },
+  {
+    "term": "symptomatic urine E. coli cephalosporin resistance",
+    "knowledge card": "Type: microbiology / antimicrobial resistance finding. Description: This term refers to cephalosporin resistance in Escherichia coli isolated from urine in a patient with urinary symptoms. It indicates that the E. coli associated with a symptomatic urinary tract infection is not susceptible to one or more cephalosporin antibiotics, which can limit treatment options and may be associated with resistant strains such as ESBL-producing organisms."
+  },
+  {
+    "term": "baseline UTI frequency in the preceding year",
+    "knowledge card": "Type: clinical history variable. Description: This term refers to how often a patient experienced urinary tract infections during the year before baseline assessment. It is used to summarize prior UTI burden, such as the number of episodes over the previous 12 months, and can help identify patients with recurrent infection risk."
+  },
+  {
+    "term": "baseline diagnosis of multiple sclerosis",
+    "knowledge card": "Type: disease diagnosis / baseline clinical characteristic. Description: This term indicates that a patient had a documented diagnosis of multiple sclerosis at baseline. Multiple sclerosis is a chronic disorder of the central nervous system characterized by inflammatory demyelination and scarring in the brain, spinal cord, and optic nerves, which can lead to neurologic symptoms and disability."
+  },
+  {
+    "term": "baseline cefalexin dose",
+    "knowledge card": "Type: medication variable. Description: This term refers to the dose of cefalexin a patient was receiving or prescribed at baseline. Cefalexin is a cephalosporin antibiotic used to treat bacterial infections, and the baseline dose records the amount and dosing schedule at the start of observation or study assessment."
+  },
+  {
+    "term": "baseline drug allergy",
+    "knowledge card": "Type: clinical history / allergy variable. Description: This term refers to a documented drug allergy present at baseline. A drug allergy is an adverse reaction to a medication caused by an immune-mediated mechanism. Recording this at baseline is important because it can affect medication choice, safety, and treatment planning."
+  },
+  {
+    "term": "baseline concomitant urodynamic-effect drug exposure",
+    "knowledge card": "Type: medication exposure variable. Description: This term refers to the use at baseline of other medications taken concurrently that may affect urinary tract or bladder function. “Concomitant” means taken at the same time, and “drug exposure” means documented use of a medication. In this context, the term captures baseline exposure to drugs that could influence urodynamic function, such as bladder storage or emptying, and may therefore affect symptoms or study outcomes."
+  },
+  {
+    "term": "baseline prophylactic antibiotic dose consistency",
+    "knowledge card": "Type: medication adherence / treatment pattern variable. Description: This term refers to how consistently a prophylactic antibiotic dose was maintained at baseline. Prophylactic antibiotics are used to prevent infection, and dose consistency captures whether the prescribed preventive dosing regimen was stable and taken as intended at the start of assessment or study follow-up."
+  },
+  {
+    "term": "baseline UTI-related antibiotic prescription frequency",
+    "knowledge card": "Type: clinical history / medication use variable. Description: This term refers to how often antibiotics were prescribed for urinary tract infection at baseline or during the period used to define baseline history. It is a measure of prior UTI-related antibiotic use and can help reflect infection burden, prescribing patterns, and potential risk for antimicrobial resistance."
+  },
+  {
+    "term": "baseline smoking status",
+    "knowledge card": "Type: baseline patient characteristic / risk factor. Description: This term refers to a patient’s tobacco use classification at baseline, such as current smoker, former smoker, never smoker, or unknown. Smoking status is an important clinical variable because it can influence disease risk, treatment decisions, and health outcomes."
+  },
+  {
+    "term": "baseline time between recurrent UTI diagnosis and prophylactic antibiotic initiation",
+    "knowledge card": "Type: clinical timing variable. Description: This term refers to the interval at baseline between the diagnosis of recurrent urinary tract infection and the start of prophylactic antibiotic treatment. It measures how much time elapsed before preventive antibiotic therapy was initiated after recurrent UTI was recognized."
+  },
+  {
+    "term": "prophylactic antibiotic adherence",
+    "knowledge card": "Type: medication adherence variable. Description: This term refers to how closely a patient follows a prescribed antibiotic regimen intended to prevent infection rather than treat an active one. It reflects whether prophylactic antibiotics are taken as directed in the correct dose, timing, and duration, which can affect prevention effectiveness and resistance risk."
+  },
+  {
+    "term": "baseline causative microorganism isolated in urine culture",
+    "knowledge card": "Type: microbiology finding / baseline clinical variable. Description: This term refers to the organism identified in a urine culture at baseline that is considered responsible for the urinary infection. It records the specific causative microorganism isolated from the urine specimen and is used to support diagnosis and guide antimicrobial treatment."
+  },
+  {
+    "term": "BMI",
+    "knowledge card": "Type: clinical attribute / anthropometric measure. Description: BMI stands for body mass index. It is a measure calculated as weight in kilograms divided by height in meters squared (kg/m²). BMI is used to estimate body size and is commonly categorized in adults as underweight, normal weight, overweight, or obese."
+  },
+  {
+    "term": "baseline diagnosis of spinal cord injury",
+    "knowledge card": "Type: disease diagnosis / baseline clinical characteristic. Description: This term indicates that a patient had a documented diagnosis of spinal cord injury at baseline. Spinal cord injury is damage to the spinal cord or surrounding structures that disrupts nerve signal transmission and can cause loss of motor, sensory, and autonomic function below the level of injury."
+  },
+  {
+    "term": "diagnosis of urinary tract stone",
+    "knowledge card": "Type: disease diagnosis. Description: This term refers to a documented diagnosis of a stone in the urinary tract. Urinary tract stones are solid mineral deposits that can form in the kidney and may also be located in the ureter or bladder. They are part of the condition known as urolithiasis and may cause pain, blood in the urine, obstruction, or infection."
+  },
+  {
+    "term": "baseline trimethoprim-sulfamethoxazole dose",
+    "knowledge card": "Type: medication variable. Description: This term refers to the dose of trimethoprim-sulfamethoxazole a patient was receiving or prescribed at baseline. Trimethoprim-sulfamethoxazole is a combination antibiotic used to treat or prevent bacterial infections, including urinary tract infections, and the baseline dose records the amount and dosing schedule at the start of assessment."
+  },
+  {
+    "term": "fecal E. coli antibiotic resistance",
+    "knowledge card": "Type: microbiology / antimicrobial resistance finding. Description: This term refers to antibiotic resistance in Escherichia coli isolated from fecal samples. It indicates that intestinal E. coli is not susceptible to one or more antibiotics and may be used to study resistance patterns, colonization, and the gut reservoir of resistant bacteria."
+  },
+  {
+    "term": "history of recurrent UTI",
+    "knowledge card": "Type: clinical history / disease history. Description: This term refers to a documented past pattern of repeated urinary tract infections. Recurrent UTI is commonly defined as at least 2 infections within 6 months or at least 3 within 12 months. It is an important history feature because it may indicate ongoing susceptibility, underlying risk factors, and the need for preventive management."
+  },
+  {
+    "term": "baseline asymptomatic bacteriuria",
+    "knowledge card": "Type: clinical finding / baseline microbiologic condition. Description: This term refers to the presence of bacteria in the urine at baseline without symptoms of a urinary tract infection. It is a microbiologic finding rather than a symptomatic infection, and in many patients it does not require treatment."
+  },
+  {
+    "term": "baseline prophylactic antibiotic type",
+    "knowledge card": "Type: medication variable. Description: This term refers to the specific antibiotic being used at baseline for prophylaxis, meaning to prevent infection rather than treat an active one. It identifies the class or name of the preventive antibiotic regimen present at the start of assessment or study follow-up."
+  },
+  {
+    "term": "baseline urologic surgery",
+    "knowledge card": "Type: clinical history / procedural history variable. Description: This term refers to a history of urologic surgery documented at baseline. Urologic surgery includes operative procedures involving the urinary tract or male reproductive system, and recording it at baseline helps identify prior interventions that may affect urinary symptoms, infection risk, or later outcomes."
+  },
+  {
+    "term": "baseline urine culture isolate antibiotic resistance",
+    "knowledge card": "Type: microbiology / antimicrobial resistance finding. Description: This term refers to the antibiotic resistance profile of an organism isolated from a urine culture at baseline. It indicates which antibiotics the urine culture isolate is not susceptible to and is used to guide treatment decisions and assess resistance patterns in urinary pathogens."
+  },
+  {
+    "term": "baseline nitrofurantoin dose",
+    "knowledge card": "Type: medication variable. Description: This term refers to the dose of nitrofurantoin a patient was receiving or prescribed at baseline. Nitrofurantoin is an antibiotic commonly used to treat or prevent urinary tract infections, and the baseline dose records the amount and dosing schedule at the start of assessment or follow-up."
+  },
+  {
+    "term": "recruiting centre",
+    "knowledge card": "Type: study site / administrative variable. Description: This term refers to the clinical center, hospital, or research site where participants are identified, enrolled, and recruited into a study. It is used to indicate the location responsible for participant recruitment and may be important for tracking site-specific practices or outcomes."
+  },
+  {
+    "term": "baseline trimethoprim-sulfamethoxazole duration",
+    "knowledge card": "Type: medication variable. Description: This term refers to the length of time trimethoprim-sulfamethoxazole was prescribed or used at baseline. Trimethoprim-sulfamethoxazole is a combination antibiotic, and the duration records how long the treatment or prophylactic course was intended to continue at the start of assessment."
+  },
+  {
+    "term": "menopausal status",
+    "knowledge card": "Type: clinical attribute. Description: Menopausal status indicates whether a female patient is in menopause. It is used to classify reproductive stage, such as premenopausal, perimenopausal, or postmenopausal, and may be relevant to symptoms, hormone-related conditions, and treatment decisions."
+  },
+  {
+    "term": "baseline antibiotic exposure",
+    "knowledge card": "Type: clinical/research exposure variable. Description: Baseline antibiotic exposure refers to a patient’s antibiotic use at the starting point of observation, assessment, or study enrollment. It is used to describe whether, and sometimes how much, antibiotic treatment was already present before the main outcome, intervention, or follow-up period. In clinical research, this may include prior or current antibiotic administration within a defined time window at baseline. The term is not a specific disease or drug, but a measure of prior antibiotic exposure relevant to patient status and analysis."
+  },
+  {
+    "term": "fecal and urinary E. coli trimethoprim resistance",
+    "knowledge card": "Type: microbiologic/antimicrobial resistance finding. Description: Fecal and urinary E. coli trimethoprim resistance refers to Escherichia coli isolated from stool (fecal) or urine that is not susceptible to trimethoprim, an antibiotic commonly used for urinary tract infections. The term describes resistance patterns in colonizing intestinal strains and urinary isolates, which are clinically important because resistant E. coli can limit effective empiric treatment choices, especially for cystitis and other urinary infections."
+  },
+  {
+    "term": "baseline weight",
+    "knowledge card": "Type: clinical measurement / patient attribute. Description: Baseline weight is a person’s body weight measured at the start of a clinical evaluation, treatment, or research study. It serves as the reference point for comparing later weight changes, such as weight gain, weight loss, growth, or response to an intervention. In practice, it is an initial measurement rather than a disease or diagnosis."
+  },
+  {
+    "term": "baseline oral antibiotic prophylaxis exposure",
+    "knowledge card": "Type: clinical/research exposure variable. Description: Baseline oral antibiotic prophylaxis exposure refers to the use of orally administered antibiotics for prevention, rather than treatment, at the start of a clinical assessment or study period. It indicates whether a patient was already receiving preventive oral antibiotic therapy at baseline. This term is used to characterize prior medication exposure and may be important when evaluating infection risk, antimicrobial resistance, or treatment outcomes."
+  },
+  {
+    "term": "symptomatic urine E. coli antibiotic resistance",
+    "knowledge card": "Type: microbiologic/antimicrobial resistance finding. Description: Symptomatic urine E. coli antibiotic resistance refers to antibiotic resistance in Escherichia coli isolated from the urine of a patient who has symptoms of a urinary tract infection. It means the urinary E. coli causing symptomatic infection is not susceptible to one or more antibiotics commonly used for treatment. This finding is clinically important because it can reduce the effectiveness of empiric therapy and guide antibiotic selection."
+  },
+  {
+    "term": "baseline catheter use",
+    "knowledge card": "Type: clinical/research exposure variable. Description: Baseline catheter use refers to whether a patient is using a catheter at the start of a clinical assessment, treatment period, or research study. In practice, this often means an indwelling urinary catheter, though the exact catheter type should be defined by the study or clinical context. It is an important baseline characteristic because catheter use can affect infection risk, especially catheter-associated urinary tract infection, and other clinical outcomes."
+  },
+  {
+    "term": "diagnosis of urinary tract structural abnormality",
+    "knowledge card": "Type: diagnosis / anatomic abnormality. Description: Diagnosis of urinary tract structural abnormality refers to the identification of an abnormality in the anatomy of the urinary tract, including the kidneys, ureters, bladder, or urethra. These abnormalities may be congenital or acquired and can affect urine flow, predispose to infection, obstruction, reflux, or impaired kidney function. The term describes a diagnosed structural condition rather than a symptom or treatment."
+  },
+  {
+    "term": "baseline urinary tract anatomic or functional abnormality",
+    "knowledge card": "Type: baseline clinical condition / urinary tract abnormality. Description: Baseline urinary tract anatomic or functional abnormality refers to a pre-existing abnormality of the urinary tract present at the start of a clinical assessment or study. Anatomic abnormalities involve structural changes in the kidneys, ureters, bladder, or urethra, while functional abnormalities involve impaired urinary tract function such as abnormal emptying or voiding. These conditions are important baseline factors because they can increase the risk of urinary symptoms, infection, obstruction, reflux, or kidney problems."
+  },
+  {
+    "term": "diagnosis of pre-diabetes",
+    "knowledge card": "Type: diagnosis / metabolic condition. Description: Diagnosis of pre-diabetes refers to the identification of blood glucose levels that are higher than normal but not high enough to meet criteria for diabetes. It is considered a metabolic condition and a risk state for developing type 2 diabetes. In clinical practice, prediabetes is commonly identified by abnormal fasting glucose, hemoglobin A1C, or glucose tolerance testing."
+  },
+  {
+    "term": "baseline urine culture result",
+    "knowledge card": "Type: laboratory finding / baseline clinical variable. Description: Baseline urine culture result refers to the outcome of a urine culture obtained at the start of a clinical evaluation or study. It indicates whether microorganisms are present in the urine and, if positive, may identify the organism and its antimicrobial susceptibility pattern. This result serves as an initial reference point for diagnosing urinary infection and for comparing later culture findings."
+  },
+  {
+    "term": "history of catheter use",
+    "knowledge card": "Type: clinical history / exposure variable. Description: History of catheter use refers to a record that a patient has previously used a catheter, such as a urinary catheter or another medical catheter, before the current evaluation or study period. In many clinical contexts, it most often refers to prior urinary catheterization. This history is important because prior catheter use can be associated with infection risk, urinary complications, and other healthcare-related outcomes."
+  },
+  {
+    "term": "baseline registration duration",
+    "knowledge card": "Type: administrative/research time variable. Description: Baseline registration duration refers to the length of time a person has been registered in a healthcare system, database, or practice before the baseline date of a study or clinical assessment. It is used as a baseline characteristic to show how much prior observation time is available. This term is not a disease or treatment, but a measure of prior recorded follow-up or enrollment."
+  },
+  {
+    "term": "urine culture result",
+    "knowledge card": "{\n  \"variable\": \"urine culture result\",\n  \"knowledge card\": \"Type\": \"laboratory finding\",\n  \"knowledge card\": \"Description: A urine culture result is the laboratory outcome of testing a urine sample for growth of microorganisms, such as bacteria or yeast. It indicates whether an organism is present, and if positive, may identify the organism and sometimes its antibiotic susceptibility. Urine culture results are commonly used to help diagnose urinary tract infection and guide antimicrobial treatment.\"\n}"
+  },
+  {
+    "term": "baseline pregnancy",
+    "knowledge card": "Type: baseline clinical condition / patient status. Description: Baseline pregnancy refers to whether a person is pregnant at the start of a clinical assessment, treatment period, or research study. It is used as an initial patient characteristic because pregnancy can affect physiology, medication safety, diagnostic interpretation, and clinical outcomes. The term describes pregnancy status at baseline rather than a separate disease."
+  },
+  {
+    "term": "baseline age",
+    "knowledge card": "Type: demographic / baseline patient characteristic. Description: Baseline age is a person’s age at the start of a clinical assessment, treatment period, or research study. It is used as an initial reference characteristic for describing the study population and for analyzing outcomes, risks, or treatment effects. This term refers to age measured at baseline, not to a disease or diagnosis."
+  },
+  {
+    "term": "cotrimoxazole resistance",
+    "knowledge card": "Type: antimicrobial resistance finding. Description: Cotrimoxazole resistance refers to the ability of a microorganism to survive or grow despite exposure to cotrimoxazole, a combination antibiotic containing trimethoprim and sulfamethoxazole. It indicates reduced susceptibility or non-susceptibility to this drug and can limit its effectiveness for treating infections such as urinary tract and other bacterial infections."
+  },
+  {
+    "term": "follow-up time since end of prophylaxis",
+    "knowledge card": "Type: temporal clinical/research variable. Description: Follow-up time since end of prophylaxis refers to the amount of time that has passed after preventive treatment was stopped until a later assessment, event, or observation point. It is used in clinical care and research to measure outcomes after discontinuation of prophylaxis, such as infection risk, recurrence, or adverse events. This term is a time interval, not a disease or treatment."
+  },
+  {
+    "term": "baseline diagnosis of cystocele",
+    "knowledge card": "Type: baseline diagnosis / structural pelvic condition. Description: Baseline diagnosis of cystocele refers to the presence of a diagnosed cystocele at the start of a clinical assessment or study. A cystocele is a prolapse of the bladder into the vaginal wall caused by weakness of pelvic support structures. It is an anatomic condition that may contribute to urinary symptoms, incomplete bladder emptying, and recurrent urinary tract infections."
+  },
+  {
+    "term": "baseline trimethoprim dose",
+    "knowledge card": "Type: medication exposure variable. Description: Baseline trimethoprim dose refers to the amount of trimethoprim a patient is taking at the start of a clinical assessment, treatment period, or research study. It is used as an initial medication characteristic and may be recorded as a specific dose strength, daily dose, or dosing regimen. This term describes drug exposure at baseline rather than a disease or diagnosis."
+  },
+  {
+    "term": "age",
+    "knowledge card": "Type: demographic / organism attribute. Description: Age is the length of time a person has lived, usually measured from birth. In medicine, it is a basic patient characteristic used to describe populations, assess developmental stage, estimate disease risk, and guide diagnosis and treatment decisions."
+  },
+  {
+    "term": "E coli gentamicin resistance",
+    "knowledge card": "Type: microbiologic/antimicrobial resistance finding. Description: E. coli gentamicin resistance refers to Escherichia coli that is not susceptible to gentamicin, an aminoglycoside antibiotic used to treat bacterial infections. This means the organism can survive or grow despite gentamicin exposure, which may reduce the effectiveness of treatment and influence antibiotic selection."
+  },
+  {
+    "term": "antibiotic susceptibility testing",
+    "knowledge card": "Type: laboratory procedure. Description: Antibiotic susceptibility testing is a clinical microbiology test used to determine how sensitive or resistant a microorganism is to specific antibiotics. It helps classify the organism as susceptible, intermediate, or resistant and is used to guide selection of effective antimicrobial treatment."
+  },
+  {
+    "term": "baseline recurrent UTI disease duration",
+    "knowledge card": "Type: clinical history / baseline disease-duration variable. Description: Baseline recurrent UTI disease duration refers to the length of time a patient has had recurrent urinary tract infections up to the start of a clinical assessment or study. Recurrent UTI generally means repeated infections over time, commonly defined as two or more UTIs in 6 months or three or more in 1 year. This variable describes the chronicity of the condition at baseline rather than a new diagnosis."
+  },
+  {
+    "term": "baseline Klebsiella pneumoniae urine culture isolation",
+    "knowledge card": "Type: microbiology laboratory finding / baseline clinical variable. Description: Baseline Klebsiella pneumoniae urine culture isolation refers to the detection and identification of Klebsiella pneumoniae in a urine culture obtained at the start of a clinical assessment or study. It indicates that this Gram-negative bacterium was present in the urine at baseline, which may represent urinary tract infection or colonization depending on the clinical context."
+  },
+  {
+    "term": "history of complicated delivery",
+    "knowledge card": "Type: obstetric history finding. Description: History of complicated delivery refers to a past childbirth in which labor or delivery was associated with maternal, fetal, or neonatal complications. Examples can include difficult labor, operative delivery, fetal distress, hemorrhage, or other delivery-related problems. It is a historical clinical finding that may be relevant to future pregnancy risk assessment and obstetric care."
+  },
+  {
+    "term": "baseline BMI",
+    "knowledge card": "Type: baseline clinical measurement / body size indicator. Description: Baseline BMI refers to a person’s body mass index measured at the start of a clinical assessment, treatment period, or research study. BMI is calculated from weight in relation to height and is used as an estimate of body size and, indirectly, body fatness. It serves as an initial reference point for evaluating health status and later changes over time."
+  },
+  {
+    "term": "baseline diagnosis of recurrent UTI before prophylactic antibiotic initiation",
+    "knowledge card": "Type: baseline diagnosis / clinical condition. Description: This term refers to a documented diagnosis of recurrent urinary tract infection present before starting prophylactic antibiotics. Recurrent UTI generally means repeated symptomatic urinary infections over time, commonly defined as two or more UTIs in 6 months or three or more in 1 year. It is an important baseline condition because prophylactic antibiotic treatment is considered only after the recurrent infection pattern has been established."
+  },
+  {
+    "term": "E coli amoxicillin-clavulanic acid resistance",
+    "knowledge card": "Type: microbiologic/antimicrobial resistance finding. Description: E. coli amoxicillin-clavulanic acid resistance refers to Escherichia coli that is not susceptible to the antibiotic combination amoxicillin-clavulanic acid. This means the organism can survive or grow despite exposure to this drug, which may reduce treatment effectiveness and affect antibiotic choice, especially in infections such as urinary tract infection."
+  },
+  {
+    "term": "baseline diagnosis of complicated UTI",
+    "knowledge card": "Type: baseline diagnosis / infectious disease condition. Description: Baseline diagnosis of complicated UTI refers to the presence of a diagnosed complicated urinary tract infection at the start of a clinical assessment or study. A complicated UTI is a urinary infection associated with factors that increase the risk of treatment failure or complications, such as structural or functional urinary tract abnormalities, catheters, stones, or other complicating conditions. It is an important baseline clinical condition because it affects prognosis and treatment decisions."
+  },
+  {
+    "term": "nitrofurantoin resistance",
+    "knowledge card": "Type: antimicrobial resistance finding. Description: Nitrofurantoin resistance refers to the ability of a microorganism to survive or grow despite exposure to nitrofurantoin, an antibiotic commonly used to treat urinary tract infections. It indicates reduced susceptibility or non-susceptibility to this drug and may limit its effectiveness in treating susceptible infections, especially UTIs."
+  },
+  {
+    "term": "baseline prophylactic antibiotic drug selection",
+    "knowledge card": "Type: medication management / baseline treatment variable. Description: Baseline prophylactic antibiotic drug selection refers to the specific antibiotic chosen for preventive use at the start of a clinical assessment or study. It identifies which prophylactic antibiotic a patient is receiving at baseline, rather than treatment for an active infection. This variable is important because the selected drug can influence prevention effectiveness, adverse effects, and antimicrobial resistance patterns."
+  },
+  {
+    "term": "baseline mobility status",
+    "knowledge card": "Type: baseline functional status variable. Description: Baseline mobility status refers to a person’s level of movement ability at the start of a clinical assessment or study. It describes how independently the person can move, such as walking, transferring, or performing basic physical activities. This baseline functional measure is important because mobility can affect overall health, risk of complications, and clinical outcomes."
+  },
+  {
+    "term": "baseline trimethoprim-sulfamethoxazole prophylaxis exposure",
+    "knowledge card": "Type: medication exposure / baseline treatment variable. Description: Baseline trimethoprim-sulfamethoxazole prophylaxis exposure refers to the use of trimethoprim-sulfamethoxazole as preventive therapy at the start of a clinical assessment or study. It indicates that the patient was already receiving this antibiotic combination for prophylaxis rather than treatment of an active infection. This baseline exposure can be important when evaluating infection risk, treatment outcomes, and antimicrobial resistance."
+  },
+  {
+    "term": "resistance to prescribed prophylactic antibiotic",
+    "knowledge card": "Type: antimicrobial resistance finding. Description: Resistance to prescribed prophylactic antibiotic refers to a microorganism being not susceptible to the antibiotic that has been prescribed for prevention rather than treatment. This means the preventive antibiotic may be less effective or ineffective against the organism if infection occurs or if the organism is already present. The term is clinically important because it can limit the value of prophylaxis and influence future antibiotic choice."
+  },
+  {
+    "term": "E coli ciprofloxacin resistance",
+    "knowledge card": "Type: microbiologic/antimicrobial resistance finding. Description: E. coli ciprofloxacin resistance refers to Escherichia coli that is not susceptible to ciprofloxacin, a fluoroquinolone antibiotic commonly used to treat bacterial infections, including urinary tract infections. This resistance can reduce the effectiveness of empiric or targeted therapy and is important for antibiotic selection and infection management."
+  },
+  {
+    "term": "baseline trimethoprim-sulfamethoxazole exposure duration",
+    "knowledge card": "Type: medication exposure / baseline time variable. Description: Baseline trimethoprim-sulfamethoxazole exposure duration refers to the length of time a patient has been receiving trimethoprim-sulfamethoxazole up to the start of a clinical assessment or study. It describes prior or ongoing exposure duration at baseline and may be relevant when evaluating treatment effects, prophylaxis history, adverse events, or antimicrobial resistance."
+  }
+]

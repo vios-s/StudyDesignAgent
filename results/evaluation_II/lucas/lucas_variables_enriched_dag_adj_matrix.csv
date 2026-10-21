@@ -1,0 +1,11 @@
+,Allergy,Anxiety,Attention Disorder,Car Accident,Coughing,Fatigue,Genetics,Peer Pressure,Smoking,Yellow Fingers
+Allergy,0,0,0,0,1,1,0,0,0,0
+Anxiety,0,0,0,1,0,1,0,0,1,0
+Attention Disorder,0,1,0,1,0,0,0,0,1,0
+Car Accident,0,0,0,0,0,0,0,0,0,0
+Coughing,0,0,0,0,0,1,0,0,0,0
+Fatigue,0,0,0,1,0,0,0,0,0,0
+Genetics,1,1,1,0,0,0,0,0,1,0
+Peer Pressure,0,0,0,0,0,0,0,0,1,0
+Smoking,0,0,0,1,1,1,0,0,0,1
+Yellow Fingers,0,0,0,0,0,0,0,0,0,0

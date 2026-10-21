@@ -1,0 +1,894 @@
+[
+  {
+    "variable": "history of recurrent UTI",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: disease history. Description: Documented history or baseline diagnosis of recurrent urinary tract infection, typically defined as repeated symptomatic UTIs over time, such as at least 2 episodes in 6 months or at least 3 in 12 months. It identifies the underlying recurrent UTI condition in the study population.",
+    "children": [
+      "baseline UTI count in preceding year",
+      "baseline symptomatic UTI count",
+      "baseline recurrent UTI disease duration"
+    ],
+    "paper_ids": [
+      "35264408",
+      "22782199",
+      "29382457",
+      "21788542",
+      "32595091",
+      "38950943",
+      "37528415"
+    ],
+    "source_passages": [
+      "Adult women aged 18 years and over with recurrent UTI who had decided, in conjunction with their responsible clinician, that prophylaxis was appropriate, were eligible for inclusion. Recurrent UTI was defined as at least three episodes of symptomatic UTI in the previous 12 months or at least two episodes in the past six months.",
+      "we randomized 252 postmenopausal women with recurrent UTIs taking part in a double-blind noninferiority trial to receive 12 months of prophylaxis with trimethoprim-sulfamethoxazole, 480 mg, once daily or oral capsules containing 109 colony-forming units of Lactobacillus rhamnosus GR-1 and Lactobacillus reuteri RC-14 twice daily.",
+      "The use of daily intravesical gentamicin instillations for the prevention of UTI is a common clinical strategy in our institution for patients with NGB on ISC who have a history of very frequent symptomatic UTI.",
+      "Premenopausal women, 18 years of age or older, with a medical history of at least 3 symptomatic UTIs in the year preceding enrollment were eligible. The UTIs in the previous years were defined by self-report.",
+      "Se revisaron historiales clínicos de 855 mujeres con ITU de repetición, en número de más de 2 infecciones en los últimos 6 meses o más de 3 infecciones al año que precisan consulta médica, estudio y tratamiento.",
+      "Two cohorts were created. Cohort 1 included women who met the clinical definition of rUTIs (clinical cohort). Cohort 2 included women prescribed prophylactic antibiotics consistent with rUTI prevention (prophylaxis cohort; for definitions, see below). Eligibility criteria for the two cohorts are described in Box 1.",
+      "In the prophylaxis cohort, 49.0% (n = 13 149/N = 26 862) of women met the definition of rUTIs in the preceding 18 months. For women in the prophylaxis cohort, antibiotic type and dose are also reported and how many met the definition of rUTIs was calculated.",
+      "Exclusion criteria were patients on long-term antibiotic prophylaxis (≥ 4 weeks of a continuous antibiotic), complicated UTI (defined in European Association of Urology's ORENUC classification system), recurrent UTI (defined as ≥ 3 UTI visits which were treated with antibiotics within 1 year from incident UTI date), incomplete management, follow-up care or missing data."
+    ],
+    "frequency": 7
+  },
+  {
+    "variable": "antibiotic resistance",
+    "roles": [
+      "outcome"
+    ],
+    "knowledge_card": "Type: microbiologic phenomenon. Description: Resistance of bacteria or other microorganisms to one or more antibiotics, meaning the organism can survive or continue growing despite antimicrobial exposure. In this PICO, it is the main outcome construct.",
+    "children": [
+      "E. coli antibiotic resistance",
+      "ciprofloxacin resistance",
+      "trimethoprim-sulfamethoxazole resistance",
+      "amoxicillin-clavulanate resistance",
+      "erythromycin, fosfomycin, and clindamycin resistance",
+      "trimethoprim resistance",
+      "nitrofurantoin resistance",
+      "amoxicillin resistance",
+      "cefalexin resistance",
+      "resistance to prescribed prophylactic antibiotic"
+    ],
+    "paper_ids": [
+      "35264408",
+      "29382457",
+      "21788542",
+      "32595091",
+      "38950943",
+      "37528415"
+    ],
+    "source_passages": [
+      "Antibiotic resistance profiles in Escherichia coli isolated from urine and perineal swabs; asymptomatic bacteriuria; total antibiotic use; and hospital admissions due to UTI. ... Antibiotic resistance was assessed from urine and perineal swabs with antimicrobial sensitivity tested in triplicate against a panel of antibiotic drugs.",
+      "Secondary aims were to examine the effects of intravesical gentamicin on the organism resistance patterns. The proportion of multidrug-resistant organisms in urine cultures decreased from 58.3% to 47.1% (p=0.04) and the rate of gentamicin resistance did not increase.",
+      "The primary outcome measure evaluating development of resistance was the percentage of E coli isolates from feces and urine of asymptomatic women that was resistant to TMP-SMX at 1 and 12 months. In addition, we analyzed these E coli isolates to trimethoprim, nitrofurantoin, amoxicillin, amoxicillin-clavulanic acid, gentamicin, ciprofloxacin, and norfloxacin.",
+      "Investigar el espectro de resistencia en los microorganismos causantes de infecciones urinarias después de una pauta profiláctica supresiva antibiótica vía oral convencional en mujeres fumadoras y no fumadoras.",
+      "Antibiotic susceptibility testing was low (under 40%) for most antibiotics except trimethoprim, nitrofurantoin, and amoxicillin. Trimethoprim and amoxicillin had high rates of resistance (Table 2).",
+      "This study examined if treatment failure varied between different antibiotics, given different resistant rates, for uncomplicated urinary tract infections (UTIs) managed in primary care."
+    ],
+    "frequency": 6
+  },
+  {
+    "variable": "age",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: demographic characteristic. Description: The patient's age in years, used as a basic demographic and clinical characteristic associated with disease risk, treatment decisions, and outcomes.",
+    "children": [],
+    "paper_ids": [
+      "35264408",
+      "29382457",
+      "21788542",
+      "32595091",
+      "38950943",
+      "37528415"
+    ],
+    "source_passages": [
+      "Adult women aged 18 years and over with recurrent UTI who had decided, in conjunction with their responsible clinician, that prophylaxis was appropriate, were eligible for inclusion.",
+      "Mean (standard deviation) age (years) 50.3 (18.1) 49.9 (19.1) 51.1 (17.7) 51.1 (18.9) — Demographics and clinical characteristics at baseline were generally well balanced across treatment groups (table 1).",
+      "Table 1. Patient demographics. Age (median) 37.5 years (range 18–75)",
+      "Premenopausal women, 18 years of age or older, with a medical history of at least 3 symptomatic UTIs in the year preceding enrollment were eligible.",
+      "Table 1. Baseline Characteristics of the Participants: Age, median (IQR), y 36.1(26.9-46.3) 34.8(22.8-44.4)",
+      "La media de edad en GA1 fue de 61.93 años, SD 13.42, mediana 63, rango 34-85. La media de edad en GB fue de 48.91 años, SD 13.25, mediana 51, rango 17-68.",
+      "Inclusion criteria: Aged ≥18 years and alive during the study period (1 January 2010 to 31 December 2020)",
+      "Age, years, median (IQR): 60.0 (38.0–76.0) [clinical cohort]; 70.6 (55.1–81.6) [prophylaxis cohort]. Rates were calculated according to 10-year age bands using all women in SAIL aged ≥18 years and their person-time over the study period (2010–2020) as the denominator.",
+      "Next, female patients aged 18–50 who were empirically treated with amoxicillin-clavulanate, nitrofurantoin, ciprofloxacin or co-trimoxazole during the same visit were selected.",
+      "To emulate randomization, we used propensity score (PS) matching by including variables such as age, whether patient had presence of chronic diseases such as diabetes, pre-diabetes or chronic kidney disease, and availability and results of urine cultures. Mean age, y (SD) 33.06 (10.01) 32.98 (10.01) 33.24 (10.04) 33.21 (10.03) 33.24 (10.04)"
+    ],
+    "frequency": 6
+  },
+  {
+    "variable": "diabetes mellitus",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: disease. Description: Diabetes mellitus, a chronic metabolic disorder characterized by hyperglycemia due to impaired insulin secretion, insulin action, or both.",
+    "children": [],
+    "paper_ids": [
+      "29382457",
+      "21788542",
+      "32595091",
+      "38950943",
+      "37528415"
+    ],
+    "source_passages": [
+      "Comorbidities Diabetes mellitus 3 (13.6%) Hypertension 4 (18.2%)",
+      "Table 1. Baseline Characteristics of the Participants: Diabetes mellitus 1(0.9) 3(2.7); Type 1 1 0; Type 2 0 3",
+      "Segundos diagnósticos o antecedentes en GA2 (%): Sí DM 4.54. La aparición de E. coli resistentes fue más frecuente con la profilaxis antibiótica que con vacuna bacteriana polivalente. La resistencia más frecuente encontrada fue contra quinolonas y cotrimoxazol en las mujeres diabéticas tratadas con antibiótico.",
+      "Diabetes, n (%): 20 410 (22.1) [clinical cohort]; 7676 (28.6) [prophylaxis cohort]. Relevant comorbidities that either increase the risk of UTIs or potentially influence antibiotic prescribing were identified using Read codes and/or ICD-10 codes in the WLGP and PEDW data sources, respectively.",
+      "To emulate randomization, we used propensity score (PS) matching by including variables such as age, whether patient had presence of chronic diseases such as diabetes, pre-diabetes or chronic kidney disease, and availability and results of urine cultures."
+    ],
+    "frequency": 5
+  },
+  {
+    "variable": "menopausal status",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: physiologic status. Description: Reproductive stage defined by menopausal state, such as premenopausal, perimenopausal, or postmenopausal. In this population of women, it is an important baseline physiologic characteristic.",
+    "children": [],
+    "paper_ids": [
+      "35264408",
+      "22782199",
+      "21788542",
+      "37528415"
+    ],
+    "source_passages": [
+      "Permuted blocks of variable length (2/4/6/8) were used, stratified by menopausal status (pre-menopausal v peri-menopausal/post-menopausal) and UTI frequency in the preceding year (<4 v ≥4). ... Negative binomial model adjusted for menopausal status (pre-menopausal and peri-menopausal/post-menopausal), prior frequency of urinary tract infection (<4 and ≥4), and site (random effect).",
+      "we randomized 252 postmenopausal women with recurrent UTIs taking part in a double-blind noninferiority trial to receive 12 months of prophylaxis with trimethoprim-sulfamethoxazole, 480 mg, once daily or oral capsules containing 109 colony-forming units of Lactobacillus rhamnosus GR-1 and Lactobacillus reuteri RC-14 twice daily.",
+      "Premenopausal women, 18 years of age or older, with a medical history of at least 3 symptomatic UTIs in the year preceding enrollment were eligible.",
+      "The inclusion criteria were cases of uncomplicated UTIs, i.e., UTI in a healthy, non-pregnant, pre-menopausal female with anatomically and functionally normal urinary tract."
+    ],
+    "frequency": 4
+  },
+  {
+    "variable": "sex",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: demographic characteristic. Description: Biological sex of the patient, commonly categorized as female or male.",
+    "children": [],
+    "paper_ids": [
+      "29382457",
+      "32595091",
+      "38950943",
+      "37528415"
+    ],
+    "source_passages": [
+      "Table 1. Patient demographics. Gender Male 13 (59.1%) Female 9 (40.9%)",
+      "El material de estudio consiste en 855 historiales clínicos de pacientes mujeres tratadas por ITUR entre septiembre de 2009 y enero de 2013.",
+      "Inclusion criteria: Sex recorded as female using the WDSD",
+      "The inclusion criteria were cases of uncomplicated UTIs, i.e., UTI in a healthy, non-pregnant, pre-menopausal female with anatomically and functionally normal urinary tract. Eligible patients were first identified by filtering all patient encounters with visit diagnoses labelled as disorder of kidney or ureter or UTI (ICD-10 codes N28.9, N39.0) that fell within the study period. Next, female patients aged 18–50 who were empirically treated with amoxicillin-clavulanate, nitrofurantoin, ciprofloxacin or co-trimoxazole during the same visit were selected."
+    ],
+    "frequency": 4
+  },
+  {
+    "variable": "prophylactic antibiotic exposure",
+    "roles": [
+      "treatment"
+    ],
+    "knowledge_card": "Type: drug exposure. Description: Exposure to antibiotics used prophylactically to prevent urinary tract infection rather than treat an active infection. In this PICO, it represents the preventive antibiotic intervention received by women with recurrent UTI.",
+    "children": [],
+    "paper_ids": [
+      "35264408",
+      "32595091",
+      "37528415"
+    ],
+    "source_passages": [
+      "Random assignment (1:1, using permuted blocks of variable length via a web based system) to receive antibiotic prophylaxis or methenamine hippurate for 12 months.",
+      "Grupo A (n=495): pacientes con ITUR sometidas a profilaxis con antibiótico con pauta supresiva convencional: Subgrupo Aa (n=394) tratadas con trimetoprima/sulfametoxazol. Subgrupo Ab (n=102) tratadas con nitrofurantoína.",
+      "Incident UTI visit, defined as the visit occurring in a patient without a UTI-related diagnosis, or antibiotics prescribed for UTI in the preceding 90 days (to exclude patients on long term prophylaxis for recurrent UTI), were identified and included."
+    ],
+    "frequency": 3
+  },
+  {
+    "variable": "baseline urine culture result",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: laboratory test result. Description: Result of a urine culture obtained at baseline, indicating whether microorganisms are present in urine and, if positive, potentially providing organism identification and susceptibility information.",
+    "children": [
+      "baseline asymptomatic bacteriuria"
+    ],
+    "paper_ids": [
+      "35264408",
+      "38950943",
+      "37528415"
+    ],
+    "source_passages": [
+      "Results of central laboratory urine culture at baseline — No growth 93 (78%) 98 (82%); Growth of one or two isolates 18 (15%) 13 (11%); No sample 9 (8%) 9 (8%) — Demographics and clinical characteristics at baseline were generally well balanced across treatment groups (table 1).",
+      "Of women taking prophylactic antibiotics between 2015 and 2020, 64.2% (n = 9926/N = 15 455) had ≥1 urine culture reported in the preceding 18 months. Finally, how many women had a urine culture reported before initiating prophylactic antibiotics was estimated and the most recent result before initiation was used to ascertain their prophylactic antibiotic susceptibility.",
+      "To emulate randomization, we used propensity score (PS) matching by including variables such as age, whether patient had presence of chronic diseases such as diabetes, pre-diabetes or chronic kidney disease, and availability and results of urine cultures. The urine cultures could grow bacteria which was susceptible to the antibiotic prescribed, indeterminate or resistant, or no cultures performed. Urine culture results, n (%) Bacteria susceptible to antibiotic prescribed 354 (11.1) Bacteria indeterminate or resistant to antibiotic prescribed 56 (1.8) No bacteria cultured 2784 (87.2)"
+    ],
+    "frequency": 3
+  },
+  {
+    "variable": "ethnicity",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: demographic characteristic. Description: Ethnic group or cultural background of the patient, used as a population characteristic in clinical research.",
+    "children": [],
+    "paper_ids": [
+      "29382457",
+      "38950943",
+      "37528415"
+    ],
+    "source_passages": [
+      "Table 1. Patient demographics. Race White 19 (86.4%) African-American 3 (13.6%)",
+      "Ethnic group, n (%): White 51 446 (55.8) [clinical cohort]; 15 526 (57.8) [prophylaxis cohort]. The two cohorts were similar in terms of ethnic group and deprivation (Table 1).",
+      "The age, race, presence of chronic diseases and urine culture results of studied patients before and after PS matching were described in Table 2. Race, n (%) Chinese 1852 (58.0) Indian 391 (12.2) Malay 653 (20.4) Others 298 (9.3)"
+    ],
+    "frequency": 3
+  },
+  {
+    "variable": "baseline pregnancy",
+    "roles": [
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: physiologic status. Description: Pregnancy status at baseline or current pregnancy status, indicating whether the patient is pregnant at the relevant assessment time.",
+    "children": [],
+    "paper_ids": [
+      "21788542",
+      "38950943",
+      "37528415"
+    ],
+    "source_passages": [
+      "Exclusion criteria were symptoms of a UTI at inclusion, use of antibiotics or cranberries in the previous 2 weeks, relevant interactions with existing medication or contraindications for TMP-SMX (eg, known allergy) or cranberries (oral anticoagulants or renal stones), pregnancy (or desire for pregnancy), breastfeeding, and a history of renal transplantation.",
+      "Exclusion criteria: Pregnancy was recorded in the 40 weeks before the cohort entry date to ensure women were not pregnant at cohort entry.",
+      "The inclusion criteria were cases of uncomplicated UTIs, i.e., UTI in a healthy, non-pregnant, pre-menopausal female with anatomically and functionally normal urinary tract."
+    ],
+    "frequency": 3
+  },
+  {
+    "variable": "UTI-related trimethoprim-sulfamethoxazole exposure",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: drug exposure. Description: Exposure to trimethoprim-sulfamethoxazole used in relation to urinary tract infection care. It captures receipt of this specific antibiotic combination for UTI management and is distinct from the broader prophylactic antibiotic intervention anchor.",
+    "children": [],
+    "paper_ids": [
+      "22782199",
+      "21788542"
+    ],
+    "source_passages": [
+      "we randomized 252 postmenopausal women with recurrent UTIs taking part in a double-blind noninferiority trial to receive 12 months of prophylaxis with trimethoprim-sulfamethoxazole, 480 mg, once daily",
+      "In a double-blind, double-dummy noninferiority trial, 221 premenopausal women with recurrent UTIs were randomized to 12-month prophylaxis use of trimethoprim-sulfamethoxazole (TMP-SMX), 480 mg once daily, or cranberry capsules, 500 mg twice daily."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline prophylactic antibiotic type",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: treatment definition variable. Description: The specific prophylactic antibiotic selected at baseline, identifying which preventive antibiotic agent or regimen the patient is receiving at the start of observation.",
+    "children": [
+      "baseline trimethoprim-sulfamethoxazole prophylaxis exposure",
+      "baseline nitrofurantoin prophylaxis exposure"
+    ],
+    "paper_ids": [
+      "35264408",
+      "38950943"
+    ],
+    "source_passages": [
+      "For participants assigned to antibiotic prophylaxis, the drug used was chosen from nitrofurantoin (50 or 100 mg), trimethoprim (100 mg), or cefalexin (250 mg) given orally once daily, depending on previous urine culture results and individuals' history of allergy or intolerance.",
+      "Prophylactic antibiotic use was defined as ≥3 consecutive prescriptions for the same UTI-specific antibiotic (trimethoprim, nitrofurantoin, or cefalexin) with 21–56 days between prescriptions (Supplementary Box S5 and Supplementary Figure S2)."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "history of methenamine hippurate exposure",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: drug exposure history. Description: Prior or baseline exposure to methenamine hippurate, a urinary antiseptic used for prevention or suppression of recurrent urinary tract infection.",
+    "children": [],
+    "paper_ids": [
+      "35264408",
+      "29382457"
+    ],
+    "source_passages": [
+      "Previously taken methenamine hippurate 2 (2%) 4 (3%) 2 (2%) 3 (3%) — Demographics and clinical characteristics at baseline were generally well balanced across treatment groups (table 1).",
+      "The use of methenamine hippurate and oral cranberry supplements were similar before and after gentamicin instillations were initiated (Table 3). Use of methenamine hippurate 3 (27.3%) 4 (40.0%) 0.32"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline urine culture isolate identification",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: microbiologic finding. Description: Identification of the microorganism isolated from a baseline urine culture, recording which organism is present in the urine at the start of assessment.",
+    "children": [
+      "baseline Escherichia coli urine culture isolation",
+      "baseline Klebsiella pneumoniae urine culture isolation",
+      "baseline Proteus mirabilis urine culture isolation",
+      "baseline Enterococcus faecalis urine culture isolation"
+    ],
+    "paper_ids": [
+      "35264408",
+      "32595091"
+    ],
+    "source_passages": [
+      "Isolates identified from central laboratory urine culture at baseline — Escherichia coli 15 (13%) 7 (6%); Coliform—other 1 (1%) 2 (2%); Enterobacter cloacae group 1 (1%) 0; Pseudomonas aeruginosa 0 1 (1%); Enterococcus faecalis 1 (1%) 0; Staphylococcus aureus 0 1 (1%); Streptococcus agalactiae 1 (1%) 2 (2%)",
+      "Se observaron con mayor frecuencia UC (+) para E coli (66.20%), Klebsiella pneumoniae (10.73%) y Proteus mirabilis (7.75%). En GA post-profilaxis E.coli sigue siendo el microorganismo más frecuente (64.32% de los urocultivos positivos posteriores a terminar la profilaxis)."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "trimethoprim-sulfamethoxazole dose",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: drug dose. Description: Dose of trimethoprim-sulfamethoxazole recorded at baseline or in UTI-related use, capturing the amount and regimen of this specific antibiotic combination.",
+    "children": [
+      "baseline trimethoprim-sulfamethoxazole dose",
+      "baseline trimethoprim-sulfamethoxazole duration"
+    ],
+    "paper_ids": [
+      "22782199",
+      "21788542"
+    ],
+    "source_passages": [
+      "we randomized 252 postmenopausal women with recurrent UTIs taking part in a double-blind noninferiority trial to receive 12 months of prophylaxis with trimethoprim-sulfamethoxazole, 480 mg, once daily",
+      "Women were randomized to 12 months' ingestion of either (1) 1 tablet with 480 mg TMP-SMX at night and 1 placebo capsule twice daily or (2) 1 capsule with 500 mg cranberry extract (Cran-Max; Proprietary Nutritionals, Inc, Kearny, New Jersey) twice daily and 1 placebo tablet at night.",
+      "we randomized 252 postmenopausal women with recurrent UTIs taking part in a double-blind noninferiority trial to receive 12 months of prophylaxis with trimethoprim-sulfamethoxazole, 480 mg, once daily or oral capsules containing 109 colony-forming units of Lactobacillus rhamnosus GR-1 and Lactobacillus reuteri RC-14 twice daily.",
+      "In a double-blind, double-dummy noninferiority trial, 221 premenopausal women with recurrent UTIs were randomized to 12-month prophylaxis use of trimethoprim-sulfamethoxazole (TMP-SMX), 480 mg once daily, or cranberry capsules, 500 mg twice daily."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline complicated UTI",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: diagnosis. Description: Presence of complicated urinary tract infection at baseline, meaning UTI occurring with structural, functional, catheter-related, or comorbid factors that increase risk of treatment failure or complications.",
+    "children": [
+      "baseline urinary tract anatomic or functional abnormality"
+    ],
+    "paper_ids": [
+      "21788542",
+      "37528415"
+    ],
+    "source_passages": [
+      "Table 1. Baseline Characteristics of the Participants: Complicated UTIs 15(13.6) 15(13.5). Urinary tract infections in patients with complicating host factors, defined as functional or structural abnormalities of the urinary tract, metabolic and/or hormonal abnormalities, or impaired host responses.",
+      "Exclusion criteria were patients on long-term antibiotic prophylaxis (≥ 4 weeks of a continuous antibiotic), complicated UTI (defined in European Association of Urology's ORENUC classification system), recurrent UTI (defined as ≥ 3 UTI visits which were treated with antibiotics within 1 year from incident UTI date), incomplete management, follow-up care or missing data."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline catheter use",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: device exposure/history. Description: Baseline or prior use of a urinary catheter, an important urinary tract management factor associated with infection risk.",
+    "children": [],
+    "paper_ids": [
+      "21788542",
+      "38950943"
+    ],
+    "source_passages": [
+      "Table 1. Baseline Characteristics of the Participants: Catheter 3(2.7) 5(4.5); Intermittent 3 5; Indwelling 0 0",
+      "Exclusion criteria: Catheter use was recorded at any point before cohort entry"
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "urinary tract abnormality",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: urinary tract abnormality. Description: Structural or functional abnormality of the urinary tract present at baseline that can predispose to recurrent or complicated urinary tract infection.",
+    "children": [
+      "baseline diagnosis of urinary lithiasis",
+      "baseline correctable urinary tract abnormality contributory to recurrent UTI",
+      "baseline diagnosis of urinary incontinence",
+      "baseline diagnosis of cystocele"
+    ],
+    "paper_ids": [
+      "32595091",
+      "38950943",
+      "35264408"
+    ],
+    "source_passages": [
+      "Se consideran factores de exclusión: Litiasis urinaria, incontinencia urinaria moderada o severa, cistocele, factores generales de inmunodepresión.",
+      "Urinary tract stones, n (%): 412 (0.4) [clinical cohort]; 258 (1.0) [prophylaxis cohort]. Relevant comorbidities that either increase the risk of UTIs or potentially influence antibiotic prescribing were identified using Read codes and/or ICD-10 codes in the WLGP and PEDW data sources, respectively.",
+      "We excluded women with correctable urinary tract abnormalities contributory to recurrent UTI (eg, urinary tract calculi) and those with neurogenic dysfunction of the lower urinary tract.",
+      "Se consideran factores de exclusión: Litiasis urinaria, incontinencia urinaria moderada o severa, cistocele, factores generales de inmunodepresión. Factores de exclusión: incontinencia urinaria ≥ grado 2, cistocele, litiasis urinaria, vejiga neurógena.",
+      "Se consideran factores de exclusión: Litiasis urinaria, incontinencia urinaria moderada o severa, cistocele, factores generales de inmunodepresión. Factores de exclusión: incontinencia urinaria ≥ grado 2, cistocele, litiasis urinaria, vejiga neurógena."
+    ],
+    "frequency": 3
+  },
+  {
+    "variable": "baseline immunosuppression",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: clinical condition. Description: Baseline presence or diagnosis of immunosuppression, meaning reduced immune system function due to disease, treatment, or other causes.",
+    "children": [],
+    "paper_ids": [
+      "32595091",
+      "38950943"
+    ],
+    "source_passages": [
+      "Se consideran factores de exclusión: Litiasis urinaria, incontinencia urinaria moderada o severa, cistocele, factores generales de inmunodepresión.",
+      "Immunosuppression, n (%): 4991 (5.4) [clinical cohort]; 2060 (7.7) [prophylaxis cohort]. Relevant comorbidities that either increase the risk of UTIs or potentially influence antibiotic prescribing were identified using Read codes and/or ICD-10 codes in the WLGP and PEDW data sources, respectively."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "smoking",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: behavioral exposure. Description: Tobacco smoking status or smoking behavior. It captures whether the patient smokes, while more detailed measures such as intensity or duration remain distinct.",
+    "children": [
+      "baseline smoking intensity",
+      "baseline years of smoking"
+    ],
+    "paper_ids": [
+      "32595091",
+      "38950943"
+    ],
+    "source_passages": [
+      "Investigar el espectro de resistencia en los microorganismos causantes de infecciones urinarias después de una pauta profiláctica supresiva antibiótica vía oral convencional en mujeres fumadoras y no fumadoras. Grupo A1: (GA1) (n=417): pacientes no fumadoras que reciben profilaxis con antibiótico con pauta supresiva convencional por ITUR. Grupo A2 (GA2) (n=78): pacientes fumadoras que reciben profilaxis con antibiótico con pauta supresiva convencional por ITUR.",
+      "Smoking status, n (%): Never smoked 37 786 (41.0); Ex-smoker 34 042 (36.9); Current smoker 14 882 (16.1) [clinical cohort]."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline BMI",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: anthropometric measurement. Description: Body mass index measured at baseline, calculated as weight in kilograms divided by height in meters squared.",
+    "children": [],
+    "paper_ids": [
+      "32595091",
+      "38950943"
+    ],
+    "source_passages": [
+      "La media de IMC en GA fue de 28.35, SD 6.32, rango 18.75-48.04. No hubo diferencia (p=0.4960) en el IMC en GA (28.55, SD 6.45) y GB (27.80, SD 5.88).",
+      "BMI, median (IQR)a: 26.0 (23.0–31.0) [clinical cohort]; 27.0 (23.0–31.0) [prophylaxis cohort]."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "CKD",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: disease. Description: Chronic kidney disease, a long-term impairment of kidney structure or function persisting for at least three months.",
+    "children": [],
+    "paper_ids": [
+      "38950943",
+      "37528415"
+    ],
+    "source_passages": [
+      "Chronic kidney disease stage 3–5, n (%): 12 827 (13.9) [clinical cohort]; 5348 (19.9) [prophylaxis cohort]. Relevant comorbidities that either increase the risk of UTIs or potentially influence antibiotic prescribing were identified using Read codes and/or ICD-10 codes in the WLGP and PEDW data sources, respectively.",
+      "To emulate randomization, we used propensity score (PS) matching by including variables such as age, whether patient had presence of chronic diseases such as diabetes, pre-diabetes or chronic kidney disease, and availability and results of urine cultures."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "prophylactic antibiotic dose",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: drug dose. Description: Dose of the prophylactic antibiotic used at baseline, capturing the amount prescribed for preventive urinary tract infection therapy.",
+    "children": [
+      "baseline nitrofurantoin dose",
+      "baseline trimethoprim dose",
+      "baseline cefalexin dose",
+      "baseline prophylactic antibiotic dose"
+    ],
+    "paper_ids": [
+      "35264408",
+      "38950943"
+    ],
+    "source_passages": [
+      "For participants assigned to antibiotic prophylaxis, the drug used was chosen from nitrofurantoin (50 or 100 mg), trimethoprim (100 mg), or cefalexin (250 mg) given orally once daily, depending on previous urine culture results and individuals' history of allergy or intolerance.",
+      "For participants assigned to antibiotic prophylaxis, the drug used was chosen from nitrofurantoin (50 or 100 mg), trimethoprim (100 mg), or cefalexin (250 mg) given orally once daily, depending on previous urine culture results and individuals' history of allergy or intolerance.",
+      "For participants assigned to antibiotic prophylaxis, the drug used was chosen from nitrofurantoin (50 or 100 mg), trimethoprim (100 mg), or cefalexin (250 mg) given orally once daily, depending on previous urine culture results and individuals' history of allergy or intolerance.",
+      "The most prescribed dosages for trimethoprim were 100 mg and 200 mg, for nitrofurantoin were 50 mg or 100 mg, and for cefalexin were 250 mg and 500 mg. Most women were taking a consistent dose of the prophylactic antibiotic across the consecutive prescriptions (77.8%, n = 20 892/N = 26 862)."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline urine culture isolate antibiotic resistance",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: microbiologic resistance finding. Description: Baseline resistance profile of an organism isolated from urine culture, indicating which antibiotics the urinary isolate is not susceptible to at the start of assessment.",
+    "children": [],
+    "paper_ids": [
+      "35264408"
+    ],
+    "source_passages": [
+      "Resistance in any isolate identified from central laboratory urine culture at baseline — Amoxicillin 9 (8%) 6 (5%); Co-amoxiclav 3 (3%) 1 (1%); Trimethoprim 9 (8%) 3 (3%); Co-trimoxazole 3 (3%) 1 (1%); Cefalexin 4 (3%) 3 (3%); Cefuroxime 2 (2%) 2 (2%); Cephalosporins—other 1 (1%) 1 (1%); Ciprofloxacin 0 3 (3%); Gentamicin 1 (1%) 1 (1%); Nitrofurantoin 1 (1%) 1 (1%)"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline weight",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: clinical measurement. Description: Body weight measured at baseline, used as an initial anthropometric characteristic.",
+    "children": [],
+    "paper_ids": [
+      "35264408"
+    ],
+    "source_passages": [
+      "Mean (standard deviation) weight (kg) 70.1 (15.3) 75.1 (18.5) 69.4 (14.6) 75.5 (18.5) — Demographics and clinical characteristics at baseline were generally well balanced across treatment groups (table 1)."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline positive urine culture count in previous 12 months",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: laboratory history count. Description: Number of positive urine cultures documented during the 12 months before baseline, reflecting prior microbiologically confirmed urinary bacteriuria or infection burden.",
+    "children": [],
+    "paper_ids": [
+      "35264408"
+    ],
+    "source_passages": [
+      "No of positive urine culture reports in previous 12 months before trial entry* — Median (interquartile range) 2 (1-4) 3 (1-5) — Demographics and clinical characteristics at baseline were generally well balanced across treatment groups (table 1)."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "history of antibiotic prophylaxis exposure",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: drug exposure history. Description: Prior exposure to antibiotics used for prophylaxis before the current study period. It is a background exposure distinct from the treatment anchor because it functions as a covariate.",
+    "children": [],
+    "paper_ids": [
+      "35264408"
+    ],
+    "source_passages": [
+      "Previous use of antibiotic prophylaxis 28 (23%) 27 (23%) 23 (23%) 22 (21%) — Demographics and clinical characteristics at baseline were generally well balanced across treatment groups (table 1)."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "prophylactic antibiotic adherence",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: medication adherence variable. Description: Degree to which a patient follows the prescribed prophylactic antibiotic regimen in dose, timing, and duration.",
+    "children": [],
+    "paper_ids": [
+      "35264408"
+    ],
+    "source_passages": [
+      "Prespecified sensitivity analyses were conducted in intention-to-treat and per protocol populations (participants achieving ≥90% adherence with preventive treatment; switching between treatment strategies was considered adherent). We also conducted a post hoc sensitivity analysis in a strict per protocol population that included only those participants achieving ≥90% adherence with initially randomised treatment."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline antibiotic exposure",
+    "roles": [
+      "covariate",
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: drug exposure. Description: Antibiotic use present at baseline or in the baseline exposure window, regardless of specific agent.",
+    "children": [],
+    "paper_ids": [
+      "21788542"
+    ],
+    "source_passages": [
+      "Exclusion criteria were symptoms of a UTI at inclusion, use of antibiotics or cranberries in the previous 2 weeks, relevant interactions with existing medication or contraindications for TMP-SMX (eg, known allergy) or cranberries (oral anticoagulants or renal stones), pregnancy (or desire for pregnancy), breastfeeding, and a history of renal transplantation.",
+      "Table 1. Baseline Characteristics of the Participants: Use of antibiotic 3 mo before inclusion; Any antibiotic 86(78.2) 85(76.6); TMP 9(8.2) 9(8.1); TMP-SMX 8(7.3) 8(7.2); Nitrofurantoin 39(35.5) 37(33.3); Quinolones 17(15.5) 14(12.6); Amoxicillin-clavulanic acid 9(8.2) 10(9.0); Other 20(18.2) 28(25.2)"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline breastfeeding",
+    "roles": [
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: physiologic status. Description: Breastfeeding status at baseline.",
+    "children": [],
+    "paper_ids": [
+      "21788542"
+    ],
+    "source_passages": [
+      "Exclusion criteria were symptoms of a UTI at inclusion, use of antibiotics or cranberries in the previous 2 weeks, relevant interactions with existing medication or contraindications for TMP-SMX (eg, known allergy) or cranberries (oral anticoagulants or renal stones), pregnancy (or desire for pregnancy), breastfeeding, and a history of renal transplantation."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "history of renal transplantation",
+    "roles": [
+      "selection_variable"
+    ],
+    "knowledge_card": "Type: transplant history. Description: Prior kidney transplantation documented in the patient's medical history.",
+    "children": [],
+    "paper_ids": [
+      "21788542"
+    ],
+    "source_passages": [
+      "Exclusion criteria were symptoms of a UTI at inclusion, use of antibiotics or cranberries in the previous 2 weeks, relevant interactions with existing medication or contraindications for TMP-SMX (eg, known allergy) or cranberries (oral anticoagulants or renal stones), pregnancy (or desire for pregnancy), breastfeeding, and a history of renal transplantation."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "surgical history",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: surgical history. Description: Prior surgery documented at baseline, including urinary or gynecologic-obstetric procedures that may influence recurrent urinary tract infection risk or management.",
+    "children": [
+      "baseline urologic surgery",
+      "history of gynaecological-obstetric surgery"
+    ],
+    "paper_ids": [
+      "21788542",
+      "32595091"
+    ],
+    "source_passages": [
+      "Table 1. Baseline Characteristics of the Participants: Medical history with urologic surgery 7(6.4) 7(6.3)",
+      "Segundos diagnósticos o antecedentes en GA2 (%): Sí antecedentes de cirugía gineco-obstétrica 40.90. El antecedente de cirugía ginecológica-obstétrica no es obstáculo para un buen resultado en el control de ITUR."
+    ],
+    "frequency": 2
+  },
+  {
+    "variable": "baseline sexually active",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: behavioral status. Description: Sexual activity status at baseline.",
+    "children": [],
+    "paper_ids": [
+      "21788542"
+    ],
+    "source_passages": [
+      "Table 1. Baseline Characteristics of the Participants: Sexually active 104(94.5) 99(89.2)"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline incontinence material use",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: supportive care use variable. Description: Use of pads, briefs, or other incontinence materials at baseline.",
+    "children": [],
+    "paper_ids": [
+      "21788542"
+    ],
+    "source_passages": [
+      "Table 1. Baseline Characteristics of the Participants: Use of incontinence material 13(11.8) 15(13.5)"
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline prophylactic antibiotic exposure duration",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: drug exposure duration. Description: Length of time prophylactic antibiotics had been used before baseline.",
+    "children": [],
+    "paper_ids": [
+      "32595091"
+    ],
+    "source_passages": [
+      "Subgrupo Aa: administración profiláctica o también llamada tratamiento supresivo antibiótico, de trimetoprim/sulfametoxazol (TMP/SMX) a dosis de 40/200 mg al día, administrados vía oral, durante 6 meses según las guías vigentes."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline drug allergy",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: allergy history. Description: Documented drug allergy present at baseline.",
+    "children": [],
+    "paper_ids": [
+      "32595091"
+    ],
+    "source_passages": [
+      "Segundos diagnósticos o antecedentes en GA2 (%): Sí alergias 31.81. En las mujeres con estatus alérgico se consiguió un buen control de la infección con vacuna bacteriana polivalente, siendo el tiempo libre de enfermedad significativamente superior incluso al encontrado en mujeres no alérgicas."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline concomitant urodynamic-effect drug exposure",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: concomitant medication exposure. Description: Baseline exposure to other medications that may affect bladder or urinary tract function.",
+    "children": [],
+    "paper_ids": [
+      "32595091"
+    ],
+    "source_passages": [
+      "Segundos diagnósticos o antecedentes en GA2 (%): Sí TTO concomitante con efecto urodinámico 50. Se estudian edad, diagnósticos secundarios, tratamientos concomitantes, hábitos tóxicos, antecedentes médicos y quirúrgicos, respuesta al tratamiento."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "obstetric history",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: obstetric history. Description: Prior childbirth history relevant to recurrent urinary tract infection risk, including delivery count and prior delivery complications.",
+    "children": [
+      "baseline number of vaginal delivery",
+      "history of complicated delivery"
+    ],
+    "paper_ids": [
+      "32595091"
+    ],
+    "source_passages": [
+      "Segundos diagnósticos o antecedentes en GA2 (%): Promedio partos eutócicos 1.63. Distribución de segundos diagnósticos y antecedentes según categoría de fumadora en GB2: Promedio de partos eutócicos 1.23.",
+      "Segundos diagnósticos o antecedentes en GA2 (%): Sí partos distócicos 4.54. Es de especial relevancia el hallazgo de la relación de una mayor incidencia de ITUR en mujeres con antecedente de parto distócico, que además presenta una peor respuesta al tratamiento preventivo."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline urine culture isolate antibiotic susceptibility pattern",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: microbiologic susceptibility finding. Description: Baseline antibiotic susceptibility profile of the organism isolated from urine culture, showing which antibiotics the isolate is sensitive or resistant to.",
+    "children": [],
+    "paper_ids": [
+      "32595091"
+    ],
+    "source_passages": [
+      "En las pacientes donde los UC pre profilaxis se expresaba resistencia a cotrimoxazol se indicó pauta profiláctica con nitrofurantoína. Para E.coli, en GA pre-profilaxis la resistencia expresada más alta se encontró frente a ciprofloxacino (24.32%), seguido de cotrimoxazol (21.62%)."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline UTI-related antibiotic prescription frequency",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: medication use frequency. Description: Frequency of antibiotic prescriptions related to urinary tract infection during the baseline history period.",
+    "children": [],
+    "paper_ids": [
+      "38950943"
+    ],
+    "source_passages": [
+      "Prophylactic antibiotic use was defined as ≥3 consecutive prescriptions for the same UTI-specific antibiotic (trimethoprim, nitrofurantoin, or cefalexin) with 21–56 days between prescriptions (Supplementary Box S5 and Supplementary Figure S2).",
+      "Prophylactic antibiotic use was defined as ≥3 consecutive prescriptions for the same UTI-specific antibiotic (trimethoprim, nitrofurantoin, or cefalexin) with 21–56 days between prescriptions (Supplementary Box S5 and Supplementary Figure S2)."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "history of UTI-related antibiotic exposure",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: drug exposure history. Description: Prior exposure to antibiotics used to treat or prevent urinary tract infection.",
+    "children": [],
+    "paper_ids": [
+      "38950943"
+    ],
+    "source_passages": [
+      "Women who used prophylactic antibiotics in the preceding 12 months were excluded to identify new users and ascertain urine culture results before initiation."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "social deprivation",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: social determinant. Description: Socioeconomic disadvantage characterized by reduced access to material and social resources.",
+    "children": [],
+    "paper_ids": [
+      "38950943"
+    ],
+    "source_passages": [
+      "Deprivation quintile, WIMD, n (%): 1 (most deprived) 18 069 (19.6) [clinical cohort]; 5064 (18.9) [prophylaxis cohort]. The two cohorts were similar in terms of ethnic group and deprivation (Table 1)."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline alcohol use",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: behavioral exposure. Description: Alcohol consumption status or pattern at baseline.",
+    "children": [],
+    "paper_ids": [
+      "38950943"
+    ],
+    "source_passages": [
+      "Alcohol status, n (%): Non-drinker 32 996 (35.8); Current drinker 43 611 (47.3); Excess drinker 2419 (2.6) [clinical cohort]."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "frailty",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: geriatric syndrome. Description: State of reduced physiologic reserve and increased vulnerability to stressors.",
+    "children": [],
+    "paper_ids": [
+      "38950943"
+    ],
+    "source_passages": [
+      "Frailty score via electronic frailty index, n (%): Fit 40 300 (43.7); Mild frailty 30 793 (33.4); Moderate frailty 14 742 (16.0); Severe frailty 6378 (6.9) [clinical cohort]. Most women with rUTIs were fit or had mild frailty according to the electronic frailty index, whereas for prophylactic antibiotic users all levels of frailty were higher (Table 1)."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline UTI-related care setting",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: care setting variable. Description: Healthcare setting associated with UTI-related care at baseline, such as outpatient, emergency, hospital, or long-term care.",
+    "children": [],
+    "paper_ids": [
+      "38950943"
+    ],
+    "source_passages": [
+      "Diagnosis location of UTIs contributing to recurrent UTI diagnosis, n (%): General practice 76 233 (82.7); Hospital 5490 (6.0); Both 10 490 (11.4) [clinical cohort]."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline time between recurrent UTI diagnosis and prophylactic antibiotic initiation",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: temporal variable. Description: Interval between recognition of recurrent UTI and start of prophylactic antibiotic therapy.",
+    "children": [],
+    "paper_ids": [
+      "38950943"
+    ],
+    "source_passages": [
+      "Of these, 39.1% (n = 5139/N = 13 149) started prophylactic antibiotics within 3 months of meeting the rUTI definition. For those who did, time between meeting the rUTI definition and starting prophylactic antibiotics was calculated."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline prophylactic antibiotic dose consistency",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: treatment pattern variable. Description: Consistency or stability of the prophylactic antibiotic dosing regimen at baseline.",
+    "children": [],
+    "paper_ids": [
+      "38950943"
+    ],
+    "source_passages": [
+      "Sensitivity analyses were conducted first restricting prophylactic antibiotic use to women on a consistent dose of antibiotics over consecutive prescriptions and secondly the definition used in this study for acute UTIs was adjusted to describe the proportion of women with rUTIs before starting prophylaxis to assess their impact on the estimates."
+    ],
+    "frequency": 1
+  },
+  {
+    "variable": "baseline diagnosis of chronic disease",
+    "roles": [
+      "covariate"
+    ],
+    "knowledge_card": "Type: disease category. Description: Presence at baseline of one or more chronic long-term medical conditions. This is an umbrella comorbidity category containing specific chronic diseases such as diabetes or chronic kidney disease.",
+    "children": [
+      "diagnosis of pre-diabetes"
+    ],
+    "paper_ids": [
+      "37528415"
+    ],
+    "source_passages": [
+      "To emulate randomization, we used propensity score (PS) matching by including variables such as age, whether patient had presence of chronic diseases such as diabetes, pre-diabetes or chronic kidney disease, and availability and results of urine cultures. Presence of diabetes, pre-diabetes or CKD, n (%) 183 (5.7) 133 (5.9) 50 (5.3) 99 (4.8) 50 (5.3)"
+    ],
+    "frequency": 1
+  }
+]

@@ -1,0 +1,15 @@
+# Secrets (API keys) — never commit
+.env
+.env*
+*_backup*
+
+# Generated outputs
+logs/
+test_results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
